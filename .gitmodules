@@ -1,0 +1,9 @@
+[submodule "hellen-one"]
+	path = hellen-one
+	url = https://github.com/andreika-git/hellen-one
+[submodule "kicad6-libraries"]
+	path = kicad6-libraries
+	url = https://github.com/rusefi/kicad6-libraries
+[submodule "alphax-2chan"]
+	path = alphax-2chan
+	url = https://github.com/rusefi/alphax-2chan/
