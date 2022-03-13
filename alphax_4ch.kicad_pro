@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.5,
-          "height": 2.3,
-          "width": 2.5
+          "drill": 3.5,
+          "height": 6.0,
+          "width": 6.0
         },
         "silk_line_width": 0.25,
         "silk_text_italic": false,
@@ -430,7 +430,7 @@
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.6,
+        "clearance": 0.4,
         "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2032,
@@ -441,6 +441,8 @@
         "nets": [
           "/C2",
           "/C3",
+          "/IN_CAM_VR+",
+          "/IN_CAM_VR-",
           "/IN_CRANK+",
           "/IN_CRANK-"
         ],
