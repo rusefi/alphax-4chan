@@ -1,4 +1,4 @@
-20020075550721786
+19940127061580422
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84896,450 +84896,107 @@ wbo
 34
 21
 rusefi_lib
-8-1393476-0
+18_pin
 
 
 0
-82
-82
+18
+18
 rusefi_lib
-55pin_china_bosch_motronic
+128PINs_Mercedes
 
 
 0
-55
-55
+128
+128
 rusefi_lib
-64333-0100_1
-64333-0100
+FUSE_8.5x4
+FUSE_8.5x4
+Fuse
+0
+2
+2
+rusefi_lib
+MPX-4_MAP
+
+
+0
+16
+7
+rusefi_lib
+MPX_SOP_SSOP
+
+
+0
+16
+8
+rusefi_lib
+Molex_367831201
+
+
+0
+12
+12
+rusefi_lib
+TE-3-178780-6
+
+
+0
+76
+76
+rusefi_lib
+TE_7-967288-1
+7-967288-1
 Connector
 0
-117
-117
+138
+138
 rusefi_lib
-172319-1_connector
-172319-1_connector
-
-0
-52
-52
-rusefi_lib
-174917
+TE_179686-6_104pin_Connector
 
 
 0
-51
-48
+104
+104
 rusefi_lib
-176122-6_2nd
-
-
-0
-68
-64
-rusefi_lib
-284617-1
-
-
-0
-159
-154
-rusefi_lib
-368255-2
+TE_368255-2
 
 
 0
 126
 121
 rusefi_lib
-825213-1
+TE_1318612-1
+1318612-1-3
+Connector
+0
+128
+128
+rusefi_lib
+USB_B_Vertical
+
+5787834
+0
+6
+5
+rusefi_lib
+dj7811-1
 
 
 0
-37
-37
-rusefi_lib
-963356-1
-963356-1
-
-0
-68
-68
-rusefi_lib
-966595-1
-966595-1
-
-0
-68
-68
-rusefi_lib
-1123038-2
-
-
-0
-74
-72
-rusefi_lib
-744710610-Inductor
-744710610
-744710610
-0
-2
-2
-rusefi_lib
-AMPSEAL_35_COMBINED
-
-776163 776180 1-776163 1-776180 776230 776231 1-776230 1-776231
-0
-35
-35
-rusefi_lib
-AMPSEAL_35_RIGHT_ANGLE
-
-776163 776180 1-776163 1-776180
-0
-35
-35
-rusefi_lib
-AMPSEAL_35_STRAIGHT
-
-776230 776231 1-776230 1-776231
-0
-35
-35
-rusefi_lib
-BATT_CR2032_MPD
-
-
-0
-2
-2
-rusefi_lib
-BATT_CR2032_MPD_CR2032-BS-6-1
-
-
-0
-2
-2
-rusefi_lib
-BOSCH-88pin
-
-
-0
-88
-88
-rusefi_lib
-Blank
-blank
-blank
-0
-0
-0
-rusefi_lib
-C_0805
-Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)
-capacitor 0805
-0
-2
-2
-rusefi_lib
-DISPLAY_4x20_BL
-Connecteur 16 pins
-CONN DEV
-0
-23
-16
-rusefi_lib
-DPAK2
-MOS boitier DPACK G-D-S
-CMD DPACK
-0
-3
-3
-rusefi_lib
-D_0805
-Diode SMD in 0805 package
-smd diode
-0
-2
-2
-rusefi_lib
-HC-18U
-Quartz boitier HC-49 Vertical
-QUARTZ DEV
-0
-2
-2
-rusefi_lib
-HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown_ThermalVias
-HSOP 11.0x15.9mm Pitch 1.27mm Slug Down Thermal Vias (PowerSO-20) [JEDEC MO-166] (http://www.st.com/resource/en/datasheet/tda7266d.pdf, www.st.com/resource/en/application_note/cd00003801.pdf)
-HSOP 11.0 x 15.9mm Pitch 1.27mm
-0
-45
-21
-rusefi_lib
-HTQFP-64-1EP_10x10mm_Pitch0.5mm_ThermalPad_for_MC33816
-64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [HTQFP] thermal pad
-HTQFP-64 Pitch 0.5_for_MC33816_Slug
-0
-102
-65
-rusefi_lib
-IHLP6767GZER100M01
-IHLP6767GZER100M01
-IHLP6767GZER100M01
-0
-2
-2
-rusefi_lib
-ITEAD_HC-05
-Itead HC-05/HC-06 serial Bluetooth module
-
-0
-34
-34
-rusefi_lib
-JLC_PCB_TAG
-
-
-0
-0
-0
-rusefi_lib
-KeyStone_3557
-
-
-0
-2
-1
-rusefi_lib
-LED-0805_A
-LED 0805 smd
-LED 0805 SMD
-0
-2
-2
-rusefi_lib
-LOGO
-
-
-0
-0
-0
-rusefi_lib
-LOGO_F
-
-
-0
-0
-0
-rusefi_lib
-LQFP-80_12x12mm_Pitch0.5mmThermal
-LQFP80: plastic low profile quad flat package; 80 leads; body 12 x 12 x 1.4 mm (see NXP sot315-1_po.pdf and sot315-1_fr.pdf)
-QFP 0.5
-0
-131
+81
 81
 rusefi_lib
-MICRO-SDCARD-CONNECTOR-3300060P1
-MICRO-SDCARD-CONNECTOR-3300060P1
-MICRO SD MEMORY CARD MMC
+proteus
+
+
 0
-15
-13
+93
+93
 rusefi_lib
-MINI-USB_RCTP_V-T_B
-OPL
-USB MINI 5 SMD-1
-0
-8
-6
-rusefi_lib
-MINI-USB_RCTP_V-T_B_and_HW-MU-5F-23
-OPL
-USB MINI 5 SMD-1
-0
-10
-6
-rusefi_lib
-MPX-4_MAP
-
-
-0
-8
-6
-rusefi_lib
-MRE_QR_code
+rusefi_logo
 
 
 0
 0
 0
-rusefi_lib
-MX7-C-35PL-C11
-
-
-0
-37
-35
-rusefi_lib
-Molex_48
-Through hole straight socket strip, 2x10, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x10 2.54mm double row
-0
-52
-48
-rusefi_lib
-Molex_48_MRE
-Through hole straight socket strip, 2x10, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x10 2.54mm double row
-0
-110
-106
-rusefi_lib
-Molex_48_MRE_with-extras
-Through hole straight socket strip, 2x10, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x10 2.54mm double row
-0
-91
-87
-rusefi_lib
-Off_Road_Disclaimer
-
-
-0
-0
-0
-rusefi_lib
-PG-DSO-20-88
-
-
-0
-22
-21
-rusefi_lib
-PG-DSO-36-72
-
-
-0
-57
-37
-rusefi_lib
-PIN_ARRAY_25x2_A
-2 x 25 pins connector
-CONN 25
-0
-50
-50
-rusefi_lib
-Pololu_md09c
-
-
-0
-16
-16
-rusefi_lib
-Pololu_md32a
-
-
-0
-18
-18
-rusefi_lib
-Proteus_PNP_footprint
-
-
-0
-116
-114
-rusefi_lib
-R_0805
-Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)
-resistor 0805
-0
-2
-2
-rusefi_lib
-SD_PCB_Module_Generic
-SD_PCB_Module_Generic
-SD_PCB_Module_Generic
-0
-6
-6
-rusefi_lib
-SM0805-diode
-
-
-0
-2
-2
-rusefi_lib
-SM0805_jumper
-
-
-0
-6
-2
-rusefi_lib
-SO8E_ST
-
-S08E
-0
-8
-3
-rusefi_lib
-ST_Morpho_Connector_144_STLink
-ST Morpho Connector 144 With STLink
-ST Morpho Connector 144 STLink
-0
-148
-148
-rusefi_lib
-TE_776266-1
-
-
-0
-14
-14
-rusefi_lib
-TL-1105
-
-button
-0
-4
-2
-rusefi_lib
-TSOP-6
-
-TSOP-6
-0
-6
-6
-rusefi_lib
-eeciv
-
-
-0
-60
-60
-rusefi_lib
-eecv
-
-
-0
-107
-104
-rusefi_lib
-joystick_SKRHAAE010
-
-
-0
-10
-7
-rusefi_lib
-tcpl_PCC-SMP
-
-
-0
-4
-3
