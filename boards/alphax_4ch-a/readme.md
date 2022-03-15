@@ -1,3 +1,3 @@
-2 layers
+4 layers
 
 97 x 115 mm
