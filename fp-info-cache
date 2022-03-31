@@ -1,4 +1,4 @@
-19943419011468559
+19941777805426182
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84524,20 +84524,6 @@ alphax_qr_code_big
 0
 0
 0
-alphax-4ch
-alphax4_qr_code
-
-
-0
-0
-0
-alphax-4ch
-alphax4_qr_code_big
-
-
-0
-0
-0
 hellen-one-can-0.1
 can
 
@@ -84664,6 +84650,13 @@ DSO DSO-8 SOIC SOIC-8
 0
 12
 9
+hellen-one-common
+PG-TSON-10-2
+TSON-10, 10 Pin (https://www.infineon.com/cms/en/product/packages/PG-TSON/PG-TSON-10-2/)
+TSON-10 NoLead
+0
+18
+11
 hellen-one-common
 PROTO_AREA
 
