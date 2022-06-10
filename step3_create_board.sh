@@ -6,4 +6,4 @@ if [ ! -f hellen-one/git_scripts ]; then
 fi
 
 cd hellen-one
-sh bin/create_board_with_prefix.sh "alphax_" ".." "4ch" "b" "bom_replace_alphax-4ch-b.csv " "0,0"
+sh bin/create_board_with_prefix.sh "alphax_" ".." "4ch" "c" "bom_replace_alphax-4ch-c.csv " "0,0"

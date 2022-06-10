@@ -6,6 +6,6 @@ if [ ! -f hellen-one/git_scripts ]; then
 fi
 
 cd hellen-one
-python3 ./bin/copy_from_Kicad.py "frames:alphax_" ".." "../../gerber" "4ch" "b"
+python3 ./bin/copy_from_Kicad.py "frames:alphax_" ".." "../../gerber" "4ch" "c"
 
 echo "Done!"
