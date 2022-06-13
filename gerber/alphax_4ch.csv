@@ -235,6 +235,8 @@
 "Jumper-Pad-Pad","R91","hellen-one-common:PAD-0805-PAD"," C17477"
 "4.7k","R92","hellen-one-common:R0603","C23162"
 "4.7k","R93","hellen-one-common:R0603","C23162"
+"510k","R94","hellen-one-common:R0603","C23192"
+"510k","R95","hellen-one-common:R0603","C23192"
 "Button_SPST","S1","hellen-one-common:SMD-2_2.9x3.9x1.7","C115357"
 "Button_SPST","S2","hellen-one-common:SMD-2_2.9x3.9x1.7","C115357"
 "TLS115","U1","hellen-one-common:PG-DSO-8-43","C540242"
