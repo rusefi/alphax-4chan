@@ -235,6 +235,8 @@ Comment,Designator,Footprint,LCSC Part #
 "Jumper-Pad-Pad","R91","PAD-0805-PAD"," C17477"
 "4.7k","R92","R0603","C23162"
 "4.7k","R93","R0603","C23162"
+"510k","R94","R0603","C23192"
+"510k","R95","R0603","C23192"
 "Button_SPST","S1","SMD-2_2.9x3.9x1.7","C115357"
 "Button_SPST","S2","SMD-2_2.9x3.9x1.7","C115357"
 "TLS115","U1","PG-DSO-8-43","C540242"
