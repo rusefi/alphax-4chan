@@ -1,6 +1,8 @@
 # AlphaX 4 channel
 
-https://www.alphaxpr.com/ powerted by [rusEFI](https://github.com/rusefi/rusefi)
+[buy at https://www.alphaxpr.com/](https://alphaxpr.com/product/4chan-neo/)
+
+powerted by [rusEFI](https://github.com/rusefi/rusefi)
 
 48 pin / 4 channel ECU
 
