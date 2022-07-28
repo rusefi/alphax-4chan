@@ -12,4 +12,5 @@ powerted by [rusEFI](https://github.com/rusefi/rusefi)
 
 Designed using [KiCAD](https://www.kicad.org/). Powered by [Hellen One](https://github.com/andreika-git/hellen-one) and [rusEFI](https://github.com/rusefi/rusefi)
 
-Smaller sibling of [8chan](https://github.com/rusefi/alphax-8chan)
+Larger sibling of [alphax-2chan](https://github.com/rusefi/alphax-2chan)
+Smaller sibling of [alphax-8chan](https://github.com/rusefi/alphax-8chan)
