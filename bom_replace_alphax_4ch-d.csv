@@ -40,8 +40,7 @@ S2,"TS-1088R-02026","SMD-2_2.9x3.9x1.7","C455280"
 L420,"NLV32T-2R2J-PF","L1210","C89016"
 "R4,R49","4D03WGF1001T5E","R0603-4","C425239"
 # trigger schmidt buffer
-U2,"74HC2G17GW","SOT-363","C94189"
-U5,"74HC2G17GW","SOT-363","C94189"
+"U2,U5","74LVC2G17GW","SOT-363","C80500"
 # analog switches for VR-discrete
 "U755, U756, U755_2, U756_2","WAS3157B-6","SOT-363","C213161"
 "U754, U754_2","TLV3202AIDR","SO8","C129325"
@@ -63,8 +62,6 @@ Q30,"VND14NV04TR-E","DPAK","C2649436"
 
 # remove R40 because we'll populate TLS115
 R40,
-# no TLS115
-U1,"TLS115","PG-DSO-8-43",""
 # no Cortex 5x2 header
 J2,"Cortex_Debug","PinHeader_2x05_P1.27mm_Vertical_SMD",""
 # no MAP sensor

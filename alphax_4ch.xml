@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>G:\rusefi\alphax-4chan\alphax_4ch.kicad_sch</source>
-    <date>23/07/2022 16:35:33</date>
+    <date>29/07/2022 10:47:49</date>
     <tool>Eeschema (6.0.1)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>AlphaECU 4chan powered by rusEFI</title>
         <company>rusEFI</company>
         <rev>D</rev>
-        <date>2022-07-23</date>
+        <date>2022-07-29</date>
         <source>alphax_4ch.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -988,6 +988,48 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>03d704c5-d6b7-46ee-a817-bca44074dbdf</tstamps>
     </comp>
+    <comp ref="D57">
+      <value>BAT54S</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds11005.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C408389</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54S" description="schottky barrier diode"/>
+      <property name="LCSC" value="C408389"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>051fdfdb-a29b-4951-825a-0fb35e015e4d</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>BAT54S</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds11005.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C408389</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54S" description="schottky barrier diode"/>
+      <property name="LCSC" value="C408389"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad5e84db-e261-4cd0-80e0-c51c98437e20</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>BAT54S</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds11005.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C408389</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54S" description="schottky barrier diode"/>
+      <property name="LCSC" value="C408389"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4878030-bc05-4703-a361-50d10cac64ac</tstamps>
+    </comp>
     <comp ref="F1">
       <value>nSMD005</value>
       <footprint>hellen-one-common:PAD-1206-PAD</footprint>
@@ -1299,7 +1341,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>55b40ec7-180b-4cdb-a45d-769423e8b51b 2491bc1e-e5b1-4fb8-a6b1-0e8865d2abd0 ef04da57-4b19-4699-a300-a7c31972f660 0437e834-c13e-424a-9ad2-040b8ce9ed1d</tstamps>
+      <tstamps>ef04da57-4b19-4699-a300-a7c31972f660 55b40ec7-180b-4cdb-a45d-769423e8b51b 2491bc1e-e5b1-4fb8-a6b1-0e8865d2abd0 0437e834-c13e-424a-9ad2-040b8ce9ed1d</tstamps>
     </comp>
     <comp ref="M6">
       <value>Module-mcu144-0.6</value>
@@ -1308,7 +1350,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>a7d95f89-5755-415c-ab05-3cba0bcc1e6a 915d735b-9683-4d94-8b0d-1fa27ebac489 a6bf355d-1d5f-4e79-8e3f-45e3bddf3ceb 5f1c7f30-e456-4e5e-847b-c87579bb1a4c</tstamps>
+      <tstamps>a6bf355d-1d5f-4e79-8e3f-45e3bddf3ceb 915d735b-9683-4d94-8b0d-1fa27ebac489 a7d95f89-5755-415c-ab05-3cba0bcc1e6a 5f1c7f30-e456-4e5e-847b-c87579bb1a4c</tstamps>
     </comp>
     <comp ref="M7">
       <value>Module-can-0.1</value>
@@ -3124,14 +3166,14 @@
     </comp>
     <comp ref="U1">
       <value>TLS115</value>
-      <footprint>hellen-one-common:PG-DSO-8-43</footprint>
+      <footprint>hellen-one-common:PG-TSON-10-2</footprint>
       <fields>
-        <field name="LCSC">C540242</field>
-        <field name="PN">TLS115D0EJXUMA1</field>
+        <field name="LCSC">C9900011264</field>
+        <field name="PN">TLS115D0LDXUMA1</field>
       </fields>
       <libsource lib="hellen-one-common" part="TLS115" description=""/>
-      <property name="PN" value="TLS115D0EJXUMA1"/>
-      <property name="LCSC" value="C540242"/>
+      <property name="PN" value="TLS115D0LDXUMA1"/>
+      <property name="LCSC" value="C9900011264"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3671,6 +3713,24 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="Diode" part="BAT54S">
+      <description>schottky barrier diode</description>
+      <docs>https://www.diodes.com/assets/Datasheets/ds11005.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAT54S</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/ds11005.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="JDY-33" part="JDY-33">
       <fields>
         <field name="Reference">U</field>
@@ -3968,23 +4028,25 @@
     <libpart lib="hellen-one-common" part="TLS115">
       <docs>~</docs>
       <fields>
-        <field name="Reference">U</field>
+        <field name="Reference">U1</field>
         <field name="Value">TLS115</field>
-        <field name="Footprint">hellen-one-common:PG-DSO-8-43</field>
+        <field name="Footprint">hellen-one-common:PG-TSON-10-2</field>
         <field name="Datasheet">~</field>
-        <field name="PN">TLS115D0EJXUMA1</field>
-        <field name="LCSC">C540242</field>
+        <field name="PN">TLS115D0LDXUMA1</field>
+        <field name="LCSC">C9900011264</field>
       </fields>
       <pins>
         <pin num="1" name="OUT" type="output"/>
         <pin num="2" name="" type="no_connect"/>
         <pin num="3" name="GND" type="power_in"/>
-        <pin num="4" name="PG" type="open_collector"/>
-        <pin num="5" name="ADJ" type="input"/>
-        <pin num="6" name="" type="no_connect"/>
-        <pin num="7" name="EN" type="input"/>
-        <pin num="8" name="IN" type="power_in"/>
-        <pin num="9" name="GND" type="power_in"/>
+        <pin num="4" name="" type="no_connect"/>
+        <pin num="5" name="PG" type="open_collector"/>
+        <pin num="6" name="ADJ" type="input"/>
+        <pin num="7" name="" type="no_connect"/>
+        <pin num="8" name="EN" type="input"/>
+        <pin num="9" name="" type="no_connect"/>
+        <pin num="10" name="IN" type="power_in"/>
+        <pin num="11" name="GND" type="power_in"/>
       </pins>
     </libpart>
     <libpart lib="hellen-one-common" part="USB_B_Mini">
@@ -4263,6 +4325,9 @@
     <library logical="Device">
       <uri>S:\RADIO\bin\KiCad6\share\kicad\symbols\/Device.kicad_sym</uri>
     </library>
+    <library logical="Diode">
+      <uri>S:\RADIO\bin\KiCad6\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
     <library logical="JDY-33">
       <uri>G:\rusefi\alphax-4chan/alphax-2chan/JDY-33.kicad_sym</uri>
     </library>
@@ -4315,6 +4380,9 @@
     <net code="3" name="+5V">
       <node ref="C5" pin="2" pintype="passive"/>
       <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D57" pin="2" pintype="passive"/>
+      <node ref="D58" pin="2" pintype="passive"/>
+      <node ref="D59" pin="2" pintype="passive"/>
       <node ref="M1" pin="E1" pinfunction="V5" pintype="passive"/>
       <node ref="M2" pin="V2" pinfunction="V5" pintype="passive"/>
       <node ref="M3" pin="E4" pinfunction="V5_IN" pintype="passive"/>
@@ -4330,7 +4398,7 @@
       <node ref="R46" pin="2" pintype="passive"/>
       <node ref="R50" pin="1" pintype="passive"/>
       <node ref="R50" pin="2" pintype="passive"/>
-      <node ref="U1" pin="5" pinfunction="ADJ" pintype="input"/>
+      <node ref="U1" pin="6" pinfunction="ADJ" pintype="input"/>
       <node ref="U2" pin="5" pinfunction="VCC" pintype="power_in"/>
       <node ref="U5" pin="5" pinfunction="VCC" pintype="power_in"/>
     </net>
@@ -4383,7 +4451,7 @@
       <node ref="R51" pin="2" pintype="passive"/>
       <node ref="R51" pin="3" pintype="passive"/>
       <node ref="R51" pin="4" pintype="passive"/>
-      <node ref="U1" pin="8" pinfunction="IN" pintype="power_in"/>
+      <node ref="U1" pin="10" pinfunction="IN" pintype="power_in"/>
     </net>
     <net code="8" name="+12V_ETB">
       <node ref="C10" pin="1" pintype="passive"/>
@@ -5102,7 +5170,7 @@
       <node ref="M6" pin="E6" pinfunction="OUT_IO3" pintype="passive"/>
       <node ref="Q19" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R38" pin="1" pintype="passive"/>
-      <node ref="U1" pin="7" pinfunction="EN" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="EN" pintype="input"/>
     </net>
     <net code="155" name="/SD_CS">
       <node ref="J9" pin="5" pinfunction="CLK" pintype="input"/>
@@ -5159,7 +5227,7 @@
     <net code="167" name="/TLS115_PG">
       <node ref="M6" pin="S4" pinfunction="IN_D2" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
-      <node ref="U1" pin="4" pinfunction="PG" pintype="open_collector"/>
+      <node ref="U1" pin="5" pinfunction="PG" pintype="open_collector"/>
     </net>
     <net code="168" name="/TPS1">
       <node ref="M5" pin="N17" pinfunction="TPS" pintype="passive"/>
@@ -5241,6 +5309,9 @@
       <node ref="C9" pin="2" pintype="passive"/>
       <node ref="D49" pin="2" pintype="passive"/>
       <node ref="D55" pin="3" pintype="passive"/>
+      <node ref="D57" pin="1" pintype="passive"/>
+      <node ref="D58" pin="1" pintype="passive"/>
+      <node ref="D59" pin="1" pintype="passive"/>
       <node ref="J1" pin="5" pinfunction="GND" pintype="power_out"/>
       <node ref="J1" pin="6" pinfunction="Shield" pintype="passive"/>
       <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
@@ -5328,8 +5399,8 @@
       <node ref="R94" pin="2" pintype="passive"/>
       <node ref="R95" pin="2" pintype="passive"/>
       <node ref="S1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="GND" pintype="power_in"/>
       <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="9" pinfunction="GND" pintype="power_in"/>
       <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
       <node ref="U3" pin="3" pinfunction="GND" pintype="passive"/>
       <node ref="U4" pin="13" pinfunction="GND" pintype="power_in"/>
@@ -5363,19 +5434,19 @@
       <node ref="R50" pin="7" pintype="passive"/>
       <node ref="R50" pin="8" pintype="passive"/>
     </net>
-    <net code="185" name="Net-(D2-Pad1)">
+    <net code="185" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="186" name="Net-(D2-Pad1)">
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D31" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R2" pin="6" pintype="passive"/>
     </net>
-    <net code="186" name="Net-(D3-Pad1)">
+    <net code="187" name="Net-(D3-Pad1)">
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D32" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R2" pin="5" pintype="passive"/>
-    </net>
-    <net code="187" name="Net-(D9-Pad1)">
-      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D9" pin="1" pinfunction="A" pintype="passive"/>
     </net>
     <net code="188" name="Net-(D10-Pad1)">
       <node ref="D10" pin="1" pinfunction="A" pintype="passive"/>
@@ -5627,6 +5698,7 @@
       <node ref="R24" pin="2" pintype="passive"/>
     </net>
     <net code="242" name="Net-(R24-Pad1)">
+      <node ref="D57" pin="3" pintype="passive"/>
       <node ref="R24" pin="1" pintype="passive"/>
       <node ref="U2" pin="1" pintype="input"/>
     </net>
@@ -5639,6 +5711,7 @@
       <node ref="R37" pin="2" pintype="passive"/>
     </net>
     <net code="245" name="Net-(R37-Pad1)">
+      <node ref="D58" pin="3" pintype="passive"/>
       <node ref="R37" pin="1" pintype="passive"/>
       <node ref="U2" pin="3" pintype="input"/>
     </net>
@@ -5647,6 +5720,7 @@
       <node ref="R73" pin="2" pintype="passive"/>
     </net>
     <net code="247" name="Net-(R73-Pad1)">
+      <node ref="D59" pin="3" pintype="passive"/>
       <node ref="R73" pin="1" pintype="passive"/>
       <node ref="U5" pin="1" pintype="input"/>
     </net>
@@ -5840,34 +5914,40 @@
     <net code="310" name="unconnected-(U1-Pad2)">
       <node ref="U1" pin="2" pintype="no_connect"/>
     </net>
-    <net code="311" name="unconnected-(U1-Pad6)">
-      <node ref="U1" pin="6" pintype="no_connect"/>
+    <net code="311" name="unconnected-(U1-Pad4)">
+      <node ref="U1" pin="4" pintype="no_connect"/>
     </net>
-    <net code="312" name="unconnected-(U3-Pad1)">
+    <net code="312" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pintype="no_connect"/>
+    </net>
+    <net code="313" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pintype="no_connect"/>
+    </net>
+    <net code="314" name="unconnected-(U3-Pad1)">
       <node ref="U3" pin="1" pintype="passive+no_connect"/>
     </net>
-    <net code="313" name="unconnected-(U3-Pad5)">
+    <net code="315" name="unconnected-(U3-Pad5)">
       <node ref="U3" pin="5" pintype="passive+no_connect"/>
     </net>
-    <net code="314" name="unconnected-(U3-Pad6)">
+    <net code="316" name="unconnected-(U3-Pad6)">
       <node ref="U3" pin="6" pintype="passive+no_connect"/>
     </net>
-    <net code="315" name="unconnected-(U3-Pad7)">
+    <net code="317" name="unconnected-(U3-Pad7)">
       <node ref="U3" pin="7" pintype="passive+no_connect"/>
     </net>
-    <net code="316" name="unconnected-(U3-Pad8)">
+    <net code="318" name="unconnected-(U3-Pad8)">
       <node ref="U3" pin="8" pintype="passive+no_connect"/>
     </net>
-    <net code="317" name="unconnected-(U4-Pad5)">
+    <net code="319" name="unconnected-(U4-Pad5)">
       <node ref="U4" pin="5" pinfunction="IO1" pintype="passive+no_connect"/>
     </net>
-    <net code="318" name="unconnected-(U4-Pad6)">
+    <net code="320" name="unconnected-(U4-Pad6)">
       <node ref="U4" pin="6" pinfunction="IO2" pintype="passive+no_connect"/>
     </net>
-    <net code="319" name="unconnected-(U5-Pad4)">
+    <net code="321" name="unconnected-(U5-Pad4)">
       <node ref="U5" pin="4" pintype="output+no_connect"/>
     </net>
-    <net code="320" name="unconnected-(U6-Pad3)">
+    <net code="322" name="unconnected-(U6-Pad3)">
       <node ref="U6" pin="3" pinfunction="SO" pintype="passive+no_connect"/>
     </net>
   </nets>
