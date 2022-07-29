@@ -1,4 +1,7 @@
 Designator,Mid X,Mid Y,Layer,Rotation
+D57,1.89mm,44.85mm,Bottom,90.0
+D58,1.89mm,48.85mm,Bottom,90.0
+D59,17.43mm,43.24mm,Bottom,270.0
 G2,4.45mm,31.55mm,Bottom,90.0
 G3,5.107713mm,19.855349mm,Bottom,90.0
 J9,72.32mm,8.11mm,Bottom,270.0
@@ -223,7 +226,7 @@ R94,32.15mm,81.0mm,Top,270.0
 R95,34.05mm,81.0mm,Top,270.0
 S1,62.45mm,1.85mm,Top,180.0
 S2,62.5mm,6.5mm,Top,180.0
-U1,62.55mm,86.05mm,Top,90.0
+U1,62.55mm,86.14mm,Top,90.0
 U2,1.8mm,42.25001mm,Top,270.0
 U3,72.8mm,4.15mm,Top,0.0
 U4,16.35mm,14.1mm,Top,180.0
