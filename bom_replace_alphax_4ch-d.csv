@@ -56,6 +56,9 @@ Q28,"VND14NV04TR-E","DPAK","C2649436"
 Q29,"VND14NV04TR-E","DPAK","C2649436"
 Q30,"VND14NV04TR-E","DPAK","C2649436"
 
+# no TLE9201SG
+U6,"IFX9201SG","Infineon_PG-DSO-12-11","C112633"
+
 # use cheaper components
 "Q1, Q2, Q10, Q11, Q12, Q15, Q19, Q20, Q21, Q24, Q25, Q27, Q33, Q34, Q35, Q36","AO3400A","SOT-23","C700953"
 "Q3, Q4, Q5, Q13, Q14, Q16, Q17, Q18, Q31, Q32","AO3401A","SOT-23","C700954"
@@ -66,7 +69,5 @@ R40,
 J2,"Cortex_Debug","PinHeader_2x05_P1.27mm_Vertical_SMD",""
 # no MAP sensor
 U3,"MPXH6400A","MPXH6400A-SSOP8",""
-# no TLE9201SG
-U6,"TLE9201SG","Infineon_PG-DSO-12-11",""
 
 #include board_id_alpha4ch-d.csv 
