@@ -6,8 +6,8 @@
 
   (title_block
     (title "AlphaECU 4chan powered by rusEFI")
-    (date "2022-07-29")
-    (rev "D")
+    (date "2022-08-21")
+    (rev "E")
     (company "rusEFI")
     (comment 7 "http://rusefi.com/s/alphax4ch")
   )
@@ -16390,7 +16390,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1e44cb07-5186-424c-b5c0-2e2f59e52b37)
   )
-  (label "SD_CS" (at 506.73 219.71 0)
+  (label "SD_CS" (at 506.73 212.09 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1ee3d597-57b4-4969-817c-074793d3cef2)
   )
@@ -17054,7 +17054,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 9b58c477-e44a-4735-9169-78708530570b)
   )
-  (label "SD_SCK" (at 506.73 212.09 0)
+  (label "SD_SCK" (at 506.73 219.71 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9b64de47-7748-4a9a-aee2-97c67f552e2f)
   )
