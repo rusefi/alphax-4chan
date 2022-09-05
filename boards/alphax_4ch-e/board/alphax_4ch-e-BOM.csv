@@ -27,6 +27,8 @@ Comment,Designator,Footprint,LCSC Part #
 "Conn_01x01","J7","MountingHole_4.5mm_Pad",""
 "Conn_01x01","J8","MountingHole_4.5mm_Pad",""
 "Micro_SD_Card","J9","microSD_HC_Wuerth_693072010801","C164170"
+"Conn_01x01","J10","TestPoint_Pad_D2.0mm",""
+"Conn_01x01","J11","TestPoint_Pad_D2.0mm",""
 "33311-24AW-2","P1","33311-24AW-2",""
 "33311-24AW-2","P2","33311-24AW-2",""
 "4.7k","R1, R2, R5, R25, R26, R27, R28, R50, R51, R78, R83, R84, R200, R201, R202, R203, R204, R205, R207","R0603-4","C1980"
