@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>G:\rusefi\alphax-4chan\alphax_4ch.kicad_sch</source>
-    <date>21/08/2022 23:28:09</date>
+    <date>05/09/2022 21:30:22</date>
     <tool>Eeschema (6.0.1)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>AlphaECU 4chan powered by rusEFI</title>
         <company>rusEFI</company>
         <rev>E</rev>
-        <date>2022-08-21</date>
+        <date>2022-09-05</date>
         <source>alphax_4ch.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -1297,6 +1297,24 @@
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4e014d70-e6a8-4a29-a8a9-84f25e67eba5</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x01</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a1b9761-b99d-45be-a065-b90f76ff7b92</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_01x01</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec6fd702-be7d-4727-b414-2cd56ebf615a</tstamps>
     </comp>
     <comp ref="M1">
       <value>Module-power12-0.2</value>
@@ -4895,6 +4913,7 @@
     <net code="102" name="/IN_CAM_HALL">
       <node ref="D11" pin="2" pinfunction="K" pintype="passive"/>
       <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="M5" pin="S5" pinfunction="IN_CAM" pintype="passive"/>
       <node ref="R44" pin="1" pintype="passive"/>
       <node ref="R7" pin="1" pinfunction="1" pintype="passive"/>
@@ -4921,6 +4940,7 @@
     </net>
     <net code="107" name="/IN_CRANK">
       <node ref="D10" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="M5" pin="S8" pinfunction="IN_CRANK" pintype="passive"/>
       <node ref="M8" pin="E3" pinfunction="OUT" pintype="passive"/>
     </net>

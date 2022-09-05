@@ -100,6 +100,8 @@
 "Conn_01x01","J7","MountingHole:MountingHole_4.5mm_Pad",""
 "Conn_01x01","J8","MountingHole:MountingHole_4.5mm_Pad",""
 "Micro_SD_Card","J9","Connector_Card:microSD_HC_Wuerth_693072010801","C164170"
+"Conn_01x01","J10","TestPoint:TestPoint_Pad_D2.0mm",""
+"Conn_01x01","J11","TestPoint:TestPoint_Pad_D2.0mm",""
 "Module-power12-0.2","M1","hellen-one-power12-0.2:power12",""
 "Module-power5-0.2","M2","hellen-one-power5-0.2:power5",""
 "Module-vr-discrete-0.1","M3","hellen-one-vr-discrete-0.1:vr-discrete",""
