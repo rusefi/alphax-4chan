@@ -70,4 +70,4 @@ J2,"Cortex_Debug","PinHeader_2x05_P1.27mm_Vertical_SMD",""
 # no MAP sensor
 U3,"MPXH6400A","MPXH6400A-SSOP8",""
 
-#include hellen-one/board_id/generated/board_id_alpha4ch-e.csv
+#include hellen-one/board_id/generated/board_id_alpha4ch-f.csv
