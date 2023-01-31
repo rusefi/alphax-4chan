@@ -18,4 +18,5 @@
   (lib (name "33311-24AW-2")(type "KiCad")(uri "${KIPRJMOD}/alphax-2chan/33311-24AW-2.kicad_sym")(options "")(descr ""))
   (lib (name "alphax")(type "KiCad")(uri "${KIPRJMOD}/alphax-2chan/alphax.kicad_sym")(options "")(descr ""))
   (lib (name "JDY-33")(type "KiCad")(uri "${KIPRJMOD}/alphax-2chan/JDY-33.kicad_sym")(options "")(descr ""))
+  (lib (name "hellen-one-knock-0.2")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/knock/0.2/knock.kicad_sym")(options "")(descr "Legacy"))
 )
