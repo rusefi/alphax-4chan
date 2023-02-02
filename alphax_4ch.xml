@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>C:\Work\rusefi\github\alphax-4chan\alphax_4ch.kicad_sch</source>
-    <date>2/2/2023 10:15:16 PM</date>
+    <date>2/2/2023 11:54:02 PM</date>
     <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>AlphaECU 4chan powered by rusEFI</title>
         <company>rusEFI</company>
         <rev>F</rev>
-        <date>2022-09-05</date>
+        <date>2023-02-02</date>
         <source>alphax_4ch.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -5276,296 +5276,296 @@
       <node ref="M6" pin="S32" pinfunction="GNDA" pintype="passive"/>
       <node ref="P1" pin="5" pinfunction="A5" pintype="passive"/>
     </net>
-    <net code="174" name="Net-(D1-Pad1)">
-      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="R50" pin="7" pintype="passive"/>
-      <node ref="R50" pin="8" pintype="passive"/>
-    </net>
-    <net code="175" name="Net-(D1-Pad2)">
-      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D9" pin="1" pinfunction="A" pintype="passive"/>
-    </net>
-    <net code="176" name="Net-(D2-Pad1)">
+    <net code="174" name="Net-(D2-Pad1)">
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D31" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R2" pin="6" pintype="passive"/>
     </net>
-    <net code="177" name="Net-(D3-Pad1)">
+    <net code="175" name="Net-(D3-Pad1)">
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D32" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R2" pin="5" pintype="passive"/>
     </net>
-    <net code="178" name="Net-(D10-Pad1)">
+    <net code="176" name="Net-(D9-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="177" name="Net-(D10-Pad1)">
       <node ref="D10" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R1" pin="6" pintype="passive"/>
     </net>
-    <net code="179" name="Net-(D11-Pad1)">
+    <net code="178" name="Net-(D11-Pad1)">
       <node ref="D11" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R1" pin="7" pintype="passive"/>
     </net>
-    <net code="180" name="Net-(D12-Pad1)">
+    <net code="179" name="Net-(D12-Pad1)">
       <node ref="D12" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R1" pin="8" pintype="passive"/>
     </net>
-    <net code="181" name="Net-(D13-Pad1)">
+    <net code="180" name="Net-(D13-Pad1)">
       <node ref="D13" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R2" pin="8" pintype="passive"/>
     </net>
-    <net code="182" name="Net-(D14-Pad1)">
+    <net code="181" name="Net-(D14-Pad1)">
       <node ref="D14" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R2" pin="7" pintype="passive"/>
     </net>
-    <net code="183" name="Net-(D15-Pad1)">
+    <net code="182" name="Net-(D15-Pad1)">
       <node ref="D15" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R51" pin="8" pintype="passive"/>
     </net>
-    <net code="184" name="Net-(D16-Pad1)">
+    <net code="183" name="Net-(D16-Pad1)">
       <node ref="D16" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R51" pin="7" pintype="passive"/>
     </net>
-    <net code="185" name="Net-(D17-Pad1)">
+    <net code="184" name="Net-(D17-Pad1)">
       <node ref="D17" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R5" pin="7" pintype="passive"/>
     </net>
-    <net code="186" name="Net-(D18-Pad2)">
+    <net code="185" name="Net-(D18-Pad2)">
       <node ref="D18" pin="2" pinfunction="K" pintype="passive"/>
       <node ref="R4" pin="8" pintype="passive"/>
     </net>
-    <net code="187" name="Net-(D19-Pad2)">
+    <net code="186" name="Net-(D19-Pad2)">
       <node ref="D19" pin="2" pinfunction="K" pintype="passive"/>
       <node ref="R4" pin="7" pintype="passive"/>
     </net>
-    <net code="188" name="Net-(D20-Pad2)">
+    <net code="187" name="Net-(D20-Pad2)">
       <node ref="D20" pin="2" pinfunction="K" pintype="passive"/>
       <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R5" pin="5" pintype="passive"/>
     </net>
-    <net code="189" name="Net-(D23-Pad2)">
+    <net code="188" name="Net-(D23-Pad2)">
       <node ref="D23" pin="2" pinfunction="K" pintype="passive"/>
       <node ref="R4" pin="6" pintype="passive"/>
     </net>
-    <net code="190" name="Net-(D24-Pad2)">
+    <net code="189" name="Net-(D24-Pad2)">
       <node ref="D24" pin="2" pinfunction="K" pintype="passive"/>
       <node ref="R4" pin="5" pintype="passive"/>
     </net>
-    <net code="191" name="Net-(D28-Pad1)">
+    <net code="190" name="Net-(D28-Pad1)">
       <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R25" pin="5" pintype="passive"/>
     </net>
-    <net code="192" name="Net-(D33-Pad1)">
+    <net code="191" name="Net-(D33-Pad1)">
       <node ref="D33" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R1" pin="5" pintype="passive"/>
     </net>
-    <net code="193" name="Net-(D34-Pad1)">
+    <net code="192" name="Net-(D34-Pad1)">
       <node ref="D34" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R49" pin="8" pintype="passive"/>
     </net>
-    <net code="194" name="Net-(D35-Pad1)">
+    <net code="193" name="Net-(D35-Pad1)">
       <node ref="D35" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R49" pin="7" pintype="passive"/>
     </net>
-    <net code="195" name="Net-(D36-Pad1)">
+    <net code="194" name="Net-(D36-Pad1)">
       <node ref="D36" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R49" pin="6" pintype="passive"/>
     </net>
-    <net code="196" name="Net-(D37-Pad1)">
+    <net code="195" name="Net-(D37-Pad1)">
       <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D43" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R50" pin="6" pintype="passive"/>
     </net>
-    <net code="197" name="Net-(D38-Pad1)">
-      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="R50" pin="5" pintype="passive"/>
-    </net>
-    <net code="198" name="Net-(D38-Pad2)">
-      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D44" pin="1" pinfunction="A" pintype="passive"/>
-    </net>
-    <net code="199" name="Net-(D39-Pad1)">
+    <net code="196" name="Net-(D39-Pad1)">
       <node ref="D39" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R5" pin="8" pintype="passive"/>
     </net>
-    <net code="200" name="Net-(D40-Pad1)">
+    <net code="197" name="Net-(D40-Pad1)">
       <node ref="D40" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R5" pin="6" pintype="passive"/>
     </net>
-    <net code="201" name="Net-(D41-Pad1)">
+    <net code="198" name="Net-(D41-Pad1)">
       <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D47" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R51" pin="6" pintype="passive"/>
     </net>
-    <net code="202" name="Net-(D42-Pad1)">
+    <net code="199" name="Net-(D42-Pad1)">
       <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D48" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R51" pin="5" pintype="passive"/>
     </net>
-    <net code="203" name="Net-(D56-Pad2)">
+    <net code="200" name="Net-(D44-Pad1)">
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="201" name="Net-(D56-Pad2)">
       <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Q3" pin="2" pinfunction="D" pintype="passive"/>
     </net>
-    <net code="204" name="Net-(D57-Pad3)">
+    <net code="202" name="Net-(D57-Pad3)">
       <node ref="D57" pin="3" pintype="passive"/>
       <node ref="R24" pin="1" pintype="passive"/>
       <node ref="U2" pin="1" pintype="input"/>
     </net>
-    <net code="205" name="Net-(D58-Pad3)">
+    <net code="203" name="Net-(D58-Pad3)">
       <node ref="D58" pin="3" pintype="passive"/>
       <node ref="R37" pin="1" pintype="passive"/>
       <node ref="U2" pin="3" pintype="input"/>
     </net>
-    <net code="206" name="Net-(D59-Pad3)">
+    <net code="204" name="Net-(D59-Pad3)">
       <node ref="D59" pin="3" pintype="passive"/>
       <node ref="R73" pin="1" pintype="passive"/>
       <node ref="U5" pin="1" pintype="input"/>
     </net>
-    <net code="207" name="Net-(M5-PadN8)">
+    <net code="205" name="Net-(M5-PadN8)">
       <node ref="M5" pin="N8" pinfunction="AUX3" pintype="passive"/>
       <node ref="M6" pin="S26" pinfunction="IN_AUX3" pintype="passive"/>
     </net>
-    <net code="208" name="Net-(M5-PadN14)">
+    <net code="206" name="Net-(M5-PadN14)">
       <node ref="M5" pin="N14" pinfunction="MAP1" pintype="passive"/>
       <node ref="M6" pin="S20" pinfunction="IN_MAP1" pintype="passive"/>
     </net>
-    <net code="209" name="Net-(Q1-Pad2)">
+    <net code="207" name="Net-(Q1-Pad2)">
       <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R25" pin="2" pintype="passive"/>
     </net>
-    <net code="210" name="Net-(Q2-Pad2)">
+    <net code="208" name="Net-(Q2-Pad2)">
       <node ref="Q2" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R92" pin="1" pintype="passive"/>
     </net>
-    <net code="211" name="Net-(Q3-Pad1)">
+    <net code="209" name="Net-(Q3-Pad1)">
       <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R25" pin="7" pintype="passive"/>
       <node ref="R25" pin="8" pintype="passive"/>
     </net>
-    <net code="212" name="Net-(Q4-Pad1)">
+    <net code="210" name="Net-(Q4-Pad1)">
       <node ref="Q4" pin="1" pinfunction="G" pintype="input"/>
       <node ref="Q5" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R26" pin="1" pintype="passive"/>
       <node ref="R92" pin="2" pintype="passive"/>
     </net>
-    <net code="213" name="Net-(Q4-Pad3)">
+    <net code="211" name="Net-(Q4-Pad3)">
       <node ref="Q4" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="Q5" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="R26" pin="8" pintype="passive"/>
     </net>
-    <net code="214" name="Net-(Q5-Pad2)">
+    <net code="212" name="Net-(Q5-Pad2)">
       <node ref="Q5" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R23" pin="1" pintype="passive"/>
     </net>
-    <net code="215" name="Net-(Q12-Pad2)">
+    <net code="213" name="Net-(Q12-Pad2)">
       <node ref="Q12" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="Q13" pin="1" pinfunction="G" pintype="input"/>
       <node ref="Q14" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R31" pin="1" pintype="passive"/>
     </net>
-    <net code="216" name="Net-(Q13-Pad2)">
+    <net code="214" name="Net-(Q13-Pad2)">
       <node ref="Q13" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R33" pin="1" pintype="passive"/>
     </net>
-    <net code="217" name="Net-(Q14-Pad2)">
+    <net code="215" name="Net-(Q14-Pad2)">
       <node ref="Q14" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R32" pin="1" pintype="passive"/>
     </net>
-    <net code="218" name="Net-(Q15-Pad2)">
+    <net code="216" name="Net-(Q15-Pad2)">
       <node ref="Q15" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R48" pin="1" pintype="passive"/>
     </net>
-    <net code="219" name="Net-(Q16-Pad1)">
+    <net code="217" name="Net-(Q16-Pad1)">
       <node ref="Q16" pin="1" pinfunction="G" pintype="input"/>
       <node ref="Q17" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R26" pin="4" pintype="passive"/>
       <node ref="R48" pin="2" pintype="passive"/>
     </net>
-    <net code="220" name="Net-(Q16-Pad3)">
+    <net code="218" name="Net-(Q16-Pad3)">
       <node ref="Q16" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="Q17" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="R26" pin="5" pintype="passive"/>
     </net>
-    <net code="221" name="Net-(Q17-Pad2)">
+    <net code="219" name="Net-(Q17-Pad2)">
       <node ref="Q17" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R36" pin="1" pintype="passive"/>
     </net>
-    <net code="222" name="Net-(Q18-Pad1)">
+    <net code="220" name="Net-(Q18-Pad1)">
       <node ref="Q18" pin="1" pinfunction="G" pintype="input"/>
       <node ref="Q19" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R39" pin="2" pintype="passive"/>
     </net>
-    <net code="223" name="Net-(Q20-Pad2)">
+    <net code="221" name="Net-(Q20-Pad2)">
       <node ref="Q20" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R29" pin="1" pintype="passive"/>
       <node ref="R44" pin="2" pintype="passive"/>
     </net>
-    <net code="224" name="Net-(Q21-Pad2)">
+    <net code="222" name="Net-(Q21-Pad2)">
       <node ref="Q21" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R42" pin="1" pintype="passive"/>
       <node ref="R45" pin="2" pintype="passive"/>
     </net>
-    <net code="225" name="Net-(Q25-Pad2)">
+    <net code="223" name="Net-(Q25-Pad2)">
       <node ref="Q25" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R93" pin="1" pintype="passive"/>
     </net>
-    <net code="226" name="Net-(Q31-Pad1)">
+    <net code="224" name="Net-(Q31-Pad1)">
       <node ref="Q31" pin="1" pinfunction="G" pintype="input"/>
       <node ref="Q32" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R76" pin="1" pintype="passive"/>
       <node ref="R93" pin="2" pintype="passive"/>
     </net>
-    <net code="227" name="Net-(Q31-Pad3)">
+    <net code="225" name="Net-(Q31-Pad3)">
       <node ref="Q31" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="Q32" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="R76" pin="2" pintype="passive"/>
     </net>
-    <net code="228" name="Net-(Q32-Pad2)">
+    <net code="226" name="Net-(Q32-Pad2)">
       <node ref="Q32" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R77" pin="1" pintype="passive"/>
     </net>
-    <net code="229" name="Net-(Q33-Pad2)">
+    <net code="227" name="Net-(Q33-Pad2)">
       <node ref="Q33" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R79" pin="1" pintype="passive"/>
       <node ref="R86" pin="2" pintype="passive"/>
     </net>
-    <net code="230" name="Net-(Q34-Pad2)">
+    <net code="228" name="Net-(Q34-Pad2)">
       <node ref="Q34" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R80" pin="1" pintype="passive"/>
       <node ref="R87" pin="2" pintype="passive"/>
     </net>
-    <net code="231" name="Net-(Q35-Pad2)">
+    <net code="229" name="Net-(Q35-Pad2)">
       <node ref="Q35" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R81" pin="1" pintype="passive"/>
       <node ref="R88" pin="2" pintype="passive"/>
     </net>
-    <net code="232" name="Net-(Q36-Pad2)">
+    <net code="230" name="Net-(Q36-Pad2)">
       <node ref="Q36" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R82" pin="1" pintype="passive"/>
       <node ref="R89" pin="2" pintype="passive"/>
     </net>
-    <net code="233" name="Net-(R21-Pad1)">
+    <net code="231" name="Net-(R21-Pad1)">
       <node ref="R21" pin="1" pintype="passive"/>
       <node ref="R23" pin="2" pintype="passive"/>
     </net>
-    <net code="234" name="Net-(R22-Pad1)">
+    <net code="232" name="Net-(R22-Pad1)">
       <node ref="R22" pin="1" pintype="passive"/>
       <node ref="R24" pin="2" pintype="passive"/>
     </net>
-    <net code="235" name="Net-(R34-Pad1)">
+    <net code="233" name="Net-(R34-Pad1)">
       <node ref="R34" pin="1" pintype="passive"/>
       <node ref="R36" pin="2" pintype="passive"/>
     </net>
-    <net code="236" name="Net-(R35-Pad1)">
+    <net code="234" name="Net-(R35-Pad1)">
       <node ref="R35" pin="1" pintype="passive"/>
       <node ref="R37" pin="2" pintype="passive"/>
+    </net>
+    <net code="235" name="Net-(R50-Pad5)">
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R50" pin="5" pintype="passive"/>
+    </net>
+    <net code="236" name="Net-(R50-Pad7)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R50" pin="7" pintype="passive"/>
+      <node ref="R50" pin="8" pintype="passive"/>
     </net>
     <net code="237" name="Net-(R72-Pad1)">
       <node ref="R72" pin="1" pintype="passive"/>
