@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Nadezhda\GitHub\alphax-4chan\alphax_4ch.kicad_sch</source>
-    <date>31.01.2023 20:31:47</date>
-    <tool>Eeschema (6.0.8)</tool>
+    <source>C:\Work\rusefi\github\alphax-4chan\alphax_4ch.kicad_sch</source>
+    <date>2/2/2023 10:15:16 PM</date>
+    <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>AlphaECU 4chan powered by rusEFI</title>
@@ -33,7 +33,7 @@
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15849"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5db9a50d-f841-45c8-8bb2-a33c3c9e100f</tstamps>
     </comp>
@@ -46,7 +46,7 @@
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e47e7c78-59b0-46ac-9242-3c2f486cfa82</tstamps>
     </comp>
@@ -59,7 +59,7 @@
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2b3eea30-4adb-444e-bfc2-314a6d1030e4</tstamps>
     </comp>
@@ -72,7 +72,7 @@
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0430b0de-3d04-43bb-b242-60b3811ae13e</tstamps>
     </comp>
@@ -85,7 +85,7 @@
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>95537614-1d6d-4d63-bc9d-fba59c487646</tstamps>
     </comp>
@@ -98,7 +98,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>680e898a-fdf0-4b94-b9e5-760ae6fd11a3</tstamps>
     </comp>
@@ -111,7 +111,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dd2268c7-81f8-4983-95f0-96c7698112e1</tstamps>
     </comp>
@@ -124,7 +124,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d926892c-9ab3-4f51-ab3c-babbdaa06135</tstamps>
     </comp>
@@ -137,7 +137,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e011b194-cc78-4a70-854c-19eb3d822fd7</tstamps>
     </comp>
@@ -150,7 +150,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>97cdbac0-cadb-401c-aa62-530ef664ae03</tstamps>
     </comp>
@@ -163,7 +163,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8e8d3f06-46a4-421f-8191-c7f2b467ba57</tstamps>
     </comp>
@@ -176,7 +176,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c4eb60af-86f2-475e-a6ee-75e256587fa3</tstamps>
     </comp>
@@ -189,7 +189,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>36ccff8a-f90a-4cc1-b0e4-faa3827f99a8</tstamps>
     </comp>
@@ -202,7 +202,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>37576f6a-e476-429b-bf58-16c2808d4fba</tstamps>
     </comp>
@@ -215,7 +215,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3de9c0c6-be17-46d7-bd59-2f1b171ce0f9</tstamps>
     </comp>
@@ -228,7 +228,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4db67a80-3a6f-4086-b785-d841a15bbd19</tstamps>
     </comp>
@@ -241,7 +241,7 @@
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>59fdf165-75e1-42a2-a31b-44d07305b345</tstamps>
     </comp>
@@ -254,7 +254,7 @@
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C59461"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c9889363-4bdb-4c35-96b0-96497c23d97e</tstamps>
     </comp>
@@ -267,7 +267,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a6aafed6-a498-4495-8a11-d338e02bf51a</tstamps>
     </comp>
@@ -280,7 +280,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0bfaffcc-ecb0-4ffc-a285-2ddabfc4008e</tstamps>
     </comp>
@@ -293,7 +293,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9fb20cd6-9839-4141-84e5-528110d088ad</tstamps>
     </comp>
@@ -306,7 +306,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f3c07ada-a517-4a85-aed7-c449a9ac11aa</tstamps>
     </comp>
@@ -319,7 +319,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>bd0ce6c9-47b3-422d-95b5-828b9956e69e</tstamps>
     </comp>
@@ -332,7 +332,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6947f4f4-96e3-4a01-8e14-83ce800efe90</tstamps>
     </comp>
@@ -345,7 +345,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a1a344aa-ca66-4292-995c-0556efd17d26</tstamps>
     </comp>
@@ -358,7 +358,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e7ea06ad-4b8d-485b-b434-10b20b822565</tstamps>
     </comp>
@@ -371,7 +371,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>631ca7b2-c0eb-45c6-b30a-38cc96578e09</tstamps>
     </comp>
@@ -384,7 +384,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2290"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d0869327-5d22-49a0-bd09-9b9cbc9d95f2</tstamps>
     </comp>
@@ -397,7 +397,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2290"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7cfb3588-6823-4da2-9932-543f87f63931</tstamps>
     </comp>
@@ -410,7 +410,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2290"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>95b9d4ef-dcda-4d9d-aafc-046c584c5378</tstamps>
     </comp>
@@ -423,7 +423,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>73b1f476-5d9e-42de-8e89-fd80a77e7d40</tstamps>
     </comp>
@@ -436,7 +436,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7e4baf3d-dfa1-4780-9743-e409bf808211</tstamps>
     </comp>
@@ -449,7 +449,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>78ab7820-bfab-415f-aa46-04d74cfa27c2</tstamps>
     </comp>
@@ -462,7 +462,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>de56dfde-e050-4c54-b1d3-63794736bad8</tstamps>
     </comp>
@@ -475,7 +475,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f538e993-6f0b-4131-94cd-32b8213f4db5</tstamps>
     </comp>
@@ -488,7 +488,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C72041"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>772f53b0-4ba1-4241-8c19-564fd540dfbe</tstamps>
     </comp>
@@ -501,7 +501,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C72041"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4081f62c-09d9-4382-932c-e7f3353a7961</tstamps>
     </comp>
@@ -514,7 +514,7 @@
       <libsource lib="hellen-one-common" part="LED" description="WHITE LED"/>
       <property name="LCSC" value="C72043"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>182802a2-cc2e-41f5-a742-6b0b6a56d085</tstamps>
     </comp>
@@ -527,7 +527,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0349c0fc-9c3b-42f4-95d5-4c57b2d75050</tstamps>
     </comp>
@@ -540,7 +540,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>644a0d8c-e981-460a-9155-ddee0ac765e5</tstamps>
     </comp>
@@ -553,7 +553,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C72041"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ed51de56-820d-4330-9120-fc287d489b33</tstamps>
     </comp>
@@ -566,7 +566,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C72041"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>72bc3c95-3706-4368-8e5f-f91ec237554c</tstamps>
     </comp>
@@ -579,7 +579,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>83d21a7b-f3c0-45e8-9d46-1da1af6f9deb</tstamps>
     </comp>
@@ -592,7 +592,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7f312322-f2af-4cc9-bb28-1cf19f9b0c12</tstamps>
     </comp>
@@ -605,7 +605,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>27bbcf42-32af-45b1-9154-e807a2f51d7c</tstamps>
     </comp>
@@ -618,7 +618,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>073c368e-e01b-4d88-863f-aa116f3f1dd2</tstamps>
     </comp>
@@ -631,7 +631,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4fb7eaea-bfe1-4985-9ca1-1efbbfd0c188</tstamps>
     </comp>
@@ -644,7 +644,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c1ca664a-592c-464b-92c1-7deafb56dc44</tstamps>
     </comp>
@@ -657,7 +657,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>71a02b89-0308-4405-93e9-aaa30a71e39b</tstamps>
     </comp>
@@ -670,7 +670,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>963d9ca9-ed17-4ddc-ba3a-9501852f62c8</tstamps>
     </comp>
@@ -683,7 +683,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2290"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>389e0594-d9ff-4059-a6f3-830f3eee8009</tstamps>
     </comp>
@@ -696,7 +696,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2290"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>64331c8c-83af-461d-bd1d-6aad05d0a0d9</tstamps>
     </comp>
@@ -709,7 +709,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2290"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>826a1436-746a-417b-9bf3-6671ff6f0fa1</tstamps>
     </comp>
@@ -722,7 +722,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2290"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>65c2cb3c-4148-48cb-bfe4-144d79e831ed</tstamps>
     </comp>
@@ -735,7 +735,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>30a03f97-5864-4cee-9238-33c605784068</tstamps>
     </comp>
@@ -748,7 +748,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8a033d7a-759b-4a64-9fb1-b34892a10b3a</tstamps>
     </comp>
@@ -761,7 +761,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1134ef92-aa39-4869-9fb4-308e181ee044</tstamps>
     </comp>
@@ -774,7 +774,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>bb1ba5b7-cbee-427c-8f83-441dac72ad91</tstamps>
     </comp>
@@ -787,7 +787,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4bf5a8fb-1572-47fd-8c81-d558918b3d55</tstamps>
     </comp>
@@ -800,7 +800,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>75de877b-af02-4179-8503-e1b4752ff420</tstamps>
     </comp>
@@ -813,7 +813,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e206f45d-cfbe-4d59-81f2-0126a91ad01b</tstamps>
     </comp>
@@ -826,7 +826,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>227ef966-24d3-4144-9e7e-1518e90b9c18</tstamps>
     </comp>
@@ -839,7 +839,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0b2dd5a2-3ff2-4623-9d19-280689bc9a6f</tstamps>
     </comp>
@@ -852,7 +852,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b19b86fa-5c29-4054-ba85-bf88b178fd45</tstamps>
     </comp>
@@ -865,7 +865,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>066bdc22-7314-4d1e-bff3-220de0b2bcc5</tstamps>
     </comp>
@@ -878,7 +878,7 @@
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>62e6ce00-3e22-4ef6-af4b-eaf6afa5c7ea</tstamps>
     </comp>
@@ -892,7 +892,7 @@
       <libsource lib="Power_Management" part="PSM712" description="19V 13.3V 12V Bi-Directional SOT-23(SOT-23-3) TVS"/>
       <property name="LCSC" value="C32677"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c7aad7ac-edc7-4154-84ce-0ff8eb178ece</tstamps>
     </comp>
@@ -905,7 +905,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e95733dd-e127-4931-b8e6-95bfb9549aae</tstamps>
     </comp>
@@ -918,7 +918,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c6578b59-c29b-4c53-9414-7541be1aaa08</tstamps>
     </comp>
@@ -931,7 +931,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8889077e-d3ea-43a6-a884-323f4ab925f1</tstamps>
     </comp>
@@ -944,7 +944,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cca8cc73-d265-48e0-ba27-619fe2214e93</tstamps>
     </comp>
@@ -957,7 +957,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>619078fa-de9c-4b5e-b033-65f075c50fff</tstamps>
     </comp>
@@ -971,7 +971,7 @@
       <libsource lib="hellen-one-common" part="PSM712" description="19V 13.3V 12V Bi-Directional SOT-23(SOT-23-3) TVS"/>
       <property name="LCSC" value="C32677"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a6d59de1-6564-4f0c-acc0-0d9ae07a8f1d</tstamps>
     </comp>
@@ -984,7 +984,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>03d704c5-d6b7-46ee-a817-bca44074dbdf</tstamps>
     </comp>
@@ -998,7 +998,7 @@
       <libsource lib="Diode" part="BAT54S" description="schottky barrier diode"/>
       <property name="LCSC" value="C408389"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>051fdfdb-a29b-4951-825a-0fb35e015e4d</tstamps>
     </comp>
@@ -1012,7 +1012,7 @@
       <libsource lib="Diode" part="BAT54S" description="schottky barrier diode"/>
       <property name="LCSC" value="C408389"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ad5e84db-e261-4cd0-80e0-c51c98437e20</tstamps>
     </comp>
@@ -1026,7 +1026,7 @@
       <libsource lib="Diode" part="BAT54S" description="schottky barrier diode"/>
       <property name="LCSC" value="C408389"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e4878030-bc05-4703-a361-50d10cac64ac</tstamps>
     </comp>
@@ -1039,7 +1039,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C369153"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>69ae807e-3812-4791-82f2-00cd9569cc0b</tstamps>
     </comp>
@@ -1052,7 +1052,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C369153"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c832ec02-4642-4a36-8239-1429245635f0</tstamps>
     </comp>
@@ -1065,7 +1065,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C720075"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c0d528d7-304b-4c78-83c5-5b0949746c72</tstamps>
     </comp>
@@ -1078,7 +1078,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C720075"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8cbd3942-e7a3-4508-91de-6522f546336e</tstamps>
     </comp>
@@ -1091,7 +1091,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C182446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5c389833-25ea-40fe-a58f-c64d94484b54</tstamps>
     </comp>
@@ -1104,7 +1104,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C182446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>52cd69ba-32ad-451b-9643-72396c445980</tstamps>
     </comp>
@@ -1117,7 +1117,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C720075"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f8006b72-7e39-47f0-acdd-a3f5349a8fb4</tstamps>
     </comp>
@@ -1130,7 +1130,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C369153"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a0407a51-dc9f-4b4e-ba75-441d5c57b182</tstamps>
     </comp>
@@ -1143,7 +1143,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C369153"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3fc03e4b-3e86-482a-b148-e56708c4120c</tstamps>
     </comp>
@@ -1151,7 +1151,7 @@
       <value>DISCLAIMER</value>
       <libsource lib="Off_Road_Disclaimer" part="Disclaimer" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f60e663</tstamps>
@@ -1161,7 +1161,7 @@
       <footprint>rusefi_lib:LOGO</footprint>
       <libsource lib="logo" part="LOGO" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005fc9579d</tstamps>
     </comp>
@@ -1170,7 +1170,7 @@
       <footprint>hellen-one-common:LOGO</footprint>
       <libsource lib="hellen-one-common" part="LOGO" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b3c556e1-af13-4e3a-b79c-359c48d3d079</tstamps>
     </comp>
@@ -1179,7 +1179,7 @@
       <footprint>alphax-2ch:alphax_logo_AlphaECU</footprint>
       <libsource lib="alphax" part="LOGO_AlphaECU" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>40e067c9-60e0-415e-b3a0-c272e07b831e</tstamps>
     </comp>
@@ -1188,7 +1188,7 @@
       <footprint>alphax-2ch:alphax_logo_AlphaX</footprint>
       <libsource lib="alphax" part="LOGO_AlphaX" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>45ab63b2-69a7-4901-a31d-21ac38882192</tstamps>
     </comp>
@@ -1198,7 +1198,7 @@
       <datasheet>www.alphaxpr.com</datasheet>
       <libsource lib="alphax" part="ALPHAX_QR_CODE" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6f977bb0-f930-4fa9-b928-cc37a87c120d</tstamps>
     </comp>
@@ -1211,7 +1211,7 @@
       <libsource lib="hellen-one-common" part="USB_B_Mini" description="USB Mini Type B connector"/>
       <property name="LCSC" value="C69074"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>af907853-1b11-4836-8bf0-53e02c942215</tstamps>
     </comp>
@@ -1226,7 +1226,7 @@
       <property name="PN" value="FTSH-105-01-F-DV-007-K"/>
       <property name="LCSC" value="C448647"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0b34e0d3-be97-44e7-b245-d92526dd664d</tstamps>
     </comp>
@@ -1235,7 +1235,7 @@
       <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dc2b887c-76aa-491b-a827-c6ad63c25a64</tstamps>
     </comp>
@@ -1244,7 +1244,7 @@
       <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4993f346-8245-4990-bf01-678220e5fbd4</tstamps>
     </comp>
@@ -1253,7 +1253,7 @@
       <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>963cf51e-56b1-45c5-bce6-772895665e4e</tstamps>
     </comp>
@@ -1262,7 +1262,7 @@
       <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c81df26f-88ea-441e-852c-9d0504e407e2</tstamps>
     </comp>
@@ -1271,7 +1271,7 @@
       <footprint>MountingHole:MountingHole_4.5mm_Pad</footprint>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fdde261c-4a23-4236-bd4b-97c231dcdc49</tstamps>
     </comp>
@@ -1280,7 +1280,7 @@
       <footprint>MountingHole:MountingHole_4.5mm_Pad</footprint>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7ef11368-07e7-43e8-baf1-f1a4bb5b302b</tstamps>
     </comp>
@@ -1294,7 +1294,7 @@
       <libsource lib="Connector" part="Micro_SD_Card" description="Micro SD Card Socket"/>
       <property name="LCSC" value="C164170"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4e014d70-e6a8-4a29-a8a9-84f25e67eba5</tstamps>
     </comp>
@@ -1303,7 +1303,7 @@
       <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6a1b9761-b99d-45be-a065-b90f76ff7b92</tstamps>
     </comp>
@@ -1312,7 +1312,7 @@
       <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ec6fd702-be7d-4727-b414-2cd56ebf615a</tstamps>
     </comp>
@@ -1321,7 +1321,7 @@
       <footprint>hellen-one-power12-0.2:power12</footprint>
       <libsource lib="hellen-one-power12-0.2" part="Module-power12-0.2" description="Hellen-One Power-12V Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ece5d7d1-76db-401f-8553-a51e2efb44d2</tstamps>
     </comp>
@@ -1330,7 +1330,7 @@
       <footprint>hellen-one-power5-0.2:power5</footprint>
       <libsource lib="hellen-one-power5-0.2" part="Module-power5-0.2" description="Hellen-One Power-5V Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ecf48ddf-8d02-4570-8ae6-b2411fa17b9e</tstamps>
     </comp>
@@ -1339,7 +1339,7 @@
       <footprint>hellen-one-vr-discrete-0.4:vr-discrete</footprint>
       <libsource lib="vr-discrete-0.4" part="Module-vr-discrete-0.4" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ba062cba-cfb6-4049-8e8a-6a5305b8f12c</tstamps>
     </comp>
@@ -1348,7 +1348,7 @@
       <footprint>hellen-one-ign8-0.2:ign8</footprint>
       <libsource lib="hellen-one-ign8-0.1" part="Module-ign8-0.1" description="Hellen-One 8-ch Ignition Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>91b56abf-9ad5-4be8-a5c5-2398d74dccc7</tstamps>
     </comp>
@@ -1357,7 +1357,7 @@
       <footprint>hellen-one-input-0.1:input</footprint>
       <libsource lib="" part="Module-input-0.1_1" description="Hellen-One Analog/Digital Inputs Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ef04da57-4b19-4699-a300-a7c31972f660 55b40ec7-180b-4cdb-a45d-769423e8b51b 2491bc1e-e5b1-4fb8-a6b1-0e8865d2abd0 0437e834-c13e-424a-9ad2-040b8ce9ed1d</tstamps>
     </comp>
@@ -1366,7 +1366,7 @@
       <footprint>hellen-one-mcu-0.6:mcu</footprint>
       <libsource lib="hellen-one-mcu-0.5" part="Module-mcu-0.5" description="Hellen One MCU Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>915d735b-9683-4d94-8b0d-1fa27ebac489 a6bf355d-1d5f-4e79-8e3f-45e3bddf3ceb a7d95f89-5755-415c-ab05-3cba0bcc1e6a 5f1c7f30-e456-4e5e-847b-c87579bb1a4c</tstamps>
     </comp>
@@ -1375,7 +1375,7 @@
       <footprint>hellen-one-can-0.1:can</footprint>
       <libsource lib="hellen-one-can-0.1" part="Module-can-0.1" description="Hellen-One CAN Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9f52c856-b504-4fdc-ad5e-307e12a42829</tstamps>
     </comp>
@@ -1384,7 +1384,7 @@
       <footprint>hellen-one-vr-discrete-0.4:vr-discrete</footprint>
       <libsource lib="vr-discrete-0.4" part="Module-vr-discrete-0.4" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>aa08ba4d-0a24-4073-abc4-c0d3a943fc42</tstamps>
     </comp>
@@ -1393,7 +1393,7 @@
       <footprint>hellen-one-knock-0.2:knock</footprint>
       <libsource lib="hellen-one-knock-0.2" part="Module-knock-0.2" description="Hellen-One Knock Pre-amplifier Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>267598b1-76f7-40a9-b82b-8e57dcd82bc6</tstamps>
     </comp>
@@ -1403,7 +1403,7 @@
       <datasheet>DOCUMENTATION</datasheet>
       <libsource lib="33311-24AW-2" part="33311-24AW-2" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>795890df-a6bd-4dfa-9f2a-3a4a16e2521d</tstamps>
     </comp>
@@ -1413,7 +1413,7 @@
       <datasheet>DOCUMENTATION</datasheet>
       <libsource lib="" part="33311-24AW-2_1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b97a84f1-fe93-4306-bdd9-5af421db67fd</tstamps>
     </comp>
@@ -1426,7 +1426,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>420f65d3-0028-423f-8325-d841a015d91a</tstamps>
     </comp>
@@ -1439,7 +1439,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c8075cb2-6445-4b51-be8c-7b827e3eb9a3</tstamps>
     </comp>
@@ -1453,7 +1453,7 @@
       <libsource lib="" part="MOSFET-P_7" description="Generic P-Channel HEXFET Power MOSFET"/>
       <property name="LCSC" value="C15127"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9d13bdf8-004b-4007-93cb-3ef232e43e2c</tstamps>
     </comp>
@@ -1467,7 +1467,7 @@
       <libsource lib="" part="MOSFET-P_6" description="Generic P-Channel HEXFET Power MOSFET"/>
       <property name="LCSC" value="C15127"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a4641e6a-fb55-4ca2-bdff-51abec724e05</tstamps>
     </comp>
@@ -1481,7 +1481,7 @@
       <libsource lib="" part="MOSFET-P_5" description="Generic P-Channel HEXFET Power MOSFET"/>
       <property name="LCSC" value="C15127"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cb97bf4a-6d2a-4efb-9fae-3aafbdd96bae</tstamps>
     </comp>
@@ -1495,7 +1495,7 @@
       <libsource lib="Power_Management" part="AUIPS2041L" description="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
       <property name="LCSC" value="C155647"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e96b1112-397c-475c-8ca3-2bbaad1ea828</tstamps>
     </comp>
@@ -1509,7 +1509,7 @@
       <libsource lib="Power_Management" part="AUIPS2041L" description="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
       <property name="LCSC" value=" C155647"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5379d99d-25fd-4d4a-a29f-4fa303f5319b</tstamps>
     </comp>
@@ -1523,7 +1523,7 @@
       <libsource lib="Power_Management" part="AUIPS2041L" description="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
       <property name="LCSC" value=" C155647"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f3a72fb3-490d-4018-8a67-c34bb3978831</tstamps>
     </comp>
@@ -1537,7 +1537,7 @@
       <libsource lib="Power_Management" part="AUIPS2041L" description="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
       <property name="LCSC" value="C155647"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>61ccb00b-53e2-47f0-a8fd-8751dea26da0</tstamps>
     </comp>
@@ -1550,7 +1550,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3900663e-545d-4f90-9957-dee7f3186799</tstamps>
     </comp>
@@ -1563,7 +1563,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d97553d1-19c1-44a7-bee6-7ba486af92b0</tstamps>
     </comp>
@@ -1576,7 +1576,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d40bf680-fa30-4710-8745-18f8428a366f</tstamps>
     </comp>
@@ -1590,7 +1590,7 @@
       <libsource lib="" part="MOSFET-P_4" description="Generic P-Channel HEXFET Power MOSFET"/>
       <property name="LCSC" value="C15127"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d048bfc4-7879-4cf5-91bd-aef177e8ea9e</tstamps>
     </comp>
@@ -1604,7 +1604,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-P" description="Generic P-Channel HEXFET Power MOSFET"/>
       <property name="LCSC" value="C15127"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f49ff9e5-f4be-4618-80ba-f16179cd76ca</tstamps>
     </comp>
@@ -1617,7 +1617,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ef3edd4a-515f-47e6-9dad-0ec6876144ff</tstamps>
     </comp>
@@ -1631,7 +1631,7 @@
       <libsource lib="" part="MOSFET-P_3" description="Generic P-Channel HEXFET Power MOSFET"/>
       <property name="LCSC" value="C15127"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>aa652839-509e-431b-ac3b-bd2ba1ad7f0e</tstamps>
     </comp>
@@ -1645,7 +1645,7 @@
       <libsource lib="" part="MOSFET-P_2" description="Generic P-Channel HEXFET Power MOSFET"/>
       <property name="LCSC" value="C15127"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>89d5e044-eafc-462b-ba81-512d0f09bd5b</tstamps>
     </comp>
@@ -1659,7 +1659,7 @@
       <libsource lib="" part="MOSFET-P_1" description="Generic P-Channel HEXFET Power MOSFET"/>
       <property name="LCSC" value="C15127"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c99a938a-71b7-4cd7-8c33-30119cc9f65a</tstamps>
     </comp>
@@ -1672,7 +1672,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5ed35ac5-4dc2-4c28-b329-4d2f577de032</tstamps>
     </comp>
@@ -1685,7 +1685,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ec29367e-7425-4539-9879-7bb6c9cf14ec</tstamps>
     </comp>
@@ -1698,7 +1698,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3439e36a-fb6d-4c2d-90b0-91fc2218d0f8</tstamps>
     </comp>
@@ -1712,7 +1712,7 @@
       <libsource lib="Power_Management" part="AUIPS2041L" description="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
       <property name="LCSC" value=" C155647"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>78518210-5574-4629-9369-5901d9ae6a75</tstamps>
     </comp>
@@ -1726,7 +1726,7 @@
       <libsource lib="Power_Management" part="AUIPS2041L" description="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
       <property name="LCSC" value="C155647"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5f647948-20cc-4d58-b695-1af69ddf05c2</tstamps>
     </comp>
@@ -1739,7 +1739,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8bc06e07-f9c1-454c-8917-0cf9e2c87d8e</tstamps>
     </comp>
@@ -1752,7 +1752,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>07ae4373-7cb3-429a-8c56-0a5609b5d139</tstamps>
     </comp>
@@ -1766,7 +1766,7 @@
       <libsource lib="Power_Management" part="AUIPS2041L" description="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
       <property name="LCSC" value="C155647"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>19047d50-f126-42c0-b433-d07d97c24f1f</tstamps>
     </comp>
@@ -1779,7 +1779,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6a4889a1-63da-4d0a-b22d-6f560ef1e34e</tstamps>
     </comp>
@@ -1793,7 +1793,7 @@
       <libsource lib="Power_Management" part="AUIPS2041L" description="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
       <property name="LCSC" value="C155647"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3b1f74fe-dd65-4e42-a854-21617df3a005</tstamps>
     </comp>
@@ -1807,7 +1807,7 @@
       <libsource lib="Power_Management" part="AUIPS2041L" description="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
       <property name="LCSC" value="C155647"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f02fac10-ef10-42f2-b22b-c971dde0bc11</tstamps>
     </comp>
@@ -1821,7 +1821,7 @@
       <libsource lib="Power_Management" part="AUIPS2041L" description="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
       <property name="LCSC" value="C155647"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>02b13942-5757-4a2b-9918-a7c2e6a2dbe5</tstamps>
     </comp>
@@ -1835,7 +1835,7 @@
       <libsource lib="" part="MOSFET-P_3" description="Generic P-Channel HEXFET Power MOSFET"/>
       <property name="LCSC" value="C15127"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4c2e08e7-0c9f-4042-ba8b-65f3edcb1df6</tstamps>
     </comp>
@@ -1849,7 +1849,7 @@
       <libsource lib="" part="MOSFET-P_2" description="Generic P-Channel HEXFET Power MOSFET"/>
       <property name="LCSC" value="C15127"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>726a7d51-06fd-4d94-b748-ec770f0dea94</tstamps>
     </comp>
@@ -1862,7 +1862,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c418d944-7ad8-446d-8f0b-b685a11f33cd</tstamps>
     </comp>
@@ -1875,7 +1875,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>408b1f0f-c669-45b5-a50c-abb4bd4afb50</tstamps>
     </comp>
@@ -1888,7 +1888,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2cbac223-0718-430c-a886-c1ebe26fad53</tstamps>
     </comp>
@@ -1901,7 +1901,7 @@
       <libsource lib="hellen-one-common" part="MOSFET-N" description="Generic N-Channel Power MOSFET"/>
       <property name="LCSC" value=" C20917"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0832dd2a-9d05-4cf1-9d68-d119d1d5717e</tstamps>
     </comp>
@@ -1914,7 +1914,7 @@
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>74cd2ec0-68c8-4861-a03f-29918b91c18e</tstamps>
     </comp>
@@ -1927,7 +1927,7 @@
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6cccdadb-52c8-432e-b66f-f2bcd15117a6</tstamps>
     </comp>
@@ -1940,7 +1940,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>daedafb7-0cf4-4d65-ad01-73a61979b613</tstamps>
     </comp>
@@ -1953,7 +1953,7 @@
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C240722"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>40bb54e1-9aae-440a-a5bd-751019fee77f</tstamps>
     </comp>
@@ -1966,7 +1966,7 @@
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>18c7f747-0aea-4d34-91c3-6f1ffd293ae7</tstamps>
     </comp>
@@ -1979,7 +1979,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d80e0873-ca79-4d33-8992-9c0e66b94d1a</tstamps>
     </comp>
@@ -1992,7 +1992,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>30a0c881-646b-48be-a667-be782eec8420</tstamps>
     </comp>
@@ -2005,7 +2005,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>07ef1493-d44e-4243-806b-f0deda762455</tstamps>
     </comp>
@@ -2018,7 +2018,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>47177d61-30b3-408c-9b0e-a86d686cf350</tstamps>
     </comp>
@@ -2031,7 +2031,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>34502889-3c02-45a0-bb6b-aa6c84005b03</tstamps>
     </comp>
@@ -2044,7 +2044,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>239108ff-e1c4-445c-9105-52f7df047085</tstamps>
     </comp>
@@ -2057,7 +2057,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0e6c6a38-f3b4-466d-b421-c983399fe083</tstamps>
     </comp>
@@ -2070,7 +2070,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>47a2b4f2-552a-492d-a820-2d2d74ef3f36</tstamps>
     </comp>
@@ -2083,7 +2083,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>39eefd32-0e02-4a9e-8646-e8bb0c32bc39</tstamps>
     </comp>
@@ -2096,7 +2096,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>82825365-b22d-42de-8414-238f9e1bab9d</tstamps>
     </comp>
@@ -2109,7 +2109,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17944"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d584bdf8-19bb-4211-bcfc-93500e9b67d2</tstamps>
     </comp>
@@ -2122,7 +2122,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17936"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1e71343c-baf6-4a9c-b405-1d761360f177</tstamps>
     </comp>
@@ -2135,7 +2135,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17944"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>17ceb0a7-9796-4f9f-9567-100a7c7bf9a0</tstamps>
     </comp>
@@ -2148,7 +2148,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17936"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7472dcdb-ca97-45f4-9410-c8466b338e6f</tstamps>
     </comp>
@@ -2161,7 +2161,7 @@
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>abb3a1d2-ebc1-4392-9fd5-6cf8dd29d6be</tstamps>
     </comp>
@@ -2174,7 +2174,7 @@
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f9ac4f9a-2d86-435e-b7cb-38895941ce94</tstamps>
     </comp>
@@ -2187,7 +2187,7 @@
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0fd537a2-7e7c-446e-b7d3-222c637edc62</tstamps>
     </comp>
@@ -2200,7 +2200,7 @@
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6ffe0868-6a80-4d86-a7a2-5e0176a6ed2e</tstamps>
     </comp>
@@ -2213,7 +2213,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C22765"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4e2da074-66e5-4ba8-834b-f9e3ed1d166a</tstamps>
     </comp>
@@ -2226,7 +2226,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>926e5792-b947-4232-8a28-4d8a099def08</tstamps>
     </comp>
@@ -2239,7 +2239,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b24b737c-39e2-417d-b983-a70c3f7e69cf</tstamps>
     </comp>
@@ -2252,7 +2252,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C13167"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>baab8f1d-136b-44b6-b3a7-117a4d805782</tstamps>
     </comp>
@@ -2265,7 +2265,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C13167"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0d05f05c-5895-4279-8a5c-42130c0ef189</tstamps>
     </comp>
@@ -2278,7 +2278,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17944"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c0a40a03-cb62-48e1-8bc2-e840c3b7e3dc</tstamps>
     </comp>
@@ -2291,7 +2291,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17936"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>43f33581-1a37-49ac-bc81-53c028d00664</tstamps>
     </comp>
@@ -2304,7 +2304,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17944"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3cd45673-ea5f-4982-8aa9-4c677f68d332</tstamps>
     </comp>
@@ -2317,7 +2317,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17936"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>03d42a6b-ada2-4bb7-928c-6aa31dfe4e1c</tstamps>
     </comp>
@@ -2330,7 +2330,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d9f05b94-96be-47de-a9e1-7443c9ecdd1a</tstamps>
     </comp>
@@ -2343,7 +2343,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>87b71232-7519-4221-82f2-a2afd91f561b</tstamps>
     </comp>
@@ -2358,7 +2358,7 @@
       <property name="LCSC" value="C269114"/>
       <property name="MyComment" value="0"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8b205030-020d-4604-9166-8a88dda8bc89</tstamps>
     </comp>
@@ -2371,7 +2371,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2a74fb8e-7be5-4e66-b81c-19d69fc683eb</tstamps>
     </comp>
@@ -2384,7 +2384,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C22765"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8565fb00-387f-4bd4-bfba-c628da808dfc</tstamps>
     </comp>
@@ -2397,7 +2397,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5bb56620-6561-4261-b69e-c05674ee31cb</tstamps>
     </comp>
@@ -2410,7 +2410,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C22978"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6aee20d5-0004-4529-b3bd-4ef0a457f393</tstamps>
     </comp>
@@ -2423,7 +2423,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C22978"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cae59c20-1d3c-4e23-b4dc-6b4723319c3c</tstamps>
     </comp>
@@ -2436,7 +2436,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0a574c4f-0c77-49fc-82f8-c5224c47e98e</tstamps>
     </comp>
@@ -2449,7 +2449,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17710"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f5144eb5-40e2-4e8b-a7c1-d8a579fcf1f9</tstamps>
     </comp>
@@ -2462,7 +2462,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1ee7a5d6-cfee-46ef-a130-887fe60ae4e1</tstamps>
     </comp>
@@ -2475,7 +2475,7 @@
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C240722"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b7ad4174-a5e9-4721-a6db-cb2257b173b4</tstamps>
     </comp>
@@ -2488,7 +2488,7 @@
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d0b0ac11-6a47-4123-a1e6-5ac2322f3498</tstamps>
     </comp>
@@ -2501,7 +2501,7 @@
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3ef58bf3-fbc8-42f5-8e84-f9cb6d9723dd</tstamps>
     </comp>
@@ -2514,7 +2514,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b1df46c6-8a3e-4a03-822c-77b06f668bde</tstamps>
     </comp>
@@ -2527,7 +2527,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2fb413be-5636-4222-bf0c-5dfb989f597b</tstamps>
     </comp>
@@ -2540,7 +2540,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>70968395-e9b6-484d-a837-615c26c9a985</tstamps>
     </comp>
@@ -2553,7 +2553,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e7edb512-59aa-4d77-912e-f4cd2bd485c5</tstamps>
     </comp>
@@ -2567,7 +2567,7 @@
       <property name="LCSC" value=""/>
       <property name="MyComment" value="DNP"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>24a22534-f8d6-45a5-bbce-44bf57129b6a</tstamps>
     </comp>
@@ -2580,7 +2580,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>94aba523-eaab-418e-a5f7-030dd51c778d</tstamps>
     </comp>
@@ -2593,7 +2593,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3162b11d-cd9f-4607-b1b2-77023124b926</tstamps>
     </comp>
@@ -2606,7 +2606,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e44e6949-05de-46b0-a909-f3c7c57c430e</tstamps>
     </comp>
@@ -2619,7 +2619,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2f2a9d83-0f78-40a0-beef-1df0a7cdd52f</tstamps>
     </comp>
@@ -2632,7 +2632,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5d343280-4f45-48d4-b29d-31914e89ed8c</tstamps>
     </comp>
@@ -2645,7 +2645,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0460669e-1215-450a-a7ab-80d187153cdb</tstamps>
     </comp>
@@ -2658,7 +2658,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8e78ffb5-6d26-4952-a858-1b4b43ed64b9</tstamps>
     </comp>
@@ -2671,7 +2671,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c616feea-0883-4623-8360-0206fe89694c</tstamps>
     </comp>
@@ -2684,7 +2684,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f9ae5437-e165-43a2-b670-d7ee3a6c5996</tstamps>
     </comp>
@@ -2697,7 +2697,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>271c9821-c3b5-4ae4-89db-213e5800b162</tstamps>
     </comp>
@@ -2710,7 +2710,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17936"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3f93000a-3cf0-401d-a9ef-96d45bb2710d</tstamps>
     </comp>
@@ -2723,7 +2723,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17936"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>79041c37-a123-43b5-8c66-b2cfc8b1221e</tstamps>
     </comp>
@@ -2736,7 +2736,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>481d1d94-2448-44ee-8476-8ad9a0c2bda7</tstamps>
     </comp>
@@ -2749,7 +2749,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17944"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>307bbd34-c8cb-4f26-a04c-8a252bcd37ca</tstamps>
     </comp>
@@ -2762,7 +2762,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d93990e3-fbe4-4552-bbab-33d10f38ba74</tstamps>
     </comp>
@@ -2775,7 +2775,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17944"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>36450652-340e-4d8b-95e8-1d67f784d688</tstamps>
     </comp>
@@ -2788,7 +2788,7 @@
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9f4a3db1-836b-43f0-ac94-ad1e6d923354</tstamps>
     </comp>
@@ -2801,7 +2801,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C22765"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a1b8de98-89b0-4324-8434-b32bfb006ead</tstamps>
     </comp>
@@ -2814,7 +2814,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C22765"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6a0e8c9c-cbf7-408a-8836-7c24fdd3aa05</tstamps>
     </comp>
@@ -2827,7 +2827,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C22765"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f51b4a43-f4f9-48ff-8dfe-9b9166efb80f</tstamps>
     </comp>
@@ -2840,7 +2840,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C22765"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0b298167-2066-46f9-afc2-6b43e0534c75</tstamps>
     </comp>
@@ -2853,7 +2853,7 @@
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>91d75388-c4c9-4c85-9e77-ae476d0600f5</tstamps>
     </comp>
@@ -2866,7 +2866,7 @@
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8bb357cd-15d1-4db3-85b8-01c63fa41c45</tstamps>
     </comp>
@@ -2879,7 +2879,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C22978"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ebdaee1f-0be3-4a6c-940f-52ea241cd69d</tstamps>
     </comp>
@@ -2892,7 +2892,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C22978"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b539c979-47b4-43d4-8ca0-f3bd6ecbf0b8</tstamps>
     </comp>
@@ -2905,7 +2905,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C22978"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4115d916-02e2-4a18-82cb-a96835d547d0</tstamps>
     </comp>
@@ -2918,7 +2918,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C22978"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>bda10430-e40d-4284-8c39-0b69ea2a853a</tstamps>
     </comp>
@@ -2931,7 +2931,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C22978"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>276f4b63-644f-40d7-a3c9-ae5923c863e5</tstamps>
     </comp>
@@ -2944,7 +2944,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="C25804"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e6b5f4fe-3e00-415f-a831-831fffbc4daa</tstamps>
     </comp>
@@ -2957,7 +2957,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value=" C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>323ae512-5d5f-4c3f-be38-dd171374f66a</tstamps>
     </comp>
@@ -2970,7 +2970,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>73e7a24e-d42c-4b9d-bea7-8e4797b3382a</tstamps>
     </comp>
@@ -2983,7 +2983,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b6e2b9fc-418f-4067-91b6-836dec00c687</tstamps>
     </comp>
@@ -2996,7 +2996,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23192"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cf78c488-1611-40a0-85fa-15bfae75637e</tstamps>
     </comp>
@@ -3009,7 +3009,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23192"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dede5982-788e-4422-a3af-a7f72e3578e0</tstamps>
     </comp>
@@ -3022,7 +3022,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C4216"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>127200a5-32a9-48b1-95db-148873c57d82</tstamps>
     </comp>
@@ -3035,7 +3035,7 @@
       <libsource lib="hellen-one-common" part="Button_SPST" description="Single-Pole, Single-Throw Switch"/>
       <property name="LCSC" value="C115357"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f5cf27f5-0f5a-41ca-bd1a-78dcac84a3d5</tstamps>
     </comp>
@@ -3048,7 +3048,7 @@
       <libsource lib="hellen-one-common" part="Button_SPST" description="Single-Pole, Single-Throw Switch"/>
       <property name="LCSC" value="C115357"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8a889d3b-aa62-4c96-b36a-6a6b129cb1b3</tstamps>
     </comp>
@@ -3063,7 +3063,7 @@
       <property name="PN" value="TLS115D0LDXUMA1"/>
       <property name="LCSC" value="C9900011264"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dba12bde-b0e3-43eb-95a1-e2abe6f5450e</tstamps>
     </comp>
@@ -3077,7 +3077,7 @@
       <libsource lib="74xGxx" part="74LVC2G17" description="Dual Buffer Schmitt Triggered, Low-Voltage CMOS"/>
       <property name="LCSC" value="C94189"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>88cb72d6-937f-4b8a-ad42-bd7d8e3b3637 728a2f5d-4118-4a0f-ba54-839aadc20a8c</tstamps>
     </comp>
@@ -3090,7 +3090,7 @@
       <libsource lib="MPX-4_MAP" part="MPX4_MAP" description=""/>
       <property name="LCSC" value="C511770"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1cbb74cf-6235-4f4d-8098-2396d25ebebb</tstamps>
     </comp>
@@ -3109,7 +3109,7 @@
       <property name="MF" value="HuiCheng"/>
       <property name="STANDARD" value="Manufacturer Recommendations"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f763a0cc-8a22-4237-bb0d-c3487197ade5</tstamps>
     </comp>
@@ -3123,7 +3123,7 @@
       <libsource lib="74xGxx" part="74LVC2G17" description="Dual Buffer Schmitt Triggered, Low-Voltage CMOS"/>
       <property name="LCSC" value="C94189"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>55d8ba09-6eef-4867-b038-d4c119f2eddc 0a54c16e-041b-4587-a985-32ed904aa144</tstamps>
     </comp>
@@ -3144,7 +3144,7 @@
       <property name="Manufacturer" value="Infineon "/>
       <property name="LCSC" value="C112633"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>505878e6-3787-469a-8cbd-496576d67fbf</tstamps>
     </comp>
@@ -3158,7 +3158,7 @@
       <libsource lib="74xGxx" part="74LVC1G06" description="Single NOT Gate w/ Open Drain, Low-Voltage CMOS"/>
       <property name="LCSC" value="C840103"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Файл: alphax_4ch.kicad_sch"/>
+      <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1a3528cb-bb97-4760-8b17-ce16996d76d0</tstamps>
     </comp>
@@ -4199,7 +4199,7 @@
   </libparts>
   <libraries>
     <library logical="33311-24AW-2">
-      <uri>C:\Nadezhda\GitHub\alphax-4chan/alphax-2chan/33311-24AW-2.kicad_sym</uri>
+      <uri>C:\Work\rusefi\github\alphax-4chan/alphax-2chan/33311-24AW-2.kicad_sym</uri>
     </library>
     <library logical="74xGxx">
       <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/74xGxx.kicad_sym</uri>
@@ -4217,31 +4217,31 @@
       <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
     </library>
     <library logical="JDY-33">
-      <uri>C:\Nadezhda\GitHub\alphax-4chan/alphax-2chan/JDY-33.kicad_sym</uri>
+      <uri>C:\Work\rusefi\github\alphax-4chan/alphax-2chan/JDY-33.kicad_sym</uri>
     </library>
     <library logical="Power_Management">
       <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Power_Management.kicad_sym</uri>
     </library>
     <library logical="alphax">
-      <uri>C:\Nadezhda\GitHub\alphax-4chan/alphax-2chan/alphax.kicad_sym</uri>
+      <uri>C:\Work\rusefi\github\alphax-4chan/alphax-2chan/alphax.kicad_sym</uri>
     </library>
     <library logical="hellen-one-can-0.1">
-      <uri>C:\Nadezhda\GitHub\alphax-4chan/hellen-one/modules/can/0.1/can.kicad_sym</uri>
+      <uri>C:\Work\rusefi\github\alphax-4chan/hellen-one/modules/can/0.1/can.kicad_sym</uri>
     </library>
     <library logical="hellen-one-common">
-      <uri>C:\Nadezhda\GitHub\alphax-4chan/hellen-one/kicad/hellen-one-common.kicad_sym</uri>
+      <uri>C:\Work\rusefi\github\alphax-4chan/hellen-one/kicad/hellen-one-common.kicad_sym</uri>
     </library>
     <library logical="hellen-one-knock-0.2">
-      <uri>C:\Nadezhda\GitHub\alphax-4chan/hellen-one/modules/knock/0.2/knock.kicad_sym</uri>
+      <uri>C:\Work\rusefi\github\alphax-4chan/hellen-one/modules/knock/0.2/knock.kicad_sym</uri>
     </library>
     <library logical="hellen-one-power12-0.2">
-      <uri>C:\Nadezhda\GitHub\alphax-4chan/hellen-one/modules/power12/0.2/power12.kicad_sym</uri>
+      <uri>C:\Work\rusefi\github\alphax-4chan/hellen-one/modules/power12/0.2/power12.kicad_sym</uri>
     </library>
     <library logical="hellen-one-power5-0.2">
-      <uri>C:\Nadezhda\GitHub\alphax-4chan/hellen-one/modules/power5/0.2/power5.kicad_sym</uri>
+      <uri>C:\Work\rusefi\github\alphax-4chan/hellen-one/modules/power5/0.2/power5.kicad_sym</uri>
     </library>
     <library logical="logo">
-      <uri>C:\Nadezhda\GitHub\alphax-4chan/kicad6-libraries/rusefi_logo.kicad_sym</uri>
+      <uri>C:\Work\rusefi\github\alphax-4chan/kicad6-libraries/rusefi_logo.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -5575,218 +5575,226 @@
       <node ref="R75" pin="1" pintype="passive"/>
       <node ref="R77" pin="2" pintype="passive"/>
     </net>
-    <net code="239" name="Net-(U3-Pad1)">
-      <node ref="U3" pin="1" pintype="passive"/>
-      <node ref="U3" pin="5" pintype="passive"/>
-      <node ref="U3" pin="6" pintype="passive"/>
-      <node ref="U3" pin="7" pintype="passive"/>
-      <node ref="U3" pin="8" pintype="passive"/>
-    </net>
-    <net code="240" name="unconnected-(D49-Pad3)">
+    <net code="239" name="unconnected-(D49-Pad3)">
       <node ref="D49" pin="3" pintype="passive+no_connect"/>
     </net>
-    <net code="241" name="unconnected-(D55-Pad2)">
+    <net code="240" name="unconnected-(D55-Pad2)">
       <node ref="D55" pin="2" pintype="passive+no_connect"/>
     </net>
-    <net code="242" name="unconnected-(J1-Pad4)">
+    <net code="241" name="unconnected-(J1-Pad4)">
       <node ref="J1" pin="4" pinfunction="ID" pintype="passive+no_connect"/>
     </net>
-    <net code="243" name="unconnected-(J2-Pad7)">
+    <net code="242" name="unconnected-(J2-Pad7)">
       <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
     </net>
-    <net code="244" name="unconnected-(J2-Pad8)">
+    <net code="243" name="unconnected-(J2-Pad8)">
       <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
     </net>
-    <net code="245" name="unconnected-(J7-Pad1)">
+    <net code="244" name="unconnected-(J7-Pad1)">
       <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
-    <net code="246" name="unconnected-(J8-Pad1)">
+    <net code="245" name="unconnected-(J8-Pad1)">
       <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
-    <net code="247" name="unconnected-(J9-Pad1)">
+    <net code="246" name="unconnected-(J9-Pad1)">
       <node ref="J9" pin="1" pinfunction="DAT2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="248" name="unconnected-(J9-Pad8)">
+    <net code="247" name="unconnected-(J9-Pad8)">
       <node ref="J9" pin="8" pinfunction="DAT1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="249" name="unconnected-(M1-PadV2)">
+    <net code="248" name="unconnected-(M1-PadV2)">
       <node ref="M1" pin="V2" pinfunction="VBAT" pintype="passive+no_connect"/>
     </net>
-    <net code="250" name="unconnected-(M4-PadS1)">
+    <net code="249" name="unconnected-(M4-PadS1)">
       <node ref="M4" pin="S1" pinfunction="OUT_IGN8" pintype="passive+no_connect"/>
     </net>
-    <net code="251" name="unconnected-(M4-PadS2)">
+    <net code="250" name="unconnected-(M4-PadS2)">
       <node ref="M4" pin="S2" pinfunction="OUT_IGN7" pintype="passive+no_connect"/>
     </net>
-    <net code="252" name="unconnected-(M4-PadS3)">
+    <net code="251" name="unconnected-(M4-PadS3)">
       <node ref="M4" pin="S3" pinfunction="OUT_IGN6" pintype="passive+no_connect"/>
     </net>
-    <net code="253" name="unconnected-(M4-PadS4)">
+    <net code="252" name="unconnected-(M4-PadS4)">
       <node ref="M4" pin="S4" pinfunction="OUT_IGN5" pintype="passive+no_connect"/>
     </net>
-    <net code="254" name="unconnected-(M5-PadE3)">
+    <net code="253" name="unconnected-(M5-PadE3)">
       <node ref="M5" pin="E3" pinfunction="WBO_O2S2" pintype="passive+no_connect"/>
     </net>
-    <net code="255" name="unconnected-(M5-PadE4)">
+    <net code="254" name="unconnected-(M5-PadE4)">
       <node ref="M5" pin="E4" pinfunction="WBO_O2S" pintype="passive+no_connect"/>
     </net>
-    <net code="256" name="unconnected-(M5-PadJ8)">
+    <net code="255" name="unconnected-(M5-PadJ8)">
       <node ref="M5" pin="J8" pinfunction="PULL_AUX3" pintype="passive+no_connect"/>
     </net>
-    <net code="257" name="unconnected-(M5-PadJ9)">
+    <net code="256" name="unconnected-(M5-PadJ9)">
       <node ref="M5" pin="J9" pinfunction="PULL_AUX2" pintype="passive+no_connect"/>
     </net>
-    <net code="258" name="unconnected-(M5-PadJ10)">
+    <net code="257" name="unconnected-(M5-PadJ10)">
       <node ref="M5" pin="J10" pinfunction="PULL_AUX1" pintype="passive+no_connect"/>
     </net>
-    <net code="259" name="unconnected-(M5-PadJ15)">
+    <net code="258" name="unconnected-(M5-PadJ15)">
       <node ref="M5" pin="J15" pinfunction="PULL_IAT" pintype="passive+no_connect"/>
     </net>
-    <net code="260" name="unconnected-(M5-PadJ16)">
+    <net code="259" name="unconnected-(M5-PadJ16)">
       <node ref="M5" pin="J16" pinfunction="PULL_CLT" pintype="passive+no_connect"/>
     </net>
-    <net code="261" name="unconnected-(M5-PadJ17)">
+    <net code="260" name="unconnected-(M5-PadJ17)">
       <node ref="M5" pin="J17" pinfunction="PULL_CAM" pintype="passive+no_connect"/>
     </net>
-    <net code="262" name="unconnected-(M5-PadJ18)">
+    <net code="261" name="unconnected-(M5-PadJ18)">
       <node ref="M5" pin="J18" pinfunction="PULL_VSS" pintype="passive+no_connect"/>
     </net>
-    <net code="263" name="unconnected-(M5-PadJ23)">
+    <net code="262" name="unconnected-(M5-PadJ23)">
       <node ref="M5" pin="J23" pinfunction="PULL_SENS4" pintype="passive+no_connect"/>
     </net>
-    <net code="264" name="unconnected-(M5-PadJ24)">
+    <net code="263" name="unconnected-(M5-PadJ24)">
       <node ref="M5" pin="J24" pinfunction="PULL_SENS3" pintype="passive+no_connect"/>
     </net>
-    <net code="265" name="unconnected-(M5-PadJ25)">
+    <net code="264" name="unconnected-(M5-PadJ25)">
       <node ref="M5" pin="J25" pinfunction="PULL_SENS2" pintype="passive+no_connect"/>
     </net>
-    <net code="266" name="unconnected-(M5-PadJ26)">
+    <net code="265" name="unconnected-(M5-PadJ26)">
       <node ref="M5" pin="J26" pinfunction="PULL_SENS1" pintype="passive+no_connect"/>
     </net>
-    <net code="267" name="unconnected-(M5-PadN3)">
+    <net code="266" name="unconnected-(M5-PadN3)">
       <node ref="M5" pin="N3" pinfunction="RES2" pintype="passive+no_connect"/>
     </net>
-    <net code="268" name="unconnected-(M5-PadN11)">
+    <net code="267" name="unconnected-(M5-PadN11)">
       <node ref="M5" pin="N11" pinfunction="RES3" pintype="passive+no_connect"/>
     </net>
-    <net code="269" name="unconnected-(M5-PadN18)">
+    <net code="268" name="unconnected-(M5-PadN18)">
       <node ref="M5" pin="N18" pinfunction="O2S" pintype="passive+no_connect"/>
     </net>
-    <net code="270" name="unconnected-(M5-PadS9)">
+    <net code="269" name="unconnected-(M5-PadS9)">
       <node ref="M5" pin="S9" pinfunction="IN_O2S" pintype="passive+no_connect"/>
     </net>
-    <net code="271" name="unconnected-(M5-PadS11)">
+    <net code="270" name="unconnected-(M5-PadS11)">
       <node ref="M5" pin="S11" pinfunction="IN_MAP1" pintype="passive+no_connect"/>
     </net>
-    <net code="272" name="unconnected-(M5-PadS14)">
+    <net code="271" name="unconnected-(M5-PadS14)">
       <node ref="M5" pin="S14" pinfunction="VREF1" pintype="passive+no_connect"/>
     </net>
-    <net code="273" name="unconnected-(M5-PadS20)">
+    <net code="272" name="unconnected-(M5-PadS20)">
       <node ref="M5" pin="S20" pinfunction="IN_AUX3" pintype="passive+no_connect"/>
     </net>
-    <net code="274" name="unconnected-(M5-PadS22)">
+    <net code="273" name="unconnected-(M5-PadS22)">
       <node ref="M5" pin="S22" pinfunction="IN_RES3" pintype="passive+no_connect"/>
     </net>
-    <net code="275" name="unconnected-(M5-PadS26)">
+    <net code="274" name="unconnected-(M5-PadS26)">
       <node ref="M5" pin="S26" pinfunction="IN_RES2" pintype="passive+no_connect"/>
     </net>
-    <net code="276" name="unconnected-(M6-PadE1)">
+    <net code="275" name="unconnected-(M6-PadE1)">
       <node ref="M6" pin="E1" pinfunction="SPI1_SCK" pintype="passive+no_connect"/>
     </net>
-    <net code="277" name="unconnected-(M6-PadE2)">
+    <net code="276" name="unconnected-(M6-PadE2)">
       <node ref="M6" pin="E2" pinfunction="SPI1_MISO" pintype="passive+no_connect"/>
     </net>
-    <net code="278" name="unconnected-(M6-PadE3)">
+    <net code="277" name="unconnected-(M6-PadE3)">
       <node ref="M6" pin="E3" pinfunction="SPI1_MOSI" pintype="passive+no_connect"/>
     </net>
-    <net code="279" name="unconnected-(M6-PadE4)">
+    <net code="278" name="unconnected-(M6-PadE4)">
       <node ref="M6" pin="E4" pinfunction="SPI1_CS1" pintype="passive+no_connect"/>
     </net>
-    <net code="280" name="unconnected-(M6-PadE5)">
+    <net code="279" name="unconnected-(M6-PadE5)">
       <node ref="M6" pin="E5" pinfunction="SPI1_CS2" pintype="passive+no_connect"/>
     </net>
-    <net code="281" name="unconnected-(M6-PadN4)">
+    <net code="280" name="unconnected-(M6-PadN4)">
       <node ref="M6" pin="N4" pinfunction="UART8_TX" pintype="passive+no_connect"/>
     </net>
-    <net code="282" name="unconnected-(M6-PadN5)">
+    <net code="281" name="unconnected-(M6-PadN5)">
       <node ref="M6" pin="N5" pinfunction="UART8_RX" pintype="passive+no_connect"/>
     </net>
-    <net code="283" name="unconnected-(M6-PadN8)">
+    <net code="282" name="unconnected-(M6-PadN8)">
       <node ref="M6" pin="N8" pinfunction="SPI3_CS" pintype="passive+no_connect"/>
     </net>
-    <net code="284" name="unconnected-(M6-PadN9)">
+    <net code="283" name="unconnected-(M6-PadN9)">
       <node ref="M6" pin="N9" pinfunction="SPI3_SCK" pintype="passive+no_connect"/>
     </net>
-    <net code="285" name="unconnected-(M6-PadN10)">
+    <net code="284" name="unconnected-(M6-PadN10)">
       <node ref="M6" pin="N10" pinfunction="SPI3_MISO" pintype="passive+no_connect"/>
     </net>
-    <net code="286" name="unconnected-(M6-PadN11)">
+    <net code="285" name="unconnected-(M6-PadN11)">
       <node ref="M6" pin="N11" pinfunction="SPI3_MOSI" pintype="passive+no_connect"/>
     </net>
-    <net code="287" name="unconnected-(M6-PadN14)">
+    <net code="286" name="unconnected-(M6-PadN14)">
       <node ref="M6" pin="N14" pinfunction="IO3" pintype="passive+no_connect"/>
     </net>
-    <net code="288" name="unconnected-(M6-PadN15)">
+    <net code="287" name="unconnected-(M6-PadN15)">
       <node ref="M6" pin="N15" pinfunction="IO4" pintype="passive+no_connect"/>
     </net>
-    <net code="289" name="unconnected-(M6-PadN17)">
+    <net code="288" name="unconnected-(M6-PadN17)">
       <node ref="M6" pin="N17" pinfunction="VBAT" pintype="passive+no_connect"/>
     </net>
-    <net code="290" name="unconnected-(M6-PadN18)">
+    <net code="289" name="unconnected-(M6-PadN18)">
       <node ref="M6" pin="N18" pinfunction="I2C_SDA" pintype="passive+no_connect"/>
     </net>
-    <net code="291" name="unconnected-(M6-PadN19)">
+    <net code="290" name="unconnected-(M6-PadN19)">
       <node ref="M6" pin="N19" pinfunction="I2C_SCL" pintype="passive+no_connect"/>
     </net>
-    <net code="292" name="unconnected-(M6-PadN32)">
+    <net code="291" name="unconnected-(M6-PadN32)">
       <node ref="M6" pin="N32" pinfunction="USB1ID" pintype="passive+no_connect"/>
     </net>
-    <net code="293" name="unconnected-(M6-PadW5)">
+    <net code="292" name="unconnected-(M6-PadW5)">
       <node ref="M6" pin="W5" pinfunction="OUT_IGN5" pintype="passive+no_connect"/>
     </net>
-    <net code="294" name="unconnected-(M6-PadW6)">
+    <net code="293" name="unconnected-(M6-PadW6)">
       <node ref="M6" pin="W6" pinfunction="OUT_IGN6" pintype="passive+no_connect"/>
     </net>
-    <net code="295" name="unconnected-(M6-PadW7)">
+    <net code="294" name="unconnected-(M6-PadW7)">
       <node ref="M6" pin="W7" pinfunction="OUT_IGN7" pintype="passive+no_connect"/>
     </net>
-    <net code="296" name="unconnected-(M6-PadW8)">
+    <net code="295" name="unconnected-(M6-PadW8)">
       <node ref="M6" pin="W8" pinfunction="OUT_IGN8" pintype="passive+no_connect"/>
     </net>
-    <net code="297" name="unconnected-(R27-Pad3)">
+    <net code="296" name="unconnected-(R27-Pad3)">
       <node ref="R27" pin="3" pintype="passive+no_connect"/>
     </net>
-    <net code="298" name="unconnected-(R27-Pad4)">
+    <net code="297" name="unconnected-(R27-Pad4)">
       <node ref="R27" pin="4" pintype="passive+no_connect"/>
     </net>
-    <net code="299" name="unconnected-(R49-Pad4)">
+    <net code="298" name="unconnected-(R49-Pad4)">
       <node ref="R49" pin="4" pintype="passive+no_connect"/>
     </net>
-    <net code="300" name="unconnected-(R49-Pad5)">
+    <net code="299" name="unconnected-(R49-Pad5)">
       <node ref="R49" pin="5" pintype="passive+no_connect"/>
     </net>
-    <net code="301" name="unconnected-(U1-Pad2)">
+    <net code="300" name="unconnected-(U1-Pad2)">
       <node ref="U1" pin="2" pintype="no_connect"/>
     </net>
-    <net code="302" name="unconnected-(U1-Pad4)">
+    <net code="301" name="unconnected-(U1-Pad4)">
       <node ref="U1" pin="4" pintype="no_connect"/>
     </net>
-    <net code="303" name="unconnected-(U1-Pad7)">
+    <net code="302" name="unconnected-(U1-Pad7)">
       <node ref="U1" pin="7" pintype="no_connect"/>
     </net>
-    <net code="304" name="unconnected-(U1-Pad9)">
+    <net code="303" name="unconnected-(U1-Pad9)">
       <node ref="U1" pin="9" pintype="no_connect"/>
     </net>
-    <net code="305" name="unconnected-(U4-Pad5)">
+    <net code="304" name="unconnected-(U3-Pad1)">
+      <node ref="U3" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="305" name="unconnected-(U3-Pad5)">
+      <node ref="U3" pin="5" pintype="passive+no_connect"/>
+    </net>
+    <net code="306" name="unconnected-(U3-Pad6)">
+      <node ref="U3" pin="6" pintype="passive+no_connect"/>
+    </net>
+    <net code="307" name="unconnected-(U3-Pad7)">
+      <node ref="U3" pin="7" pintype="passive+no_connect"/>
+    </net>
+    <net code="308" name="unconnected-(U3-Pad8)">
+      <node ref="U3" pin="8" pintype="passive+no_connect"/>
+    </net>
+    <net code="309" name="unconnected-(U4-Pad5)">
       <node ref="U4" pin="5" pinfunction="IO1" pintype="passive+no_connect"/>
     </net>
-    <net code="306" name="unconnected-(U4-Pad6)">
+    <net code="310" name="unconnected-(U4-Pad6)">
       <node ref="U4" pin="6" pinfunction="IO2" pintype="passive+no_connect"/>
     </net>
-    <net code="307" name="unconnected-(U5-Pad4)">
+    <net code="311" name="unconnected-(U5-Pad4)">
       <node ref="U5" pin="4" pintype="output+no_connect"/>
     </net>
-    <net code="308" name="unconnected-(U6-Pad3)">
+    <net code="312" name="unconnected-(U6-Pad3)">
       <node ref="U6" pin="3" pinfunction="SO" pintype="passive+no_connect"/>
     </net>
   </nets>
