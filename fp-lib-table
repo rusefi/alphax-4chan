@@ -19,4 +19,5 @@
   (lib (name "alphax-4ch")(type "KiCad")(uri "${KIPRJMOD}")(options "")(descr "AlphaX 4-channel"))
   (lib (name "hellen-one-vr-discrete-0.4")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/vr-discrete/0.4")(options "")(descr ""))
   (lib (name "hellen-one-knock-0.2")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/knock/0.2")(options "")(descr ""))
+  (lib (name "hellen-one-mega-mcu144-0.2")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/mega-mcu144/0.2")(options "")(descr ""))
 )
