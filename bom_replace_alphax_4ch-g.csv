@@ -70,6 +70,9 @@ U6,"IFX9201SG","Infineon_PG-DSO-12-11","C112633"
 #a bit optional
 U103,
 
+# no software for accelerometer
+U1001,
+
 # remove R40 because we'll populate TLS115
 R40,
 # no Cortex 5x2 header
