@@ -453,7 +453,7 @@
       (property "Datasheet" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "power-flag" (at 0 0 0)
+      (property "ki_keywords" "global power" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_description" "Power symbol creates a global label with name \"GND\" , ground" (at 0 0 0)
@@ -662,7 +662,7 @@
           (reference "#PWR0140") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR042") (unit 1)
+          (reference "#PWR0139") (unit 1)
         )
       )
     )
@@ -731,7 +731,7 @@
           (reference "#PWR0205") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0210") (unit 1)
+          (reference "#PWR0145") (unit 1)
         )
       )
     )
@@ -759,7 +759,7 @@
           (reference "#PWR0122") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR053") (unit 1)
+          (reference "#PWR0141") (unit 1)
         )
       )
     )
@@ -869,7 +869,7 @@
           (reference "#PWR042") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0121") (unit 1)
+          (reference "#PWR0142") (unit 1)
         )
       )
     )
@@ -962,7 +962,7 @@
           (reference "#PWR0123") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR049") (unit 1)
+          (reference "#PWR0144") (unit 1)
         )
       )
     )
@@ -1032,7 +1032,7 @@
           (reference "#PWR0205") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0208") (unit 1)
+          (reference "#PWR0147") (unit 1)
         )
       )
     )
@@ -1134,7 +1134,7 @@
           (reference "#PWR0205") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0209") (unit 1)
+          (reference "#PWR0146") (unit 1)
         )
       )
     )
@@ -1195,7 +1195,7 @@
           (reference "#PWR069") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0140") (unit 1)
+          (reference "#PWR0188") (unit 1)
         )
       )
     )
@@ -1223,7 +1223,7 @@
           (reference "#PWR053") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0123") (unit 1)
+          (reference "#PWR0143") (unit 1)
         )
       )
     )
@@ -1260,7 +1260,7 @@
           (reference "#PWR0205") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0211") (unit 1)
+          (reference "#PWR0148") (unit 1)
         )
       )
     )
@@ -1321,7 +1321,7 @@
           (reference "#PWR0121") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR069") (unit 1)
+          (reference "#PWR0186") (unit 1)
         )
       )
     )
@@ -1390,7 +1390,7 @@
           (reference "#PWR049") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0122") (unit 1)
+          (reference "#PWR0187") (unit 1)
         )
       )
     )

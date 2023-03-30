@@ -255,7 +255,7 @@
       (property "Datasheet" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "power-flag" (at 0 0 0)
+      (property "ki_keywords" "global power" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_description" "Power symbol creates a global label with name \"GND\" , ground" (at 0 0 0)
@@ -584,7 +584,7 @@
           (reference "#PWR048") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/0ceee54c-f64b-46dd-8af3-5c6e2df44ac2"
-          (reference "#PWR038") (unit 1)
+          (reference "#PWR0182") (unit 1)
         )
       )
     )
@@ -695,7 +695,7 @@
           (reference "#PWR065") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/0ceee54c-f64b-46dd-8af3-5c6e2df44ac2"
-          (reference "#PWR034") (unit 1)
+          (reference "#PWR0181") (unit 1)
         )
       )
     )
@@ -805,7 +805,7 @@
           (reference "#PWR0135") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/0ceee54c-f64b-46dd-8af3-5c6e2df44ac2"
-          (reference "#PWR0146") (unit 1)
+          (reference "#PWR0184") (unit 1)
         )
       )
     )
@@ -845,7 +845,7 @@
           (reference "#PWR0134") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/0ceee54c-f64b-46dd-8af3-5c6e2df44ac2"
-          (reference "#PWR0130") (unit 1)
+          (reference "#PWR0183") (unit 1)
         )
       )
     )

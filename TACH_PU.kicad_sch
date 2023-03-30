@@ -666,7 +666,7 @@
       (property "Datasheet" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "power-flag" (at 0 0 0)
+      (property "ki_keywords" "global power" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_description" "Power symbol creates a global label with name \"+5V\"" (at 0 0 0)
@@ -718,7 +718,7 @@
       (property "Datasheet" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "power-flag" (at 0 0 0)
+      (property "ki_keywords" "global power" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_description" "Power symbol creates a global label with name \"GND\" , ground" (at 0 0 0)
@@ -915,7 +915,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/15162d4d-e221-4df0-bbe4-06499b4ace57"
-          (reference "#PWR0144") (unit 1)
+          (reference "#PWR0164") (unit 1)
         )
       )
     )
@@ -1041,7 +1041,7 @@
           (reference "#PWR050") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/15162d4d-e221-4df0-bbe4-06499b4ace57"
-          (reference "#PWR0142") (unit 1)
+          (reference "#PWR0162") (unit 1)
         )
       )
     )
@@ -1204,7 +1204,7 @@
           (reference "#PWR039") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/15162d4d-e221-4df0-bbe4-06499b4ace57"
-          (reference "#PWR0113") (unit 1)
+          (reference "#PWR0166") (unit 1)
         )
       )
     )
@@ -1232,7 +1232,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/15162d4d-e221-4df0-bbe4-06499b4ace57"
-          (reference "#PWR0138") (unit 1)
+          (reference "#PWR0163") (unit 1)
         )
       )
     )
@@ -1292,7 +1292,7 @@
           (reference "#PWR070") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/15162d4d-e221-4df0-bbe4-06499b4ace57"
-          (reference "#PWR0114") (unit 1)
+          (reference "#PWR0165") (unit 1)
         )
       )
     )
@@ -1352,7 +1352,7 @@
           (reference "#PWR038") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/15162d4d-e221-4df0-bbe4-06499b4ace57"
-          (reference "#PWR0102") (unit 1)
+          (reference "#PWR0189") (unit 1)
         )
       )
     )

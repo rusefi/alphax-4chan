@@ -557,7 +557,7 @@
       (property "Datasheet" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "power-flag" (at 0 0 0)
+      (property "ki_keywords" "global power" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_description" "Power symbol creates a global label with name \"GND\" , ground" (at 0 0 0)
@@ -672,7 +672,7 @@
           (reference "#PWR0102") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/7c8c7251-8197-4c76-ae15-438276240430"
-          (reference "#PWR055") (unit 1)
+          (reference "#PWR0160") (unit 1)
         )
       )
     )
@@ -885,7 +885,7 @@
           (reference "#PWR059") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/7c8c7251-8197-4c76-ae15-438276240430"
-          (reference "#PWR043") (unit 1)
+          (reference "#PWR0161") (unit 1)
         )
       )
     )
