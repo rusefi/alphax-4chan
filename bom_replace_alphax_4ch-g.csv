@@ -8,9 +8,6 @@ R105,
 # remove jumper resistor connecting BOOT1 with A22 input line, because we use STM32F4
 R131,
 
-# STM32
-U105,"STM32F407ZGT6","LQFP144","C19156"
-
 #Alpha4Ch: We don't use VREF1 & VREF2, so we don't need these resistors
 R212,
 R213,
