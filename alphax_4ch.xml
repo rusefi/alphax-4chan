@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Work\rusefi\github\alphax-4chan\alphax_4ch.kicad_sch</source>
-    <date>4/3/2023 12:52:32 AM</date>
+    <date>4/3/2023 1:01:32 AM</date>
     <tool>Eeschema 7.0.1-115-g2ece2719d0</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -2211,7 +2211,7 @@
       <sheetpath names="/INJ/" tstamps="/25155a6a-b730-4539-b065-c798d1d9d962/"/>
       <tstamps>47f0ee60-9b3c-412c-9ec4-3cd76fcf5840</tstamps>
     </comp>
-    <comp ref="R100">
+    <comp ref="R1100">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -2225,7 +2225,7 @@
       <sheetpath names="/INJ/" tstamps="/25155a6a-b730-4539-b065-c798d1d9d962/"/>
       <tstamps>59d93989-0a6c-4a56-abe0-8342622fc073</tstamps>
     </comp>
-    <comp ref="R101">
+    <comp ref="R1101">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -2355,7 +2355,7 @@
       <sheetpath names="/LS1/" tstamps="/6c46a945-8c60-46f9-927f-d661c7787628/"/>
       <tstamps>689e7770-a0ca-4865-bd92-b2c52a414616</tstamps>
     </comp>
-    <comp ref="R102">
+    <comp ref="R1102">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -2369,7 +2369,7 @@
       <sheetpath names="/LS1/" tstamps="/6c46a945-8c60-46f9-927f-d661c7787628/"/>
       <tstamps>f21b97c9-7559-42a0-90e1-ad79ba5fcb57</tstamps>
     </comp>
-    <comp ref="R103">
+    <comp ref="R1103">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -2383,7 +2383,7 @@
       <sheetpath names="/LS1/" tstamps="/6c46a945-8c60-46f9-927f-d661c7787628/"/>
       <tstamps>422e0714-2379-441d-a2b2-26823a4d1c91</tstamps>
     </comp>
-    <comp ref="R104">
+    <comp ref="R1104">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -2397,7 +2397,7 @@
       <sheetpath names="/LS1/" tstamps="/6c46a945-8c60-46f9-927f-d661c7787628/"/>
       <tstamps>0915aa06-f965-4921-88f1-42d59f5d8333</tstamps>
     </comp>
-    <comp ref="R105">
+    <comp ref="R1105">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -2770,7 +2770,7 @@
       <sheetpath names="/LS2/" tstamps="/379f9dcd-388e-47c8-940c-7787005440d1/"/>
       <tstamps>689e7770-a0ca-4865-bd92-b2c52a414616</tstamps>
     </comp>
-    <comp ref="R106">
+    <comp ref="R1106">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -2784,7 +2784,7 @@
       <sheetpath names="/LS2/" tstamps="/379f9dcd-388e-47c8-940c-7787005440d1/"/>
       <tstamps>f21b97c9-7559-42a0-90e1-ad79ba5fcb57</tstamps>
     </comp>
-    <comp ref="R107">
+    <comp ref="R1107">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -2798,7 +2798,7 @@
       <sheetpath names="/LS2/" tstamps="/379f9dcd-388e-47c8-940c-7787005440d1/"/>
       <tstamps>422e0714-2379-441d-a2b2-26823a4d1c91</tstamps>
     </comp>
-    <comp ref="R108">
+    <comp ref="R1108">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -2812,7 +2812,7 @@
       <sheetpath names="/LS2/" tstamps="/379f9dcd-388e-47c8-940c-7787005440d1/"/>
       <tstamps>0915aa06-f965-4921-88f1-42d59f5d8333</tstamps>
     </comp>
-    <comp ref="R109">
+    <comp ref="R1109">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -2941,7 +2941,7 @@
       <sheetpath names="/LS_weak/" tstamps="/d86ecd12-d50a-4fcf-baad-7cff6bac9c13/"/>
       <tstamps>d31e74c7-4077-444d-813e-3f22d47e620b</tstamps>
     </comp>
-    <comp ref="R110">
+    <comp ref="R1110">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -2955,7 +2955,7 @@
       <sheetpath names="/LS_weak/" tstamps="/d86ecd12-d50a-4fcf-baad-7cff6bac9c13/"/>
       <tstamps>1c50f13c-9b70-44b5-ac8f-0b55b1bc1ee3</tstamps>
     </comp>
-    <comp ref="R111">
+    <comp ref="R1111">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -2969,7 +2969,7 @@
       <sheetpath names="/LS_weak/" tstamps="/d86ecd12-d50a-4fcf-baad-7cff6bac9c13/"/>
       <tstamps>4fbee200-0c5e-422e-b791-1a401dc35298</tstamps>
     </comp>
-    <comp ref="R112">
+    <comp ref="R1112">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -2983,7 +2983,7 @@
       <sheetpath names="/LS_weak/" tstamps="/d86ecd12-d50a-4fcf-baad-7cff6bac9c13/"/>
       <tstamps>3f9635e0-7d93-4943-bd4d-10796831c290</tstamps>
     </comp>
-    <comp ref="R113">
+    <comp ref="R1113">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -3711,7 +3711,7 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>985bc914-28e7-49ba-a92c-0bd2d9f31257</tstamps>
     </comp>
-    <comp ref="R125">
+    <comp ref="R1125">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -3725,7 +3725,7 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>7317a0e3-9fe8-432b-83fa-fe6b2b3a6c31</tstamps>
     </comp>
-    <comp ref="R126">
+    <comp ref="R1126">
       <value>2k</value>
       <footprint>hellen-one-common:R1206</footprint>
       <fields>
@@ -3739,7 +3739,7 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>7633af57-881f-4281-a05c-748e2a5eb0da</tstamps>
     </comp>
-    <comp ref="R127">
+    <comp ref="R1127">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -3753,7 +3753,7 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>f9659cc9-0f9f-402c-982a-41a446f72cb1</tstamps>
     </comp>
-    <comp ref="R128">
+    <comp ref="R1128">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -3767,7 +3767,7 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>89c89059-96d3-42ef-8d85-c8dbf0c6d73b</tstamps>
     </comp>
-    <comp ref="R129">
+    <comp ref="R1129">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -3781,7 +3781,7 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>02399822-cdda-4ed5-9f51-4a65d70ec1c0</tstamps>
     </comp>
-    <comp ref="R131">
+    <comp ref="R1131">
       <value>2k</value>
       <footprint>hellen-one-common:R1206</footprint>
       <fields>
@@ -3795,7 +3795,7 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>6f10c88c-23de-4990-b699-9624860f92b0</tstamps>
     </comp>
-    <comp ref="R132">
+    <comp ref="R1132">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -3809,7 +3809,7 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>02f54db1-f3d2-44d7-8fa8-ce2ac2fe2fbb</tstamps>
     </comp>
-    <comp ref="R135">
+    <comp ref="R1135">
       <value>2k</value>
       <footprint>hellen-one-common:R1206</footprint>
       <fields>
@@ -3823,7 +3823,7 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>163bfcd4-e131-462f-bcc5-ed167d1ddf7a</tstamps>
     </comp>
-    <comp ref="R136">
+    <comp ref="R1136">
       <value>2k</value>
       <footprint>hellen-one-common:R1206</footprint>
       <fields>
@@ -3837,7 +3837,7 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>86415b86-1652-4bf3-8cba-20f44abaeb0e</tstamps>
     </comp>
-    <comp ref="R137">
+    <comp ref="R1137">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -3851,7 +3851,7 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>dd0bd640-ba2c-4348-b52a-dfab7f6fbfa4</tstamps>
     </comp>
-    <comp ref="R138">
+    <comp ref="R1138">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -3865,7 +3865,7 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>d1029615-4a83-4f5c-a5f7-8dd21500b06c</tstamps>
     </comp>
-    <comp ref="R139">
+    <comp ref="R1139">
       <value>2k</value>
       <footprint>hellen-one-common:R1206</footprint>
       <fields>
@@ -3879,7 +3879,7 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>af815b87-5869-49e0-91b4-8a50d5ce525c</tstamps>
     </comp>
-    <comp ref="R140">
+    <comp ref="R1140">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
@@ -3893,7 +3893,7 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>ec4d1065-11c2-4b05-9f41-9962bd30d5a6</tstamps>
     </comp>
-    <comp ref="R141">
+    <comp ref="R1141">
       <value>2k</value>
       <footprint>hellen-one-common:R1206</footprint>
       <fields>
@@ -5257,7 +5257,7 @@
     <net code="24" name="/BOOST">
       <node ref="M2" pin="S1" pinfunction="OUT_IGN8" pintype="passive"/>
       <node ref="Q44" pin="1" pinfunction="IN" pintype="input"/>
-      <node ref="R105" pin="1" pintype="passive"/>
+      <node ref="R1105" pin="1" pintype="passive"/>
     </net>
     <net code="25" name="/C2">
       <node ref="P1" pin="18" pinfunction="C2" pintype="passive"/>
@@ -5287,7 +5287,7 @@
     <net code="31" name="/CAM_VR_PULLUP">
       <node ref="M7" pin="E11" pinfunction="OUT_IO9" pintype="passive"/>
       <node ref="Q51" pin="1" pinfunction="G" pintype="input"/>
-      <node ref="R137" pin="1" pintype="passive"/>
+      <node ref="R1137" pin="1" pintype="passive"/>
       <node ref="R49" pin="3" pintype="passive"/>
     </net>
     <net code="32" name="/CAN+">
@@ -5307,7 +5307,7 @@
     <net code="35" name="/CRANK_P_PULLUP">
       <node ref="M7" pin="E12" pinfunction="OUT_IO2" pintype="passive"/>
       <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
-      <node ref="R125" pin="2" pintype="passive"/>
+      <node ref="R1125" pin="2" pintype="passive"/>
       <node ref="R49" pin="1" pintype="passive"/>
     </net>
     <net code="36" name="/D1">
@@ -5425,7 +5425,7 @@
     <net code="62" name="/FAN_RELAY">
       <node ref="M2" pin="S4" pinfunction="OUT_IGN5" pintype="passive"/>
       <node ref="Q41" pin="1" pinfunction="IN" pintype="input"/>
-      <node ref="R102" pin="1" pintype="passive"/>
+      <node ref="R1102" pin="1" pintype="passive"/>
     </net>
     <net code="63" name="/HALL1">
       <node ref="D34" pin="2" pinfunction="K" pintype="passive"/>
@@ -5463,12 +5463,12 @@
     <net code="69" name="/IDLE1">
       <node ref="M2" pin="S3" pinfunction="OUT_IGN6" pintype="passive"/>
       <node ref="Q42" pin="1" pinfunction="IN" pintype="input"/>
-      <node ref="R103" pin="1" pintype="passive"/>
+      <node ref="R1103" pin="1" pintype="passive"/>
     </net>
     <net code="70" name="/IDLE2">
       <node ref="M2" pin="S2" pinfunction="OUT_IGN7" pintype="passive"/>
       <node ref="Q43" pin="1" pinfunction="IN" pintype="input"/>
-      <node ref="R104" pin="1" pintype="passive"/>
+      <node ref="R1104" pin="1" pintype="passive"/>
     </net>
     <net code="71" name="/INJ1">
       <node ref="M2" pin="S8" pinfunction="OUT_IGN1" pintype="passive"/>
@@ -5483,22 +5483,22 @@
     <net code="73" name="/INJ3">
       <node ref="M2" pin="S6" pinfunction="OUT_IGN3" pintype="passive"/>
       <node ref="Q26" pin="1" pinfunction="IN" pintype="input"/>
-      <node ref="R100" pin="1" pintype="passive"/>
+      <node ref="R1100" pin="1" pintype="passive"/>
     </net>
     <net code="74" name="/INJ4">
       <node ref="M2" pin="S5" pinfunction="OUT_IGN4" pintype="passive"/>
       <node ref="Q30" pin="1" pinfunction="IN" pintype="input"/>
-      <node ref="R101" pin="1" pintype="passive"/>
+      <node ref="R1101" pin="1" pintype="passive"/>
     </net>
     <net code="75" name="/INJ5">
       <node ref="M6" pin="S8" pinfunction="OUT_IGN1" pintype="passive"/>
       <node ref="Q45" pin="1" pinfunction="IN" pintype="input"/>
-      <node ref="R106" pin="1" pintype="passive"/>
+      <node ref="R1106" pin="1" pintype="passive"/>
     </net>
     <net code="76" name="/INJ6">
       <node ref="M6" pin="S7" pinfunction="OUT_IGN2" pintype="passive"/>
       <node ref="Q46" pin="1" pinfunction="IN" pintype="input"/>
-      <node ref="R107" pin="1" pintype="passive"/>
+      <node ref="R1107" pin="1" pintype="passive"/>
     </net>
     <net code="77" name="/IN_2STEP">
       <node ref="D12" pin="2" pinfunction="K" pintype="passive"/>
@@ -5529,7 +5529,7 @@
     <net code="81" name="/IN_CAM_VR+">
       <node ref="C21" pin="2" pintype="passive"/>
       <node ref="M3" pin="W2" pinfunction="VR+" pintype="passive"/>
-      <node ref="R139" pin="2" pintype="passive"/>
+      <node ref="R1139" pin="2" pintype="passive"/>
       <node ref="R61" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R72" pin="2" pintype="passive"/>
     </net>
@@ -5552,14 +5552,14 @@
       <node ref="C17" pin="2" pintype="passive"/>
       <node ref="M8" pin="W2" pinfunction="VR+" pintype="passive"/>
       <node ref="R11" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="R126" pin="2" pintype="passive"/>
+      <node ref="R1126" pin="2" pintype="passive"/>
       <node ref="R22" pin="2" pintype="passive"/>
     </net>
     <net code="86" name="/IN_CRANK-">
       <node ref="C20" pin="2" pintype="passive"/>
       <node ref="M8" pin="W1" pinfunction="VR-" pintype="passive"/>
+      <node ref="R1135" pin="2" pintype="passive"/>
       <node ref="R12" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="R135" pin="2" pintype="passive"/>
       <node ref="R35" pin="2" pintype="passive"/>
     </net>
     <net code="87" name="/IN_D2">
@@ -5631,7 +5631,7 @@
     <net code="102" name="/MAIN">
       <node ref="M7" pin="E10" pinfunction="OUT_IO10" pintype="passive"/>
       <node ref="Q10" pin="1" pinfunction="G" pintype="input"/>
-      <node ref="R113" pin="1" pintype="passive"/>
+      <node ref="R1113" pin="1" pintype="passive"/>
     </net>
     <net code="103" name="/MCU/NRESET">
       <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
@@ -5720,7 +5720,7 @@
     <net code="122" name="/NOS">
       <node ref="M7" pin="E9" pinfunction="OUT_IO6" pintype="passive"/>
       <node ref="Q27" pin="1" pinfunction="G" pintype="input"/>
-      <node ref="R110" pin="1" pintype="passive"/>
+      <node ref="R1110" pin="1" pintype="passive"/>
     </net>
     <net code="123" name="/OUT_BOOST">
       <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
@@ -5868,7 +5868,7 @@
     <net code="148" name="/PUMP_RELAY">
       <node ref="M7" pin="E13" pinfunction="OUT_IO12" pintype="passive"/>
       <node ref="Q24" pin="1" pinfunction="G" pintype="input"/>
-      <node ref="R111" pin="1" pintype="passive"/>
+      <node ref="R1111" pin="1" pintype="passive"/>
     </net>
     <net code="149" name="/PWR_EN">
       <node ref="M1" pin="E5" pinfunction="EN_5VP" pintype="passive"/>
@@ -5877,7 +5877,7 @@
     <net code="150" name="/TACH">
       <node ref="M7" pin="N21" pinfunction="IO3" pintype="passive"/>
       <node ref="Q11" pin="1" pinfunction="G" pintype="input"/>
-      <node ref="R112" pin="1" pintype="passive"/>
+      <node ref="R1112" pin="1" pintype="passive"/>
     </net>
     <net code="151" name="/TACH_PULLUP">
       <node ref="M7" pin="E8" pinfunction="OUT_IO1" pintype="passive"/>
@@ -5920,12 +5920,12 @@
     <net code="160" name="/VVT1">
       <node ref="M7" pin="W5" pinfunction="IGN7" pintype="passive"/>
       <node ref="Q47" pin="1" pinfunction="IN" pintype="input"/>
-      <node ref="R108" pin="1" pintype="passive"/>
+      <node ref="R1108" pin="1" pintype="passive"/>
     </net>
     <net code="161" name="/VVT2">
       <node ref="M7" pin="W4" pinfunction="IGN8" pintype="passive"/>
       <node ref="Q48" pin="1" pinfunction="IN" pintype="input"/>
-      <node ref="R109" pin="1" pintype="passive"/>
+      <node ref="R1109" pin="1" pintype="passive"/>
     </net>
     <net code="162" name="GND">
       <node ref="C1" pin="1" pintype="passive"/>
@@ -6011,22 +6011,22 @@
       <node ref="Q7" pin="3" pinfunction="S" pintype="power_in"/>
       <node ref="Q8" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="Q9" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="R100" pin="2" pintype="passive"/>
-      <node ref="R101" pin="2" pintype="passive"/>
-      <node ref="R102" pin="2" pintype="passive"/>
-      <node ref="R103" pin="2" pintype="passive"/>
-      <node ref="R104" pin="2" pintype="passive"/>
-      <node ref="R105" pin="2" pintype="passive"/>
-      <node ref="R106" pin="2" pintype="passive"/>
-      <node ref="R107" pin="2" pintype="passive"/>
-      <node ref="R108" pin="2" pintype="passive"/>
-      <node ref="R109" pin="2" pintype="passive"/>
-      <node ref="R110" pin="2" pintype="passive"/>
-      <node ref="R111" pin="2" pintype="passive"/>
-      <node ref="R112" pin="2" pintype="passive"/>
-      <node ref="R113" pin="2" pintype="passive"/>
-      <node ref="R125" pin="1" pintype="passive"/>
-      <node ref="R137" pin="2" pintype="passive"/>
+      <node ref="R1100" pin="2" pintype="passive"/>
+      <node ref="R1101" pin="2" pintype="passive"/>
+      <node ref="R1102" pin="2" pintype="passive"/>
+      <node ref="R1103" pin="2" pintype="passive"/>
+      <node ref="R1104" pin="2" pintype="passive"/>
+      <node ref="R1105" pin="2" pintype="passive"/>
+      <node ref="R1106" pin="2" pintype="passive"/>
+      <node ref="R1107" pin="2" pintype="passive"/>
+      <node ref="R1108" pin="2" pintype="passive"/>
+      <node ref="R1109" pin="2" pintype="passive"/>
+      <node ref="R1110" pin="2" pintype="passive"/>
+      <node ref="R1111" pin="2" pintype="passive"/>
+      <node ref="R1112" pin="2" pintype="passive"/>
+      <node ref="R1113" pin="2" pintype="passive"/>
+      <node ref="R1125" pin="1" pintype="passive"/>
+      <node ref="R1137" pin="2" pintype="passive"/>
       <node ref="R14" pin="2" pintype="passive"/>
       <node ref="R27" pin="2" pintype="passive"/>
       <node ref="R29" pin="2" pintype="passive"/>
@@ -6243,7 +6243,7 @@
     </net>
     <net code="205" name="Net-(Q1-D)">
       <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
-      <node ref="R128" pin="1" pintype="passive"/>
+      <node ref="R1128" pin="1" pintype="passive"/>
     </net>
     <net code="206" name="Net-(Q2-G)">
       <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
@@ -6252,7 +6252,7 @@
     </net>
     <net code="207" name="Net-(Q3-D)">
       <node ref="Q3" pin="2" pinfunction="D" pintype="passive"/>
-      <node ref="R132" pin="1" pintype="passive"/>
+      <node ref="R1132" pin="1" pintype="passive"/>
     </net>
     <net code="208" name="Net-(Q5-D)">
       <node ref="Q5" pin="2" pinfunction="D" pintype="passive"/>
@@ -6322,51 +6322,51 @@
     <net code="221" name="Net-(Q35-G)">
       <node ref="Q35" pin="1" pinfunction="G" pintype="input"/>
       <node ref="Q36" pin="1" pinfunction="G" pintype="input"/>
-      <node ref="R129" pin="1" pintype="passive"/>
-      <node ref="R132" pin="2" pintype="passive"/>
+      <node ref="R1129" pin="1" pintype="passive"/>
+      <node ref="R1132" pin="2" pintype="passive"/>
     </net>
     <net code="222" name="Net-(Q35-S)">
       <node ref="Q35" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="Q36" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="R129" pin="2" pintype="passive"/>
+      <node ref="R1129" pin="2" pintype="passive"/>
     </net>
     <net code="223" name="Net-(Q36-D)">
       <node ref="Q36" pin="2" pinfunction="D" pintype="passive"/>
-      <node ref="R131" pin="1" pintype="passive"/>
+      <node ref="R1131" pin="1" pintype="passive"/>
     </net>
     <net code="224" name="Net-(Q49-G)">
       <node ref="Q49" pin="1" pinfunction="G" pintype="input"/>
       <node ref="Q50" pin="1" pinfunction="G" pintype="input"/>
-      <node ref="R127" pin="1" pintype="passive"/>
-      <node ref="R128" pin="2" pintype="passive"/>
+      <node ref="R1127" pin="1" pintype="passive"/>
+      <node ref="R1128" pin="2" pintype="passive"/>
     </net>
     <net code="225" name="Net-(Q49-S)">
       <node ref="Q49" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="Q50" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="R127" pin="2" pintype="passive"/>
+      <node ref="R1127" pin="2" pintype="passive"/>
     </net>
     <net code="226" name="Net-(Q50-D)">
       <node ref="Q50" pin="2" pinfunction="D" pintype="passive"/>
-      <node ref="R136" pin="1" pintype="passive"/>
+      <node ref="R1136" pin="1" pintype="passive"/>
     </net>
     <net code="227" name="Net-(Q51-D)">
       <node ref="Q51" pin="2" pinfunction="D" pintype="passive"/>
-      <node ref="R138" pin="1" pintype="passive"/>
+      <node ref="R1138" pin="1" pintype="passive"/>
     </net>
     <net code="228" name="Net-(Q52-G)">
       <node ref="Q52" pin="1" pinfunction="G" pintype="input"/>
       <node ref="Q53" pin="1" pinfunction="G" pintype="input"/>
-      <node ref="R138" pin="2" pintype="passive"/>
-      <node ref="R140" pin="1" pintype="passive"/>
+      <node ref="R1138" pin="2" pintype="passive"/>
+      <node ref="R1140" pin="1" pintype="passive"/>
     </net>
     <net code="229" name="Net-(Q52-S)">
       <node ref="Q52" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="Q53" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="R140" pin="2" pintype="passive"/>
+      <node ref="R1140" pin="2" pintype="passive"/>
     </net>
     <net code="230" name="Net-(Q53-D)">
       <node ref="Q53" pin="2" pinfunction="D" pintype="passive"/>
-      <node ref="R141" pin="1" pintype="passive"/>
+      <node ref="R1141" pin="1" pintype="passive"/>
     </net>
     <net code="231" name="Net-(R22-Pad1)">
       <node ref="R22" pin="1" pintype="passive"/>
@@ -6380,17 +6380,17 @@
       <node ref="R72" pin="1" pintype="passive"/>
       <node ref="R73" pin="2" pintype="passive"/>
     </net>
-    <net code="234" name="Net-(R126-Pad1)">
-      <node ref="R126" pin="1" pintype="passive"/>
-      <node ref="R131" pin="2" pintype="passive"/>
+    <net code="234" name="Net-(R1126-Pad1)">
+      <node ref="R1126" pin="1" pintype="passive"/>
+      <node ref="R1131" pin="2" pintype="passive"/>
     </net>
-    <net code="235" name="Net-(R135-Pad1)">
-      <node ref="R135" pin="1" pintype="passive"/>
-      <node ref="R136" pin="2" pintype="passive"/>
+    <net code="235" name="Net-(R1135-Pad1)">
+      <node ref="R1135" pin="1" pintype="passive"/>
+      <node ref="R1136" pin="2" pintype="passive"/>
     </net>
-    <net code="236" name="Net-(R139-Pad1)">
-      <node ref="R139" pin="1" pintype="passive"/>
-      <node ref="R141" pin="2" pintype="passive"/>
+    <net code="236" name="Net-(R1139-Pad1)">
+      <node ref="R1139" pin="1" pintype="passive"/>
+      <node ref="R1141" pin="2" pintype="passive"/>
     </net>
     <net code="237" name="unconnected-(D25-Pad2)">
       <node ref="D25" pin="2" pintype="passive+no_connect"/>
