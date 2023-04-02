@@ -653,11 +653,11 @@
         )
       )
     )
-    (symbol "power:+5V" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "power:+5VA" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Value" "+5V" (at 0 3.556 0)
+      (property "Value" "+5VA" (at 0 3.556 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (at 0 0 0)
@@ -669,10 +669,10 @@
       (property "ki_keywords" "global power" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Power symbol creates a global label with name \"+5V\"" (at 0 0 0)
+      (property "ki_description" "Power symbol creates a global label with name \"+5VA\"" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "+5V_0_1"
+      (symbol "+5VA_0_1"
         (polyline
           (pts
             (xy -0.762 1.27)
@@ -698,9 +698,9 @@
           (fill (type none))
         )
       )
-      (symbol "+5V_1_1"
+      (symbol "+5VA_1_1"
         (pin power_in line (at 0 0 90) (length 0) hide
-          (name "+5V" (effects (font (size 1.27 1.27))))
+          (name "+5VA" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
       )
@@ -1019,13 +1019,13 @@
     )
   )
 
-  (symbol (lib_id "power:+5V") (at 88.9 40.64 0) (unit 1)
+  (symbol (lib_id "power:+5VA") (at 88.9 40.64 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
-    (uuid 7263e58b-0cfd-4949-b8bc-069a44403c74)
-    (property "Reference" "#PWR050" (at 88.9 44.45 0)
+    (uuid 6135e7c8-6bc3-45bf-b1ee-f3e09c1e34c5)
+    (property "Reference" "#PWR067" (at 88.9 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+5V" (at 88.9 36.83 0)
+    (property "Value" "+5VA" (at 88.9 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 88.9 40.64 0)
@@ -1034,14 +1034,17 @@
     (property "Datasheet" "" (at 88.9 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4109178b-3a0f-41a7-ad71-3ccbda0f1b3e))
+    (pin "1" (uuid f62fbacd-9ef6-4e3f-b645-9bba6ac33f91))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
-          (reference "#PWR050") (unit 1)
+          (reference "#PWR067") (unit 1)
+        )
+        (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/c3470145-cca5-462e-8136-3f6ead667763"
+          (reference "#PWR055") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/15162d4d-e221-4df0-bbe4-06499b4ace57"
-          (reference "#PWR0162") (unit 1)
+          (reference "#PWR049") (unit 1)
         )
       )
     )

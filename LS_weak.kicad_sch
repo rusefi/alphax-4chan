@@ -671,7 +671,7 @@
   (symbol (lib_id "hellen-one-common:1N4148WS") (at 154.94 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 38f6b928-9c71-403e-8901-e0bc391eb812)
-    (property "Reference" "D27" (at 156.21 100.33 0)
+    (property "Reference" "D27" (at 156.21 102.235 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "B5819W" (at 157.48 104.14 0)
