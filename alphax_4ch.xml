@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Work\rusefi\github\alphax-4chan\alphax_4ch.kicad_sch</source>
-    <date>4/3/2023 12:43:54 AM</date>
+    <date>4/3/2023 12:52:32 AM</date>
     <tool>Eeschema 7.0.1-115-g2ece2719d0</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -2620,13 +2620,13 @@
       <tstamps>64c073b7-0e16-4ce2-81a5-7ff61e590510</tstamps>
     </comp>
     <comp ref="R90">
-      <value>10k</value>
+      <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="LCSC">C22978</field>
+        <field name="LCSC">C23162</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C22978"/>
+      <property name="LCSC" value="C23162"/>
       <property name="Sheetname" value="ETB"/>
       <property name="Sheetfile" value="ETB.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
