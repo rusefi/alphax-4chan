@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Work\rusefi\github\alphax-4chan\alphax_4ch.kicad_sch</source>
-    <date>4/3/2023 1:01:32 AM</date>
+    <date>4/3/2023 6:41:34 PM</date>
     <tool>Eeschema 7.0.1-115-g2ece2719d0</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -273,13 +273,14 @@
       <tstamps>24ef0a7b-16d3-4032-b718-47e6c0453c60</tstamps>
     </comp>
     <comp ref="C20">
-      <value>1n 250V</value>
+      <value>~</value>
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
-        <field name="LCSC">C277510</field>
+        <field name="MyComment">DNP</field>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C277510"/>
+      <property name="LCSC" value=""/>
+      <property name="MyComment" value="DNP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <property name="ki_description" value="Capacitor"/>
@@ -287,18 +288,19 @@
       <tstamps>fce4b543-094b-4552-942f-6d8805f06aab</tstamps>
     </comp>
     <comp ref="C21">
-      <value>1n 250V</value>
+      <value>~</value>
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
-        <field name="LCSC">C277510</field>
+        <field name="MyComment">DNP</field>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C277510"/>
+      <property name="LCSC" value=""/>
+      <property name="MyComment" value="DNP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <property name="ki_description" value="Capacitor"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>ab46927e-83c5-4305-b9d5-c57c4d5d4865</tstamps>
+      <tstamps>e00dd12c-8e20-4d73-b26c-7d1c932c2487</tstamps>
     </comp>
     <comp ref="D1">
       <value>1N4148WS</value>
@@ -3526,6 +3528,54 @@
       <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
       <tstamps>f5c13756-9f42-487f-82d9-8542b2047f33</tstamps>
     </comp>
+    <comp ref="D18">
+      <value>BAT54S</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds11005.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C408389</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54S" description="schottky barrier diode"/>
+      <property name="LCSC" value="C408389"/>
+      <property name="Sheetname" value="HALL_OPT_PU"/>
+      <property name="Sheetfile" value="HALL_PU3.kicad_sch"/>
+      <property name="ki_description" value="schottky barrier diode"/>
+      <property name="ki_keywords" value="schottky diode"/>
+      <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
+      <tstamps>a221e0d3-49f5-4e59-8667-a8a5b477028d</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>BAT54S</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds11005.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C408389</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54S" description="schottky barrier diode"/>
+      <property name="LCSC" value="C408389"/>
+      <property name="Sheetname" value="HALL_OPT_PU"/>
+      <property name="Sheetfile" value="HALL_PU3.kicad_sch"/>
+      <property name="ki_description" value="schottky barrier diode"/>
+      <property name="ki_keywords" value="schottky diode"/>
+      <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
+      <tstamps>b8d2de32-d4d0-4b4f-86d0-4fee29e4d690</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>BAT54S</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds11005.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C408389</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54S" description="schottky barrier diode"/>
+      <property name="LCSC" value="C408389"/>
+      <property name="Sheetname" value="HALL_OPT_PU"/>
+      <property name="Sheetfile" value="HALL_PU3.kicad_sch"/>
+      <property name="ki_description" value="schottky barrier diode"/>
+      <property name="ki_keywords" value="schottky diode"/>
+      <sheetpath names="/HALL_OPT_PU/" tstamps="/f47356e8-3d69-412e-a5c7-6fefd0461582/"/>
+      <tstamps>6ed2f055-490b-430d-887b-3fd69fcd2cb4</tstamps>
+    </comp>
     <comp ref="D28">
       <value>PSM712-LF</value>
       <footprint>hellen-one-common:SOT-23</footprint>
@@ -4478,6 +4528,24 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="Diode" part="BAT54S">
+      <description>schottky barrier diode</description>
+      <docs>https://www.diodes.com/assets/Datasheets/ds11005.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAT54S</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/ds11005.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="JDY-33" part="JDY-33">
       <fields>
         <field name="Reference">U</field>
@@ -5036,6 +5104,9 @@
     <library logical="Device">
       <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
     </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
     <library logical="JDY-33">
       <uri>C:\Work\rusefi\github\alphax-4chan/alphax-2chan/JDY-33.kicad_sym</uri>
     </library>
@@ -5444,6 +5515,9 @@
     </net>
     <net code="66" name="/HALL_OPT_PU/+12V_LIM">
       <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="D18" pin="2" pintype="passive"/>
+      <node ref="D19" pin="2" pintype="passive"/>
+      <node ref="D23" pin="2" pintype="passive"/>
       <node ref="D28" pin="1" pintype="passive"/>
       <node ref="Q35" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="Q49" pin="2" pinfunction="D" pintype="passive"/>
@@ -5949,6 +6023,9 @@
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="C8" pin="2" pintype="passive"/>
       <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D18" pin="1" pintype="passive"/>
+      <node ref="D19" pin="1" pintype="passive"/>
+      <node ref="D23" pin="1" pintype="passive"/>
       <node ref="D25" pin="3" pintype="passive"/>
       <node ref="D28" pin="3" pintype="passive"/>
       <node ref="D29" pin="2" pintype="passive"/>
@@ -6331,6 +6408,7 @@
       <node ref="R1129" pin="2" pintype="passive"/>
     </net>
     <net code="223" name="Net-(Q36-D)">
+      <node ref="D18" pin="3" pintype="passive"/>
       <node ref="Q36" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R1131" pin="1" pintype="passive"/>
     </net>
@@ -6346,6 +6424,7 @@
       <node ref="R1127" pin="2" pintype="passive"/>
     </net>
     <net code="226" name="Net-(Q50-D)">
+      <node ref="D19" pin="3" pintype="passive"/>
       <node ref="Q50" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R1136" pin="1" pintype="passive"/>
     </net>
@@ -6365,6 +6444,7 @@
       <node ref="R1140" pin="2" pintype="passive"/>
     </net>
     <net code="230" name="Net-(Q53-D)">
+      <node ref="D23" pin="3" pintype="passive"/>
       <node ref="Q53" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="R1141" pin="1" pintype="passive"/>
     </net>
