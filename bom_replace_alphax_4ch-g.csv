@@ -10,9 +10,6 @@ R131,
 R143, 
 ############# MM SETUP ###############
 
-# STM32 whatever is cheapest would go, right?
-U105,"STM32F407ZGT7","LQFP144","C19156"
-
 # DC-DC Inductor
 L421,"MWSA0503S-100MT","MWSA0503","C408412"
 
