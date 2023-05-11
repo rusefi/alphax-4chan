@@ -10,6 +10,9 @@ R131,
 R143, 
 ############# MM SETUP ###############
 
+# 4chan now prefers F42x for extra RAM
+U105,"STM32F427","LQFP144","C117816"
+
 # DC-DC Inductor
 L421,"MWSA0503S-100MT","MWSA0503","C408412"
 
