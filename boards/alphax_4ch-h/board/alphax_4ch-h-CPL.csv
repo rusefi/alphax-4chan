@@ -59,7 +59,7 @@ Q16,24.3mm,38.157581mm,Bottom,270.0
 Q21,71.85mm,89.0mm,Bottom,270.0
 Q51,23.7mm,72.2375mm,Bottom,90.0
 R3,28.8mm,3.9mm,Bottom,90.0
-R4,60.3mm,78.7mm,Bottom,0.0
+R4,60.3mm,78.7mm,Bottom,180.0
 R6,31.6mm,3.9mm,Bottom,90.0
 R14,27.8mm,35.457581mm,Bottom,0.0
 R21,63.7mm,81.0mm,Bottom,0.0
@@ -224,7 +224,7 @@ R20,24.3mm,39.257581mm,Top,180.0
 R22,37.9mm,69.5mm,Top,270.0
 R30,81.3mm,66.7mm,Top,0.0
 R35,41.1mm,69.5mm,Top,270.0
-R39,67.7mm,90.5mm,Top,180.0
+R39,67.7mm,90.5mm,Top,0.0
 R40,51.7mm,77.1mm,Top,180.0
 R45,68.55mm,83.2375mm,Top,270.0
 R46,5.5mm,51.5mm,Top,0.0
