@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Work\rusefi\github\alphax-4chan\alphax_4ch.kicad_sch</source>
-    <date>5/11/2023 5:44:59 PM</date>
+    <date>5/12/2023 1:27:39 AM</date>
     <tool>Eeschema 7.0.1-115-g2ece2719d0</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -273,34 +273,32 @@
       <tstamps>24ef0a7b-16d3-4032-b718-47e6c0453c60</tstamps>
     </comp>
     <comp ref="C20">
-      <value>~</value>
+      <value>1n 250V</value>
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
-        <field name="MyComment">DNP</field>
+        <field name="LCSC">C277510</field>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="DNP"/>
+      <property name="LCSC" value="C277510"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <property name="ki_description" value="Capacitor"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>fce4b543-094b-4552-942f-6d8805f06aab</tstamps>
+      <tstamps>23c928e9-c887-4d75-a384-1afc38109e2b</tstamps>
     </comp>
     <comp ref="C21">
-      <value>~</value>
+      <value>1n 250V</value>
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
-        <field name="MyComment">DNP</field>
+        <field name="LCSC">C277510</field>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="DNP"/>
+      <property name="LCSC" value="C277510"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <property name="ki_description" value="Capacitor"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>e00dd12c-8e20-4d73-b26c-7d1c932c2487</tstamps>
+      <tstamps>f9d452cd-4e96-4fdb-a615-dbde49249947</tstamps>
     </comp>
     <comp ref="D1">
       <value>1N4148WS</value>
@@ -1045,16 +1043,16 @@
       <value>430451012</value>
       <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43045-1012_2x05_P3.00mm_Vertical</footprint>
       <fields>
-        <field name="LCSC">C239457</field>
+        <field name="LCSV">C239457</field>
       </fields>
-      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="LCSC" value="C239457"/>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Top_Bottom" description="Generic connector, double row, 02x05, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSV" value="C239457"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
-      <property name="ki_description" value="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_description" value="Generic connector, double row, 02x05, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>f01dfc8d-1906-4473-bd11-209411a1dbf9</tstamps>
+      <tstamps>f1645410-7305-4f0c-9893-c0df0ad8b1f9</tstamps>
     </comp>
     <comp ref="J7">
       <value>Conn_01x01</value>
@@ -1207,18 +1205,15 @@
       <tstamps>6cccdadb-52c8-432e-b66f-f2bcd15117a6</tstamps>
     </comp>
     <comp ref="R4">
-      <value>4.7k</value>
+      <value>DNP</value>
       <footprint>hellen-one-common:R0603</footprint>
-      <fields>
-        <field name="LCSC">C23162</field>
-      </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>a0cf5721-b9a7-4b1f-be81-2351948c0ef4</tstamps>
+      <tstamps>9e63738f-4fee-4606-acae-baf08c059680</tstamps>
     </comp>
     <comp ref="R5">
       <value>4.7k</value>
@@ -1432,18 +1427,15 @@
       <tstamps>03d42a6b-ada2-4bb7-928c-6aa31dfe4e1c</tstamps>
     </comp>
     <comp ref="R39">
-      <value>4.7k</value>
+      <value>DNP</value>
       <footprint>hellen-one-common:R0603</footprint>
-      <fields>
-        <field name="LCSC">C23162</field>
-      </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>ad81f4a4-d646-4a1d-ab01-988e9dfb2c39</tstamps>
+      <tstamps>f6b547d1-6950-4e12-b9c5-9e08708f86b2</tstamps>
     </comp>
     <comp ref="R40">
       <value>SMD1206B035TF/16</value>
@@ -4496,6 +4488,30 @@
         <pin num="10" name="Pin_10" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Top_Bottom">
+      <description>Generic connector, double row, 02x05, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Top_Bottom</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="Device" part="C">
       <description>Unpolarized capacitor</description>
       <docs>~</docs>
@@ -5171,8 +5187,8 @@
       <node ref="R1" pin="3" pintype="passive"/>
       <node ref="R1" pin="4" pintype="passive"/>
       <node ref="R13" pin="2" pintype="passive"/>
-      <node ref="R39" pin="1" pintype="passive"/>
-      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
       <node ref="R40" pin="1" pintype="passive"/>
       <node ref="R48" pin="2" pintype="passive"/>
       <node ref="R50" pin="1" pintype="passive"/>
@@ -5577,7 +5593,7 @@
       <node ref="M4" pin="S25" pinfunction="IN_VSS" pintype="passive"/>
       <node ref="R10" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R23" pin="1" pintype="passive"/>
-      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
     </net>
     <net code="78" name="/IN_AFR">
       <node ref="M4" pin="S15" pinfunction="IN_O2S2" pintype="passive"/>
@@ -5590,7 +5606,7 @@
       <node ref="P1" pin="23" pinfunction="C7" pintype="passive"/>
       <node ref="P3" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R21" pin="1" pintype="passive"/>
-      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
     </net>
     <net code="80" name="/IN_CAM_VR">
       <node ref="D33" pin="2" pinfunction="K" pintype="passive"/>
