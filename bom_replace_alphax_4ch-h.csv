@@ -55,4 +55,4 @@ U3,"MPXH6400A","MPXH6400A-SSOP8",""
 R140,"0","R0603x4","C1952"
 
 #include hellen-one/board_id/generated/board_id_alpha4ch-h.csv
-#include bom_pullups_alphax_4ch-g.csv
+#include bom_pullups_alphax_4ch-h.csv
