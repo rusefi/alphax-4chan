@@ -1,0 +1,58 @@
+############# MM SETUP ###############
+# remove +5V pull-ups from SPI1, because we use it with +3.3v accelerometer
+R103,
+R105,
+
+# remove jumper resistor connecting BOOT1 with A22 input line, because we use STM32F4
+R131,
+
+#CAN WAKEUP (disable O2S input)
+R143, 
+############# MM SETUP ###############
+
+# 4chan now prefers F42x for extra RAM
+U105,"STM32F427","LQFP144","C117816"
+
+# DC-DC Inductor
+L421,"MWSA0503S-100MT","MWSA0503","C408412"
+
+# smart MOSFETs
+"Q6,Q7,Q26,Q30,Q41,Q42,Q43,Q44,Q45,Q46,Q47,Q48","VND10N06TR-E","DPAK","C2149912"
+
+#SD Card
+J100,"TF-014-H16","SMD","C2874208"
+
+# fuses
+F410,"nSMD050-24V","SMD1206","C70076"
+"F5,F6","Fuse-5A-1206","SMD1206","C553924"
+"F1,F2,F8,F9,F10,F11","nSMD005","PAD-1206-PAD","C70064"
+
+# TLS115
+U411,"TLS115B0EJXUMA1","PG-DSO-8","C3743696"
+
+# JLC shortage
+R49,"4D03WGF1001T5E","R0603-4","C425239"
+#20MHz crystal
+Y102,"TXM20M0002503LFBEO00T","SMD5032-2P","C362485"
+#SMCJ30A
+D418,"SMCJ30A","SMC","C320561"
+#WakeUP buffer
+U110,"74LVC1G06SE-7","SOT-353","C460519"
+
+# remove R40 because we'll populate TLS115
+R40,
+
+# no software for accelerometer
+U1001,
+
+# no Cortex 5x2 header
+J2,"Cortex_Debug","PinHeader_2x05_P1.27mm_Vertical_SMD",""
+
+# no MAP sensor
+U3,"MPXH6400A","MPXH6400A-SSOP8",""
+
+#D1-D4 0 series
+R140,"0","R0603x4","C1952"
+
+#include hellen-one/board_id/generated/board_id_alpha4ch-i.csv
+#include bom_pullups_alphax_4ch-i.csv
