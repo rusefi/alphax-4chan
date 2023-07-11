@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>C:\Work\rusefi\github\alphax-4chan\alphax_4ch.kicad_sch</source>
-    <date>5/12/2023 1:27:39 AM</date>
-    <tool>Eeschema 7.0.1-115-g2ece2719d0</tool>
+    <date>7/12/2023 12:31:30 AM</date>
+    <tool>Eeschema 7.0.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>AlphaECU 4chan powered by rusEFI</title>
@@ -1043,10 +1043,10 @@
       <value>430451012</value>
       <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43045-1012_2x05_P3.00mm_Vertical</footprint>
       <fields>
-        <field name="LCSV">C239457</field>
+        <field name="LCSC">C239457</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x05_Top_Bottom" description="Generic connector, double row, 02x05, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="LCSV" value="C239457"/>
+      <property name="LCSC" value="C239457"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <property name="ki_description" value="Generic connector, double row, 02x05, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -1135,8 +1135,8 @@
       <tstamps>267598b1-76f7-40a9-b82b-8e57dcd82bc6</tstamps>
     </comp>
     <comp ref="P1">
-      <value>33311-24AW-2</value>
-      <footprint>alphax-2ch:33311-24AW-2</footprint>
+      <value>HCCPHPE24BKA90F</value>
+      <footprint>alphax-4ch:33311-24AW-2</footprint>
       <datasheet>DOCUMENTATION</datasheet>
       <libsource lib="33311-24AW-2" part="33311-24AW-2" description=""/>
       <property name="Sheetname" value=""/>
@@ -1145,8 +1145,8 @@
       <tstamps>795890df-a6bd-4dfa-9f2a-3a4a16e2521d</tstamps>
     </comp>
     <comp ref="P2">
-      <value>33311-24AW-2</value>
-      <footprint>alphax-2ch:33311-24AW-2</footprint>
+      <value>HCCPHPE24BGYB90F</value>
+      <footprint>alphax-4ch:33311-24AW-2</footprint>
       <datasheet>DOCUMENTATION</datasheet>
       <libsource lib="" part="33311-24AW-2_1" description=""/>
       <property name="Sheetname" value=""/>
@@ -1180,10 +1180,10 @@
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603-4</footprint>
       <fields>
-        <field name="LCSC">C1980</field>
+        <field name="LCSC">C66697</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
-      <property name="LCSC" value="C1980"/>
+      <property name="LCSC" value="C66697"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1194,10 +1194,10 @@
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603-4</footprint>
       <fields>
-        <field name="LCSC">C1980</field>
+        <field name="LCSC">C66697</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
-      <property name="LCSC" value="C1980"/>
+      <property name="LCSC" value="C66697"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1219,10 +1219,10 @@
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603-4</footprint>
       <fields>
-        <field name="LCSC">C1980</field>
+        <field name="LCSC">C66697</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
-      <property name="LCSC" value="C1980"/>
+      <property name="LCSC" value="C66697"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1372,7 +1372,7 @@
     </comp>
     <comp ref="R22">
       <value>4.7k</value>
-      <footprint>hellen-one-common:R1206</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17936</field>
       </fields>
@@ -1386,7 +1386,7 @@
     </comp>
     <comp ref="R24">
       <value>4.7k</value>
-      <footprint>hellen-one-common:R1206</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17936</field>
       </fields>
@@ -1400,7 +1400,7 @@
     </comp>
     <comp ref="R35">
       <value>4.7k</value>
-      <footprint>hellen-one-common:R1206</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17936</field>
       </fields>
@@ -1414,7 +1414,7 @@
     </comp>
     <comp ref="R37">
       <value>4.7k</value>
-      <footprint>hellen-one-common:R1206</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17936</field>
       </fields>
@@ -1439,7 +1439,7 @@
     </comp>
     <comp ref="R40">
       <value>SMD1206B035TF/16</value>
-      <footprint>hellen-one-common:R1206</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C269114</field>
         <field name="MyComment">0</field>
@@ -1496,10 +1496,10 @@
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603-4</footprint>
       <fields>
-        <field name="LCSC">C1980</field>
+        <field name="LCSC">C66697</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
-      <property name="LCSC" value="C1980"/>
+      <property name="LCSC" value="C66697"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1510,10 +1510,10 @@
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603-4</footprint>
       <fields>
-        <field name="LCSC">C1980</field>
+        <field name="LCSC">C66697</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
-      <property name="LCSC" value="C1980"/>
+      <property name="LCSC" value="C66697"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="alphax_4ch.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1718,7 +1718,7 @@
     </comp>
     <comp ref="R72">
       <value>4.7k</value>
-      <footprint>hellen-one-common:R1206</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17936</field>
       </fields>
@@ -1732,7 +1732,7 @@
     </comp>
     <comp ref="R73">
       <value>4.7k</value>
-      <footprint>hellen-one-common:R1206</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17936</field>
       </fields>
@@ -3525,10 +3525,10 @@
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>https://www.diodes.com/assets/Datasheets/ds11005.pdf</datasheet>
       <fields>
-        <field name="LCSC">C408389</field>
+        <field name="LCSC">C47546</field>
       </fields>
       <libsource lib="Diode" part="BAT54S" description="schottky barrier diode"/>
-      <property name="LCSC" value="C408389"/>
+      <property name="LCSC" value="C47546"/>
       <property name="Sheetname" value="HALL_OPT_PU"/>
       <property name="Sheetfile" value="HALL_PU3.kicad_sch"/>
       <property name="ki_description" value="schottky barrier diode"/>
@@ -3541,10 +3541,10 @@
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>https://www.diodes.com/assets/Datasheets/ds11005.pdf</datasheet>
       <fields>
-        <field name="LCSC">C408389</field>
+        <field name="LCSC">C47546</field>
       </fields>
       <libsource lib="Diode" part="BAT54S" description="schottky barrier diode"/>
-      <property name="LCSC" value="C408389"/>
+      <property name="LCSC" value="C47546"/>
       <property name="Sheetname" value="HALL_OPT_PU"/>
       <property name="Sheetfile" value="HALL_PU3.kicad_sch"/>
       <property name="ki_description" value="schottky barrier diode"/>
@@ -3557,10 +3557,10 @@
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>https://www.diodes.com/assets/Datasheets/ds11005.pdf</datasheet>
       <fields>
-        <field name="LCSC">C408389</field>
+        <field name="LCSC">C47546</field>
       </fields>
       <libsource lib="Diode" part="BAT54S" description="schottky barrier diode"/>
-      <property name="LCSC" value="C408389"/>
+      <property name="LCSC" value="C47546"/>
       <property name="Sheetname" value="HALL_OPT_PU"/>
       <property name="Sheetfile" value="HALL_PU3.kicad_sch"/>
       <property name="ki_description" value="schottky barrier diode"/>
@@ -3769,7 +3769,7 @@
     </comp>
     <comp ref="R1126">
       <value>2k</value>
-      <footprint>hellen-one-common:R1206</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17944</field>
       </fields>
@@ -3825,7 +3825,7 @@
     </comp>
     <comp ref="R1131">
       <value>2k</value>
-      <footprint>hellen-one-common:R1206</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17944</field>
       </fields>
@@ -3853,7 +3853,7 @@
     </comp>
     <comp ref="R1135">
       <value>2k</value>
-      <footprint>hellen-one-common:R1206</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17944</field>
       </fields>
@@ -3867,7 +3867,7 @@
     </comp>
     <comp ref="R1136">
       <value>2k</value>
-      <footprint>hellen-one-common:R1206</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17944</field>
       </fields>
@@ -3909,7 +3909,7 @@
     </comp>
     <comp ref="R1139">
       <value>2k</value>
-      <footprint>hellen-one-common:R1206</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17944</field>
       </fields>
@@ -3937,7 +3937,7 @@
     </comp>
     <comp ref="R1141">
       <value>2k</value>
-      <footprint>hellen-one-common:R1206</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17944</field>
       </fields>

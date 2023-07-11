@@ -1,4 +1,4 @@
-21732155314674316
+21735648746482255
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90110,6 +90110,13 @@ alphax_qr_code_big
 0
 0
 0
+alphax-4ch
+33311-24AW-2
+
+
+0
+26
+24
 hellen-one-can-0.1
 can
 
@@ -90446,7 +90453,7 @@ mcu
 0
 121
 109
-hellen-one-mega-mcu144-0.3
+hellen-one-mega-mcu144-0.4
 mega-mcu144
 
 
@@ -90689,7 +90696,7 @@ TE_368255-2
 
 
 0
-126
+121
 121
 rusefi_lib
 TE_1318612-1
