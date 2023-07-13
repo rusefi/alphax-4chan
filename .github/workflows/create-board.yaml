@@ -1,15 +1,29 @@
-name: Check All
+name: Create Board
 
 on: [ push, pull_request ]
 
 jobs:
-  build-firmware:
+  create-board:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
         with:
+# MY_REPO_PAT is about accessing private submodules
+# todo: how do we use same script both with and without MY_REPO_PAT? would two conditional versions of 'uses: actions/checkout@v2' be needed?
+# https://stackoverflow.com/questions/72781712/how-to-add-private-git-repo-as-a-submodule-in-another-git-repo:
+#          token: ${{ secrets.MY_REPO_PAT }}
           submodules: recursive
+
+      - name: Install kicad
+        run: |
+          sudo add-apt-repository --yes ppa:kicad/kicad-7.0-releases
+          sudo apt-get install kicad
+          pip install kicad-netlist-reader
+
+#      - name: Generate Gerber Files
+#        run: |
+#          bash hellen-one/kicad/bin/export.sh hellen88bmw
 
       - name: 1. Build Docker
         run: |
@@ -30,9 +44,9 @@ jobs:
           bash hellen-one/bin/gha-commit.sh
 
       - name: Push board files
-        if: ${{env.NOCOMMIT != 'true'}}
+# let's support both newer 'main' and older 'master' repositories
+        if: ${{ github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master') && env.NOCOMMIT != 'true'}}
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ github.token }}
           branch: ${{ steps.extract_branch.outputs.branch }}
-
