@@ -440,7 +440,7 @@
   (symbol (lib_id "hellen-one-common:Cap") (at 144.78 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 01caac17-0a5c-4c65-bb3e-764db1be9e63)
-    (property "Reference" "C?" (at 146.05 81.28 90)
+    (property "Reference" "C53" (at 146.05 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10u" (at 146.05 86.36 90)
@@ -460,7 +460,7 @@
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "C?") (unit 1)
+          (reference "C53") (unit 1)
         )
       )
     )
@@ -472,7 +472,7 @@
     (property "Reference" "#PWR?" (at 118.11 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 118.0592 91.5734 0)
+    (property "Value" "GND" (at 118.11 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 118.11 87.63 0)
@@ -481,14 +481,14 @@
     (property "Datasheet" "" (at 118.11 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 01d8ea53-ac2f-48a0-843e-ceb0a85c64fc))
+    (pin "1" (uuid 19f8b6f1-c6e7-4ea3-8db2-0384faaf78b2))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0171") (unit 1)
         )
       )
     )
@@ -497,7 +497,7 @@
   (symbol (lib_id "hellen-one-common:Cap") (at 118.11 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4373ba54-d792-4bd2-a06f-327a8366ec8f)
-    (property "Reference" "C?" (at 119.38 81.28 90)
+    (property "Reference" "C50" (at 119.38 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10u" (at 119.38 86.36 90)
@@ -517,7 +517,7 @@
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "C?") (unit 1)
+          (reference "C50") (unit 1)
         )
       )
     )
@@ -526,7 +526,7 @@
   (symbol (lib_id "hellen-one-common:Cap") (at 109.22 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 528d0d04-5d91-4eb5-abcf-96f927f78f5a)
-    (property "Reference" "C?" (at 110.49 81.28 90)
+    (property "Reference" "C49" (at 110.49 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10u" (at 110.49 86.36 90)
@@ -546,7 +546,7 @@
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "C?") (unit 1)
+          (reference "C49") (unit 1)
         )
       )
     )
@@ -558,7 +558,7 @@
     (property "Reference" "#PWR?" (at 144.78 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 144.7292 91.5734 0)
+    (property "Value" "GND" (at 144.78 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 144.78 87.63 0)
@@ -567,14 +567,14 @@
     (property "Datasheet" "" (at 144.78 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 966c83c1-762d-4956-bb7d-3ece6b4bb58d))
+    (pin "1" (uuid df7d8cf2-6674-4b7b-a03b-d846932cb21f))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0170") (unit 1)
         )
       )
     )
@@ -586,7 +586,7 @@
     (property "Reference" "#PWR?" (at 91.44 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 91.4908 91.5734 0)
+    (property "Value" "GND" (at 91.44 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 91.44 87.63 0)
@@ -595,14 +595,14 @@
     (property "Datasheet" "" (at 91.44 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b7c3f020-58ff-4e46-baa4-34b5d789b46a))
+    (pin "1" (uuid 6ea244da-c497-499e-9ad0-513ce15cc758))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0167") (unit 1)
         )
       )
     )
@@ -634,7 +634,7 @@
           (reference "R?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "R?") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -646,7 +646,7 @@
     (property "Reference" "#PWR?" (at 127 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 126.9492 91.5734 0)
+    (property "Value" "GND" (at 127 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 127 87.63 0)
@@ -655,14 +655,14 @@
     (property "Datasheet" "" (at 127 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9e99ba69-33d9-4979-af22-5a12e99510a5))
+    (pin "1" (uuid 0c208208-cca3-4f41-829c-05e8be2bf4d0))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0166") (unit 1)
         )
       )
     )
@@ -671,7 +671,7 @@
   (symbol (lib_id "hellen-one-common:Cap") (at 91.44 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 628a9813-7de7-4d2a-8f60-2a80dd49b9bc)
-    (property "Reference" "C?" (at 92.71 81.28 90)
+    (property "Reference" "C47" (at 92.71 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10u" (at 92.71 86.36 90)
@@ -691,7 +691,7 @@
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "C?") (unit 1)
+          (reference "C47") (unit 1)
         )
       )
     )
@@ -712,14 +712,14 @@
     (property "Datasheet" "" (at 203.2 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1d47df2f-78b8-44ef-bff4-34bc709f086f))
+    (pin "1" (uuid fe53d1bc-41e9-438b-809f-42b5ee2d068c))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0162") (unit 1)
         )
       )
     )
@@ -731,7 +731,7 @@
     (property "Reference" "#PWR?" (at 100.33 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 100.3808 91.5734 0)
+    (property "Value" "GND" (at 100.33 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 100.33 87.63 0)
@@ -740,14 +740,14 @@
     (property "Datasheet" "" (at 100.33 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1ae01ec4-eb55-4e58-82f1-9877d875e183))
+    (pin "1" (uuid 43cdf9e5-c0ae-40ac-b803-4363c9777c21))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0173") (unit 1)
         )
       )
     )
@@ -759,7 +759,7 @@
     (property "Reference" "#PWR?" (at 153.67 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 153.6192 91.5734 0)
+    (property "Value" "GND" (at 153.67 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 153.67 87.63 0)
@@ -768,14 +768,14 @@
     (property "Datasheet" "" (at 153.67 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e11a6464-cc25-47d6-83e1-d8dd89490bd4))
+    (pin "1" (uuid 4c807bdd-b6cf-4e7d-89e6-8b76f44e7eb0))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0169") (unit 1)
         )
       )
     )
@@ -784,7 +784,7 @@
   (symbol (lib_id "hellen-one-common:Cap") (at 100.33 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8272e2e9-113d-4a3e-af8d-b341be341085)
-    (property "Reference" "C?" (at 101.6 81.28 90)
+    (property "Reference" "C48" (at 101.6 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10u" (at 101.6 86.36 90)
@@ -804,7 +804,7 @@
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "C?") (unit 1)
+          (reference "C48") (unit 1)
         )
       )
     )
@@ -816,7 +816,7 @@
     (property "Reference" "#PWR?" (at 109.22 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 109.2708 91.5734 0)
+    (property "Value" "GND" (at 109.22 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 109.22 87.63 0)
@@ -825,14 +825,14 @@
     (property "Datasheet" "" (at 109.22 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9e0845fe-99f3-4999-a520-7fc7d48e49e1))
+    (pin "1" (uuid 2bc9c6aa-508f-40f6-a6ae-169b85f5a35f))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0174") (unit 1)
         )
       )
     )
@@ -844,7 +844,7 @@
     (property "Reference" "#PWR?" (at 73.66 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 73.6092 91.5734 0)
+    (property "Value" "GND" (at 73.66 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 73.66 87.63 0)
@@ -853,14 +853,14 @@
     (property "Datasheet" "" (at 73.66 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 96088b93-af91-4071-a45e-b6cc420a62d9))
+    (pin "1" (uuid 22ec09c6-9e40-4650-ac0a-516c930662e4))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0172") (unit 1)
         )
       )
     )
@@ -869,7 +869,7 @@
   (symbol (lib_id "chips:TLE9201SG") (at 198.12 93.98 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8a70b5fe-d1f1-4c0a-a49b-2c68c8198cb5)
-    (property "Reference" "U?" (at 193.04 90.17 0)
+    (property "Reference" "U7" (at 193.04 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TLE9201SG" (at 193.04 92.71 0)
@@ -900,7 +900,7 @@
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "U?") (unit 1)
+          (reference "U7") (unit 1)
         )
       )
     )
@@ -909,7 +909,7 @@
   (symbol (lib_id "hellen-one-common:Cap") (at 73.66 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8c6fd1fe-9fd4-4403-830a-a8fc4f432631)
-    (property "Reference" "C?" (at 74.93 81.28 90)
+    (property "Reference" "C45" (at 74.93 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10u" (at 74.93 86.36 90)
@@ -929,7 +929,7 @@
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "C?") (unit 1)
+          (reference "C45") (unit 1)
         )
       )
     )
@@ -938,7 +938,7 @@
   (symbol (lib_id "hellen-one-common:Cap") (at 162.56 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8deea5f7-2262-4b2c-9f4c-6bffb9cffe54)
-    (property "Reference" "C?" (at 163.83 81.28 90)
+    (property "Reference" "C55" (at 163.83 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100n" (at 163.83 86.36 90)
@@ -958,7 +958,7 @@
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "C?") (unit 1)
+          (reference "C55") (unit 1)
         )
       )
     )
@@ -967,7 +967,7 @@
   (symbol (lib_id "hellen-one-common:Cap") (at 153.67 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 93efdc3b-a12d-4978-a503-c4ae6fecb9f8)
-    (property "Reference" "C?" (at 154.94 81.28 90)
+    (property "Reference" "C54" (at 154.94 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10u" (at 154.94 86.36 90)
@@ -987,7 +987,7 @@
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "C?") (unit 1)
+          (reference "C54") (unit 1)
         )
       )
     )
@@ -999,7 +999,7 @@
     (property "Reference" "#PWR?" (at 175.26 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 175.26 120.1325 0)
+    (property "Value" "GND" (at 175.26 119.38 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 175.26 115.57 0)
@@ -1008,14 +1008,14 @@
     (property "Datasheet" "" (at 175.26 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7c184ad1-b34e-4cd0-b257-f56b57a0ad17))
+    (pin "1" (uuid e29a611b-4557-430b-9873-a536b7e45826))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0164") (unit 1)
         )
       )
     )
@@ -1024,7 +1024,7 @@
   (symbol (lib_id "hellen-one-common:Cap") (at 135.89 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 96f9948a-e6e1-4357-a71b-200968a3d3fd)
-    (property "Reference" "C?" (at 137.16 81.28 90)
+    (property "Reference" "C52" (at 137.16 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10u" (at 137.16 86.36 90)
@@ -1044,7 +1044,7 @@
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "C?") (unit 1)
+          (reference "C52") (unit 1)
         )
       )
     )
@@ -1053,7 +1053,7 @@
   (symbol (lib_id "hellen-one-common:Cap") (at 127 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b8958550-ab0e-4ff1-9ac3-15075a9550cf)
-    (property "Reference" "C?" (at 128.27 81.28 90)
+    (property "Reference" "C51" (at 128.27 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10u" (at 128.27 86.36 90)
@@ -1073,7 +1073,7 @@
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "C?") (unit 1)
+          (reference "C51") (unit 1)
         )
       )
     )
@@ -1085,7 +1085,7 @@
     (property "Reference" "#PWR?" (at 175.26 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 175.26 84.3375 0)
+    (property "Value" "GND" (at 175.26 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 175.26 88.9 0)
@@ -1094,14 +1094,14 @@
     (property "Datasheet" "" (at 175.26 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 759e3cf4-5fbd-4aac-aaf3-ca0911006a40))
+    (pin "1" (uuid 30362984-c2f0-4ada-b151-9187d688080f))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0161") (unit 1)
         )
       )
     )
@@ -1113,7 +1113,7 @@
     (property "Reference" "#PWR?" (at 182.88 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 182.88 126.4825 0)
+    (property "Value" "GND" (at 182.88 125.73 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 182.88 121.92 0)
@@ -1122,14 +1122,14 @@
     (property "Datasheet" "" (at 182.88 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ba2b720f-f388-4969-9965-60b613cf38c5))
+    (pin "1" (uuid 4cc94ee7-bcd9-46ea-8b47-a8462dd460c4))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0163") (unit 1)
         )
       )
     )
@@ -1141,7 +1141,7 @@
     (property "Reference" "#PWR?" (at 162.56 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 162.5092 91.5734 0)
+    (property "Value" "GND" (at 162.56 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 162.56 87.63 0)
@@ -1150,14 +1150,14 @@
     (property "Datasheet" "" (at 162.56 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8c2d28f5-f15c-4918-ac3f-9ba83d4ee56c))
+    (pin "1" (uuid ce6b2baf-a4d8-4d36-a0bd-2ccdefa0fe3f))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0160") (unit 1)
         )
       )
     )
@@ -1166,7 +1166,7 @@
   (symbol (lib_id "hellen-one-common:Cap") (at 82.55 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f382b631-1024-45bb-b0c5-28c8ba64e33b)
-    (property "Reference" "C?" (at 83.82 81.28 90)
+    (property "Reference" "C46" (at 83.82 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10u" (at 83.82 86.36 90)
@@ -1186,7 +1186,7 @@
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "C?") (unit 1)
+          (reference "C46") (unit 1)
         )
       )
     )
@@ -1198,7 +1198,7 @@
     (property "Reference" "#PWR?" (at 82.55 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 82.4992 91.5734 0)
+    (property "Value" "GND" (at 82.55 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 82.55 87.63 0)
@@ -1207,14 +1207,14 @@
     (property "Datasheet" "" (at 82.55 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2ac794e3-be89-4d78-9e98-46ccabde69e6))
+    (pin "1" (uuid 2140f6c1-adcb-4cfa-8938-23ea9a784a5e))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0168") (unit 1)
         )
       )
     )
@@ -1246,7 +1246,7 @@
           (reference "C?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "C?") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -1278,7 +1278,7 @@
           (reference "C?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "C?") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -1290,7 +1290,7 @@
     (property "Reference" "#PWR?" (at 135.89 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 135.8392 91.5734 0)
+    (property "Value" "GND" (at 135.89 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 135.89 87.63 0)
@@ -1299,14 +1299,14 @@
     (property "Datasheet" "" (at 135.89 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ded9703f-3b86-4285-b023-6a030b60694a))
+    (pin "1" (uuid 2c339a63-8d82-4f75-95fb-912bbb416d0e))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR?") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9d5f2373-d6e9-40ca-9362-36e5ef659bc6"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0165") (unit 1)
         )
       )
     )

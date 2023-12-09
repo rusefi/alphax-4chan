@@ -234,14 +234,14 @@
     (property "Datasheet" "" (at 149.86 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 574f092f-110b-4e3c-86a2-a0dc072cd9f7))
+    (pin "1" (uuid 51e52112-05b9-4b53-8dd1-2d024f99ae2f))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR035") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/25155a6a-b730-4539-b065-c798d1d9d962"
-          (reference "#PWR093") (unit 1)
+          (reference "#PWR0151") (unit 1)
         )
       )
     )
@@ -328,14 +328,14 @@
     (property "Datasheet" "" (at 149.86 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 435e60cf-47bc-49d5-bab9-fa504dc492a0))
+    (pin "1" (uuid 278ea477-7842-40cc-9474-231678083a4a))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR035") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/25155a6a-b730-4539-b065-c798d1d9d962"
-          (reference "#PWR091") (unit 1)
+          (reference "#PWR0143") (unit 1)
         )
       )
     )
@@ -453,14 +453,14 @@
     (property "Datasheet" "" (at 132.08 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a0340825-442b-4e00-b9e1-c17a5accb3bc))
+    (pin "1" (uuid f25d89b3-50c1-4d35-8dc4-e542397048f2))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR0139") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/25155a6a-b730-4539-b065-c798d1d9d962"
-          (reference "#PWR088") (unit 1)
+          (reference "#PWR0147") (unit 1)
         )
       )
     )
@@ -513,14 +513,14 @@
     (property "Datasheet" "" (at 149.86 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2dfe1ec0-6c52-476e-bbb0-27f298591a1d))
+    (pin "1" (uuid a4dd3db3-4c3c-41aa-8d3a-483a56ba7ba6))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR035") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/25155a6a-b730-4539-b065-c798d1d9d962"
-          (reference "#PWR092") (unit 1)
+          (reference "#PWR0149") (unit 1)
         )
       )
     )
@@ -541,14 +541,14 @@
     (property "Datasheet" "" (at 132.08 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 941479e1-6076-44ed-8479-784ec74dbbe8))
+    (pin "1" (uuid 17169555-8f71-4760-8c6f-8c62e5f0f67e))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR036") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/25155a6a-b730-4539-b065-c798d1d9d962"
-          (reference "#PWR087") (unit 1)
+          (reference "#PWR0148") (unit 1)
         )
       )
     )
@@ -569,14 +569,14 @@
     (property "Datasheet" "" (at 132.08 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bfc8b3d5-1e0a-4ebd-b20d-24fae1ba6fde))
+    (pin "1" (uuid ad7b1f2a-0122-4ca1-8564-70b90e755490))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR035") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/25155a6a-b730-4539-b065-c798d1d9d962"
-          (reference "#PWR086") (unit 1)
+          (reference "#PWR0146") (unit 1)
         )
       )
     )
@@ -597,14 +597,14 @@
     (property "Datasheet" "" (at 149.86 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 420384ef-afe4-402a-833d-c81f99999ed2))
+    (pin "1" (uuid 0b4e6e3b-bfca-462b-b26d-1268c0855ea1))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR035") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/25155a6a-b730-4539-b065-c798d1d9d962"
-          (reference "#PWR094") (unit 1)
+          (reference "#PWR0144") (unit 1)
         )
       )
     )
@@ -648,7 +648,7 @@
     (property "Reference" "#PWR0143" (at 132.08 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 129.54 128.27 0)
+    (property "Value" "GND" (at 132.08 128.27 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 132.08 124.46 0)
@@ -657,14 +657,14 @@
     (property "Datasheet" "" (at 132.08 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ac224a60-e573-42f8-a71a-1e6e50cba1e8))
+    (pin "1" (uuid e52e5945-2949-49d0-9af4-51340cee5455))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR0143") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/25155a6a-b730-4539-b065-c798d1d9d962"
-          (reference "#PWR090") (unit 1)
+          (reference "#PWR0145") (unit 1)
         )
       )
     )

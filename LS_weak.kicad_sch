@@ -5,159 +5,6 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "Power_Management:PSM712" (in_bom yes) (on_board yes)
-      (property "Reference" "D?" (at 3.302 0.9085 0)
-        (effects (font (size 1.27 1.27)) (justify left))
-      )
-      (property "Value" "PSM712" (at 3.302 -1.8666 0)
-        (effects (font (size 1.27 1.27)) (justify left))
-      )
-      (property "Footprint" "hellen-one-common:SOT-23" (at -0.254 -6.096 0)
-        (effects (font (size 1.27 1.27) italic) hide)
-      )
-      (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811061632_ProTek-Devices-PSM712-LF-T7_C32677.pdf" (at -2.54 -4.826 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "LCSC" "C32677" (at -9.398 -7.874 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_keywords" "TVS" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_description" "19V 13.3V 12V Bi-Directional SOT-23(SOT-23-3) TVS" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_fp_filters" "SOT?223*" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (symbol "PSM712_0_0"
-        (text "12" (at -2.286 2.54 0)
-          (effects (font (size 1.27 1.27)))
-        )
-        (text "7" (at -2.286 -1.016 0)
-          (effects (font (size 1.27 1.27)))
-        )
-      )
-      (symbol "PSM712_0_1"
-        (rectangle (start -7.62 5.08) (end 2.54 -5.08)
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy -4.826 5.08)
-            (xy -4.826 -3.048)
-            (xy -2.286 -3.048)
-          )
-          (stroke (width 0.1524) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -6.096 3.302)
-            (xy -5.842 3.556)
-            (xy -3.81 3.556)
-            (xy -3.556 3.81)
-          )
-          (stroke (width 0.1524) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -4.826 -1.778)
-            (xy -3.81 0)
-            (xy -5.842 0)
-            (xy -4.826 -1.778)
-          )
-          (stroke (width 0.1524) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -4.826 3.556)
-            (xy -5.842 1.778)
-            (xy -3.81 1.778)
-            (xy -4.826 3.556)
-          )
-          (stroke (width 0.1524) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -3.556 -1.524)
-            (xy -3.81 -1.778)
-            (xy -5.842 -1.778)
-            (xy -6.096 -2.032)
-          )
-          (stroke (width 0.1524) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -1.016 3.302)
-            (xy -0.762 3.556)
-            (xy 1.27 3.556)
-            (xy 1.524 3.81)
-          )
-          (stroke (width 0.1524) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 0.254 -1.778)
-            (xy 1.27 0)
-            (xy -0.762 0)
-            (xy 0.254 -1.778)
-          )
-          (stroke (width 0.1524) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 0.254 3.556)
-            (xy -0.762 1.778)
-            (xy 1.27 1.778)
-            (xy 0.254 3.556)
-          )
-          (stroke (width 0.1524) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 0.254 5.08)
-            (xy 0.254 -3.048)
-            (xy -2.286 -3.048)
-            (xy -2.286 -5.08)
-          )
-          (stroke (width 0.1524) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 1.524 -1.524)
-            (xy 1.27 -1.778)
-            (xy -0.762 -1.778)
-            (xy -1.016 -2.032)
-          )
-          (stroke (width 0.1524) (type default))
-          (fill (type none))
-        )
-      )
-      (symbol "PSM712_1_1"
-        (pin passive line (at -4.826 7.62 270) (length 2.54)
-          (name "" (effects (font (size 1.27 1.27))))
-          (number "1" (effects (font (size 1.27 1.27))))
-        )
-        (pin passive line (at 0.254 7.62 270) (length 2.54)
-          (name "" (effects (font (size 1.27 1.27))))
-          (number "2" (effects (font (size 1.27 1.27))))
-        )
-        (pin passive line (at -2.286 -7.62 90) (length 2.54)
-          (name "" (effects (font (size 1.27 1.27))))
-          (number "3" (effects (font (size 1.27 1.27))))
-        )
-      )
-    )
     (symbol "hellen-one-common:+12V_RAW" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -402,6 +249,159 @@
         )
         (pin passive line (at 2.54 -5.08 90) (length 2.54)
           (name "S" (effects (font (size 1.27 1.27))))
+          (number "3" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
+    (symbol "hellen-one-common:PSM712" (in_bom yes) (on_board yes)
+      (property "Reference" "D?" (at 3.302 0.9085 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Value" "PSM712" (at 3.302 -1.8666 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Footprint" "hellen-one-common:SOT-23" (at -0.254 -6.096 0)
+        (effects (font (size 1.27 1.27) italic) hide)
+      )
+      (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811061632_ProTek-Devices-PSM712-LF-T7_C32677.pdf" (at -2.54 -4.826 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "LCSC" "C32677" (at -9.398 -7.874 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "TVS" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "19V 13.3V 12V Bi-Directional SOT-23(SOT-23-3) TVS" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_fp_filters" "SOT?223*" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "PSM712_0_0"
+        (text "12" (at -2.286 2.54 0)
+          (effects (font (size 1.27 1.27)))
+        )
+        (text "7" (at -2.286 -1.016 0)
+          (effects (font (size 1.27 1.27)))
+        )
+      )
+      (symbol "PSM712_0_1"
+        (rectangle (start -7.62 5.08) (end 2.54 -5.08)
+          (stroke (width 0.254) (type default))
+          (fill (type background))
+        )
+        (polyline
+          (pts
+            (xy -4.826 5.08)
+            (xy -4.826 -3.048)
+            (xy -2.286 -3.048)
+          )
+          (stroke (width 0.1524) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -6.096 3.302)
+            (xy -5.842 3.556)
+            (xy -3.81 3.556)
+            (xy -3.556 3.81)
+          )
+          (stroke (width 0.1524) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -4.826 -1.778)
+            (xy -3.81 0)
+            (xy -5.842 0)
+            (xy -4.826 -1.778)
+          )
+          (stroke (width 0.1524) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -4.826 3.556)
+            (xy -5.842 1.778)
+            (xy -3.81 1.778)
+            (xy -4.826 3.556)
+          )
+          (stroke (width 0.1524) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -3.556 -1.524)
+            (xy -3.81 -1.778)
+            (xy -5.842 -1.778)
+            (xy -6.096 -2.032)
+          )
+          (stroke (width 0.1524) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.016 3.302)
+            (xy -0.762 3.556)
+            (xy 1.27 3.556)
+            (xy 1.524 3.81)
+          )
+          (stroke (width 0.1524) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0.254 -1.778)
+            (xy 1.27 0)
+            (xy -0.762 0)
+            (xy 0.254 -1.778)
+          )
+          (stroke (width 0.1524) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0.254 3.556)
+            (xy -0.762 1.778)
+            (xy 1.27 1.778)
+            (xy 0.254 3.556)
+          )
+          (stroke (width 0.1524) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0.254 5.08)
+            (xy 0.254 -3.048)
+            (xy -2.286 -3.048)
+            (xy -2.286 -5.08)
+          )
+          (stroke (width 0.1524) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.524 -1.524)
+            (xy 1.27 -1.778)
+            (xy -0.762 -1.778)
+            (xy -1.016 -2.032)
+          )
+          (stroke (width 0.1524) (type default))
+          (fill (type none))
+        )
+      )
+      (symbol "PSM712_1_1"
+        (pin passive line (at -4.826 7.62 270) (length 2.54)
+          (name "" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 0.254 7.62 270) (length 2.54)
+          (name "" (effects (font (size 1.27 1.27))))
+          (number "2" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at -2.286 -7.62 90) (length 2.54)
+          (name "" (effects (font (size 1.27 1.27))))
           (number "3" (effects (font (size 1.27 1.27))))
         )
       )
@@ -655,14 +655,14 @@
     (property "Datasheet" "" (at 130.81 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 179274fe-707d-46d0-afb0-d1a3c282a266))
+    (pin "1" (uuid 2ac1de35-22ce-4919-98b4-165b9eeea1ea))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR0140") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0139") (unit 1)
+          (reference "#PWR0184") (unit 1)
         )
       )
     )
@@ -715,7 +715,7 @@
     (property "Datasheet" "" (at 166.37 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6ed5a7ff-704d-4bf1-b8c5-ef693d253e9e))
+    (pin "1" (uuid d2d9ebb0-05d6-4a2c-adcb-7f7c363e4083))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
@@ -731,7 +731,7 @@
           (reference "#PWR0205") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0145") (unit 1)
+          (reference "#PWR0200") (unit 1)
         )
       )
     )
@@ -752,14 +752,14 @@
     (property "Datasheet" "" (at 149.86 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c97c46e2-35c7-44c9-ad72-311f9e3c9d09))
+    (pin "1" (uuid a39cbc03-72aa-4a2c-9881-d2b50a6d6f51))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR0122") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0141") (unit 1)
+          (reference "#PWR0199") (unit 1)
         )
       )
     )
@@ -862,14 +862,14 @@
     (property "Datasheet" "" (at 149.86 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1adce343-abc7-456d-b9fd-e4344632d3e1))
+    (pin "1" (uuid eae527b5-e548-4806-8b12-039ffde685b3))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR042") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0142") (unit 1)
+          (reference "#PWR0198") (unit 1)
         )
       )
     )
@@ -955,14 +955,44 @@
     (property "Datasheet" "" (at 149.86 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6f572164-597c-4934-ad42-a456f7e68d78))
+    (pin "1" (uuid 3a3b8b61-7458-4a44-8631-d4ad70ce0af8))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR0123") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0144") (unit 1)
+          (reference "#PWR0195") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "hellen-one-common:PSM712") (at 130.556 163.83 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 84e2d201-9920-4057-ba93-cfd6e36d3881)
+    (property "Reference" "D29" (at 134.366 162.56 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "PSM712" (at 134.366 165.1 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "hellen-one-common:SOT-23" (at 130.302 169.926 0)
+      (effects (font (size 1.27 1.27) italic) hide)
+    )
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811061632_ProTek-Devices-PSM712-LF-T7_C32677.pdf" (at 128.016 168.656 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "C32677" (at 121.158 171.704 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 400dfbd7-1848-42d2-8dac-d17ac4e59deb))
+    (pin "2" (uuid d10bb307-28d9-493e-9840-9a07debe5b67))
+    (pin "3" (uuid 144320d3-a717-4951-bbbb-e362220a5945))
+    (instances
+      (project "alphax_4ch"
+        (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
+          (reference "D29") (unit 1)
         )
       )
     )
@@ -1016,7 +1046,7 @@
     (property "Datasheet" "" (at 166.37 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bf23dfe8-36f5-4af9-a877-3dcd9f1b70b0))
+    (pin "1" (uuid 48a6697d-ff5d-4aa1-a5a3-0f79737ae731))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
@@ -1032,7 +1062,7 @@
           (reference "#PWR0205") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0147") (unit 1)
+          (reference "#PWR0183") (unit 1)
         )
       )
     )
@@ -1118,7 +1148,7 @@
     (property "Datasheet" "" (at 166.37 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5f2c09e1-2b19-4ada-95c9-c894c7198502))
+    (pin "1" (uuid 413c8e85-004f-4fd7-8890-f8ecddc0bd60))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
@@ -1134,40 +1164,7 @@
           (reference "#PWR0205") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0146") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Power_Management:PSM712") (at 130.556 163.83 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid ad3d4148-6e3f-4c2f-88c3-84862d49504c)
-    (property "Reference" "D49" (at 133.858 162.9215 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "PSM712-LF" (at 133.858 165.6966 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "hellen-one-common:SOT-23" (at 130.302 169.926 0)
-      (effects (font (size 1.27 1.27) italic) hide)
-    )
-    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811061632_ProTek-Devices-PSM712-LF-T7_C32677.pdf" (at 128.016 168.656 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "LCSC" "C32677" (at 121.158 171.704 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 05d32898-4e3f-4b49-ae87-d4fbbbaa5ed3))
-    (pin "2" (uuid 8a2545ce-21c3-42a7-9037-868ae5cb3994))
-    (pin "3" (uuid 4ca16454-cc6f-4de3-a196-daff5cb0dc31))
-    (instances
-      (project "alphax_4ch"
-        (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
-          (reference "D49") (unit 1)
-        )
-        (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "D29") (unit 1)
+          (reference "#PWR0194") (unit 1)
         )
       )
     )
@@ -1216,14 +1213,14 @@
     (property "Datasheet" "" (at 149.86 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 356bd572-2c5d-4c74-8e56-e1815967f583))
+    (pin "1" (uuid a434b959-df1b-43e3-b809-6f8fa46ea80b))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
           (reference "#PWR053") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0143") (unit 1)
+          (reference "#PWR0197") (unit 1)
         )
       )
     )
@@ -1244,7 +1241,7 @@
     (property "Datasheet" "" (at 166.37 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a0ee8e24-84ae-49de-b103-7d74ac6d65e2))
+    (pin "1" (uuid 28a11d88-889f-4013-89b7-e7c5f1af6f66))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
@@ -1260,7 +1257,7 @@
           (reference "#PWR0205") (unit 1)
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/d86ecd12-d50a-4fcf-baad-7cff6bac9c13"
-          (reference "#PWR0148") (unit 1)
+          (reference "#PWR0196") (unit 1)
         )
       )
     )
