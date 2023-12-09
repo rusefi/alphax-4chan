@@ -52,6 +52,7 @@ D69,7.5mm,35.0mm,Bottom,90.0
 D70,24.495mm,83.525mm,Bottom,90.0
 D71,60.02mm,83.7mm,Bottom,90.0
 D72,63.7mm,88.8mm,Bottom,180.0
+G1,3.7mm,72.9mm,Bottom,90.0
 G3,37.8mm,38.8mm,Bottom,90.0
 G7,24.7mm,52.0mm,Bottom,180.0
 Q1,42.3mm,73.9mm,Bottom,0.0
@@ -176,7 +177,6 @@ F8,39.6mm,94.849979mm,Top,270.0
 F9,35.35mm,94.899979mm,Top,270.0
 F10,20.84mm,35.7mm,Top,90.0
 F11,20.84mm,44.0mm,Top,90.0
-G1,38.479669mm,33.557327mm,Top,0.0
 J1,29.9mm,3.815mm,Top,0.0
 J2,39.4mm,4.3mm,Top,270.0
 J5,27.0mm,11.9mm,Top,0.0
