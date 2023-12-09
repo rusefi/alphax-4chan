@@ -43,7 +43,13 @@ U110,"74LVC1G06SE-7","SOT-353","C460519"
 R40,
 
 # no software for accelerometer
-U1001,
+U106,
+
+#aux connector
+J6,"430451012","02x05","C277725"
+
+#mux
+"U755,U756,U270,U275,U280,U285,U755_2,U756_2","WAS3157B-6","SOT-363","C213161"
 
 # no Cortex 5x2 header
 J2,"Cortex_Debug","PinHeader_2x05_P1.27mm_Vertical_SMD",""
