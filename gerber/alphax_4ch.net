@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/alphax-4chan/alphax-4chan/alphax_4ch.kicad_sch</source>
-    <date>Sat Dec  9 02:40:03 2023</date>
+    <date>Sat Dec  9 02:51:09 2023</date>
     <tool>Eeschema 7.0.9-7.0.9~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -2576,7 +2576,7 @@
       <tstamps>a95c3eb6-f393-4fbc-9f7d-492097ce4378</tstamps>
     </comp>
     <comp ref="D29">
-      <value>PSM712</value>
+      <value>PSM712-LF</value>
       <footprint>hellen-one-common:SOT-23</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/1811061632_ProTek-Devices-PSM712-LF-T7_C32677.pdf</datasheet>
       <fields>
