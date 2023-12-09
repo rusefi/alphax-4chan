@@ -42,6 +42,9 @@ U110,"74LVC1G06SE-7","SOT-353","C460519"
 # remove R40 because we'll populate TLS115
 R40,
 
+#board ID capacitor shortage
+C133,"1u","C0603","C519559"
+
 # no software for accelerometer
 U106,
 
