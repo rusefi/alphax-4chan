@@ -2619,6 +2619,10 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 35f839b6-5df4-474c-9f65-e4178112a4f9)
   )
+  (hierarchical_label "IN_VMAIN" (shape input) (at 97.79 212.09 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 3a2a0d08-29e2-4c13-92c3-a168a70c31d2)
+  )
   (hierarchical_label "2STEP_PULLUP" (shape output) (at 97.79 163.83 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 49979b03-de5c-4b9b-92bc-6f4c9f51938e)
@@ -3018,12 +3022,12 @@
     (pin "1" (uuid 53ba0355-afeb-4dde-970e-83cba540ff70))
     (pin "12" (uuid b7f5053b-28c3-4d81-afbc-eb1f9fe4d1ec))
     (pin "13" (uuid 641083d2-a517-48f8-ab00-d144b3462265))
+    (pin "15" (uuid ad8795cb-e788-461f-b503-859f8d4f6ecc))
+    (pin "16" (uuid cad2bd97-9f66-4d21-99ef-c752f2c8dc6a))
+    (pin "17" (uuid c4e12ff5-8c60-45e7-91a0-e189ea600dc3))
     (pin "2" (uuid 37cdf33d-6f01-4b09-ac70-0b67313158eb))
     (pin "5" (uuid a0717ebb-c417-46c6-8386-ae23690690de))
     (pin "6" (uuid de8616d1-0503-45ec-be39-856c6aa16148))
-    (pin "16" (uuid cad2bd97-9f66-4d21-99ef-c752f2c8dc6a))
-    (pin "17" (uuid c4e12ff5-8c60-45e7-91a0-e189ea600dc3))
-    (pin "15" (uuid ad8795cb-e788-461f-b503-859f8d4f6ecc))
     (instances
       (project "alphax_4ch"
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
@@ -3707,34 +3711,6 @@
         )
         (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/c3470145-cca5-462e-8136-3f6ead667763"
           (reference "P22") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "hellen-one-common:Pad") (at 92.71 212.09 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 9c39d02b-a4be-40e6-8f23-c1124357b6cf)
-    (property "Reference" "P11" (at 90.17 212.0899 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "Pad" (at 92.71 214.63 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Footprint" "hellen-one-common:PAD-TH" (at 92.71 215.9 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 92.71 212.09 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid c7cb42a2-9d1f-485d-b448-0c0215aa719e))
-    (instances
-      (project "alphax_4ch"
-        (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
-          (reference "P11") (unit 1)
-        )
-        (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/c3470145-cca5-462e-8136-3f6ead667763"
-          (reference "P20") (unit 1)
         )
       )
     )
