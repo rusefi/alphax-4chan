@@ -78,6 +78,7 @@ R12,75.1mm,72.2mm,Bottom,90.0
 R14,27.8mm,35.457581mm,Bottom,0.0
 R15,71.3mm,67.6mm,Bottom,180.0
 R16,80.6mm,65.3mm,Bottom,180.0
+R17,53.1mm,97.2mm,Bottom,180.0
 R19,85.8mm,96.1625mm,Bottom,90.0
 R21,82.4mm,50.0mm,Bottom,90.0
 R23,80.1mm,50.0mm,Bottom,90.0
@@ -103,6 +104,7 @@ R53,76.0mm,90.1mm,Bottom,180.0
 R54,76.0mm,88.6mm,Bottom,0.0
 R55,87.5mm,88.8mm,Bottom,0.0
 R57,79.4mm,85.5mm,Bottom,270.0
+R58,48.8mm,97.2mm,Bottom,0.0
 R73,30.2mm,69.5mm,Bottom,90.0
 R78,13.1mm,73.7mm,Bottom,180.0
 R79,20.1mm,73.7mm,Bottom,180.0
@@ -188,7 +190,6 @@ P16,89.1mm,22.8mm,Top,270.0
 P17,89.1mm,25.8mm,Top,270.0
 P18,89.1mm,39.7mm,Top,270.0
 P19,41.9mm,11.2mm,Top,0.0
-P20,89.1mm,42.7mm,Top,270.0
 P21,50.9mm,1.0mm,Top,270.0
 P22,55.4mm,1.0mm,Top,270.0
 P23,59.9mm,1.0mm,Top,270.0
