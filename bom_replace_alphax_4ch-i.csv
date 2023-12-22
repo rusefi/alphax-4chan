@@ -65,5 +65,8 @@ U3,"MPXH6400A","MPXH6400A-SSOP8",""
 #D1-D4 0 series
 R140,"0","R0603x4","C1952"
 
+# black main connector
+P1,"HCCPHPE24BKA90F","33311-24AW-2","C5349068"
+
 #include hellen-one/board_id/generated/board_id_alpha4ch-i.csv
 #include bom_pullups_alphax_4ch-i.csv
