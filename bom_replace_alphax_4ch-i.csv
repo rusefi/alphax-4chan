@@ -68,6 +68,9 @@ J2,"Cortex_Debug","PinHeader_2x05_P1.27mm_Vertical_SMD",""
 # with MAP sensor
 U3,"MPXH6400A","MPXH6400A-SSOP8","C511770"
 
+# shortage
+"R49","4D03WGF1001T5E","R0603-4","C110021"
+
 #D1-D4 0 series
 R140,"0","R0603x4","C1952"
 
