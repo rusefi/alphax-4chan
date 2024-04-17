@@ -7,6 +7,6 @@ on:
 
 jobs:
   call-workflow-passing-data:
-    uses: andreika-git/hellen-one/.github/workflows/custom-board-update-hellen-one-reference.yaml@master
+    uses: andreika-git/hellen-one/.github/workflows/custom-board-update-hellen-one-reference.yaml@kicad8
     permissions:
       contents: write
